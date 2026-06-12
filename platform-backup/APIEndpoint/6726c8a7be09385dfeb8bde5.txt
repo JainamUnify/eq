@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6726c88f0fb3a70ea8dc2e2b",
+	"createdTime":1730594983655,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"gyhbalaiki/FTMpFGEdea/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6726c8a7be09385dfeb8bde5",
+	"lastModifiedBy":39,
+	"lcName":"cpceukulkisapctwgsje",
+	"modifiedTime":1730594984360,
+	"name":"CpCeUKulkISapCtwgSjE",
+	"ownerUserId":39,
+	"path":"FTMpFGEdea/{name}/{age}",
+	"resourceIds":[
+		"667a7bed543cd2029ca54582"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
