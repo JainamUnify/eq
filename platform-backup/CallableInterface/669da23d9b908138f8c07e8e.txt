@@ -1,0 +1,23 @@
+{
+	"createdTime":1721606717253,
+	"deleted":false,
+	"description":"irTTZlTayY",
+	"id":"669da23d9b908138f8c07e8e",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"lastModifiedBy":39,
+	"lcName":"dyszaratwb",
+	"modifiedTime":1721606719054,
+	"name":"dySZARATwB",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
