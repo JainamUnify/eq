@@ -1,0 +1,23 @@
+{
+	"createdTime":1722587177702,
+	"deleted":false,
+	"description":"DjiYaTmDnC",
+	"id":"66ac982956d8537e8d20ecf3",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"lastModifiedBy":39,
+	"lcName":"mxywmqqkmo",
+	"modifiedTime":1722587179424,
+	"name":"mxyWmQQKmo",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
