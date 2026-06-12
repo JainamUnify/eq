@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a5c0324479cf745e2c3a73",
+	"createdTime":1755693124471,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"getheUpcORCBP/iURpnBDMaLinePCBjpHh",
+	"id":"68a5c0444479cf745e2c3b2e",
+	"lastModifiedBy":39,
+	"lcName":"iurpnbdmalinepcbjphh",
+	"modifiedTime":1755693158588,
+	"name":"iURpnBDMaLinePCBjpHh",
+	"ownerUserId":39,
+	"path":"iURpnBDMaLinePCBjpHh",
+	"resourceIds":[
+		"6875e579dc9c1ab50116f117"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
