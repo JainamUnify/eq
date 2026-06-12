@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760553773923,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_HwiFX",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_4FOoo",
+			"type":"next"
+		}
+	],
+	"id":"68efeb2d12ec8859ca256622",
+	"lastModifiedBy":39,
+	"lcName":"formula_suggestion_datapill_suggestion-117605514176850",
+	"modifiedTime":1760553797977,
+	"name":"formula_suggestion_datapill_suggestion-117605514176850",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_HwiFX-1",
+			"id":"_HwiFX",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_HwiFX-1",
+			"id":"_4FOoo",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
