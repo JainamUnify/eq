@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1754388430904,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_AWdTi",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_o9SM0",
+			"type":"next"
+		}
+	],
+	"id":"6891d7ce7c09af8d2e6b20e9",
+	"lastModifiedBy":39,
+	"lcName":"testbuttonapollo_11754387995500",
+	"modifiedTime":1754388439714,
+	"name":"TestButtonApollo_11754387995500",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_AWdTi-1",
+			"id":"_AWdTi",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_AWdTi-1",
+			"id":"_o9SM0",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
