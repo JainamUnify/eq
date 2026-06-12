@@ -1,0 +1,51 @@
+{
+	"createdTime":1718691594379,
+	"deleted":false,
+	"description":"TESTCASE2",
+	"id":"6671270a65d40c34290da9d7",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"Product_ID":{
+					"type":"number",
+					"title":"Product ID"
+				},
+				"Product_Name":{
+					"type":"string",
+					"title":"Product Name"
+				}
+			},
+			"required":[]
+		}
+	},
+	"lastModifiedBy":39,
+	"lcName":"testcase2",
+	"modifiedTime":1718691594379,
+	"name":"TESTCASE2",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"Product_ID":{
+					"type":"number",
+					"title":"Product ID"
+				},
+				"Product_Name":{
+					"type":"string",
+					"title":"Product Name"
+				}
+			},
+			"required":[]
+		}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":0
+}
