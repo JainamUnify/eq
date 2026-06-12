@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1719999681257,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"backendautomation/multipart",
+	"httpMethod":"GET",
+	"id":"6639090d4dcdcd382cb36e6f",
+	"lastModifiedBy":39,
+	"lcName":"multi_part",
+	"modifiedTime":1719999681257,
+	"name":"MULTI_PART",
+	"ownerUserId":39,
+	"path":"multipart",
+	"resourceIds":[
+		"66390802dd4bc11046ec2b35"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
