@@ -1,0 +1,23 @@
+{
+	"createdTime":1721477194602,
+	"deleted":false,
+	"description":"IcHmdmwfJS",
+	"id":"669ba84a51ea91759e16ee15",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"lastModifiedBy":39,
+	"lcName":"dtfvosnapd",
+	"modifiedTime":1721477196444,
+	"name":"dtfVOSNAPd",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
