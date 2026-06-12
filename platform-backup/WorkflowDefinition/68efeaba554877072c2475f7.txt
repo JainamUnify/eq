@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760553658086,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_gYP96",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_2kiDW",
+			"type":"next"
+		}
+	],
+	"id":"68efeaba554877072c2475f7",
+	"lastModifiedBy":39,
+	"lcName":"workflowzoom intooltipvalidation-11760551418834",
+	"modifiedTime":1760553678295,
+	"name":"WorkflowZoom InTooltipValidation-11760551418834",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_gYP96-1",
+			"id":"_gYP96",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_gYP96-1",
+			"id":"_2kiDW",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
