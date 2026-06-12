@@ -1,0 +1,29 @@
+{
+	"createdTime":1725095561129,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"V"
+				],
+				"principalIds":[
+					"2541"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"66d2de89ffb4ff07d2cacc6b",
+	"lastModifiedBy":39,
+	"lcName":"viewconnectorssdk-117250917083100",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1725095585262,
+	"name":"viewConnectorsSdk-117250917083100",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
