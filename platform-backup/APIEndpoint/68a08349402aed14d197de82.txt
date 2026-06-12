@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a08344402aed14d197de46",
+	"createdTime":1755349833808,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"agrqjt/apygt8h",
+	"id":"68a08349402aed14d197de82",
+	"lastModifiedBy":39,
+	"lcName":"mapmaskcallableendpoint_117553471048340",
+	"modifiedTime":1755349928586,
+	"name":"MapMaskCallableEndpoint_117553471048340",
+	"ownerUserId":39,
+	"path":"apygt8h",
+	"resourceIds":[
+		"68a082fbb4780b0582118d43"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
