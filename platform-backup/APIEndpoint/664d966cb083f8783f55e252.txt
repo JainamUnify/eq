@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1716360812419,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/664d92e789651153fc4ee86d",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"666b1a3b6b759e6797ac64b0"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"664d966cb083f8783f55e252",
+	"lastModifiedBy":0,
+	"lcName":"mailchimp_addsubscriber automation web-hook",
+	"modifiedTime":1719055455252,
+	"name":"MailChimp_addSubscriber Automation Web-hook",
+	"ownerUserId":39,
+	"path":"664d92e789651153fc4ee86d",
+	"resourceIds":[
+		"664d92e789651153fc4ee86d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":9
+}
