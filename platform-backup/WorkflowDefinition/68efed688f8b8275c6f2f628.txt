@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760554344684,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_vczT0",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_A7pUX",
+			"type":"next"
+		}
+	],
+	"id":"68efed688f8b8275c6f2f628",
+	"lastModifiedBy":39,
+	"lcName":"schedular_time_zone_eastern australia time (+10:00)_australia/queensland_117605514176850",
+	"modifiedTime":1760554355023,
+	"name":"schedular_time_zone_Eastern Australia Time (+10:00)_Australia/Queensland_117605514176850",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_vczT0-1",
+			"id":"_vczT0",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_vczT0-1",
+			"id":"_A7pUX",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
