@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66842ae87058a52e60554f40",
+	"createdTime":1719937770722,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"mnzcnjutlv/REisDMXBwg",
+	"httpMethod":"GET",
+	"id":"66842aea7058a52e60554f42",
+	"lastModifiedBy":39,
+	"lcName":"nmhumzrmprnwiyosznfs",
+	"modifiedTime":1719937771346,
+	"name":"nmHUmZRmpRnWiyoSZnFS",
+	"ownerUserId":39,
+	"path":"REisDMXBwg",
+	"resourceIds":[
+		"66842ad2f7df24538474d519"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
