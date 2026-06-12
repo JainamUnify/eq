@@ -1,0 +1,47 @@
+{
+	"createdTime":1723378257931,
+	"deleted":true,
+	"description":"description added",
+	"id":"66b8aa518d72141bf04320d3",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"ua:modal":{
+				"field_type":"STRING",
+				"is_optional":true
+			},
+			"properties":{
+				"input_string":{
+					"type":"string",
+					"title":"input_string"
+				}
+			},
+			"required":[]
+		}
+	},
+	"lastModifiedBy":39,
+	"lcName":"delete_117233761991310",
+	"modifiedTime":1723378270181,
+	"name":"delete_117233761991310",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"ua:modal":{
+				"field_type":"STRING",
+				"is_optional":true
+			},
+			"properties":{
+				"output_string":{
+					"type":"string",
+					"title":"output_string"
+				}
+			},
+			"required":[]
+		}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
