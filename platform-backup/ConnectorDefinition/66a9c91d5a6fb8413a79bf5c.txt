@@ -1,0 +1,46 @@
+{
+	"auths":[
+		{
+			"createdTime":1722403105892,
+			"description":"Auth description added",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"string_field":{
+							"type":"string",
+							"title":"string_field"
+						}
+					},
+					"required":[
+						"string_field"
+					]
+				}
+			},
+			"name":"JWT Auth validation",
+			"type":"JWT",
+			"updatedTime":1722403112453
+		}
+	],
+	"createdTime":1722403101306,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"id":"66a9c91d5a6fb8413a79bf5c",
+	"lastModifiedBy":39,
+	"lcName":"auth-jwt-117224012453550",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1722403125335,
+	"name":"auth-jwt-117224012453550",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
