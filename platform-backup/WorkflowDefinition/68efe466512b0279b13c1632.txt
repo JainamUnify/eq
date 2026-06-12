@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760552038679,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_l0VQM",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_OyGyT",
+			"type":"next"
+		}
+	],
+	"id":"68efe466512b0279b13c1632",
+	"lastModifiedBy":39,
+	"lcName":"testbuttonmicrosoft outlook_11760551427723",
+	"modifiedTime":1760552051544,
+	"name":"TestButtonMicrosoft Outlook_11760551427723",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_l0VQM-1",
+			"id":"_l0VQM",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_l0VQM-1",
+			"id":"_OyGyT",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
