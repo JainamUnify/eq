@@ -1,0 +1,54 @@
+{
+	"appsUsed":[
+		"shopify"
+	],
+	"createdTime":1754387247762,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		
+	],
+	"id":"6891d32fd3c60d22a22d5ca6",
+	"lastModifiedBy":39,
+	"lcName":"automation_adp recruiting managementdelete11754383988436",
+	"modifiedTime":1754387263587,
+	"name":"Automation_ADP Recruiting ManagementDelete11754383988436",
+	"nodes":[
+		{
+			"context":{
+				"appName":"shopify"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_eu9hJ-1",
+			"id":"n_oyhqq",
+			"index":1,
+			"skip":false,
+			"subTitle":"Shopify",
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		}
+	],
+	"ownerUserId":39,
+	"schemaReferences":[
+		
+	],
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":3
+}
