@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760554327775,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_hd9S2",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_cdi8c",
+			"type":"next"
+		}
+	],
+	"id":"68efed57554877072c249ec1",
+	"lastModifiedBy":39,
+	"lcName":"schedular_time_zone_cook islands time (-10:00)_pacific/rarotonga_117605514176850",
+	"modifiedTime":1760554339373,
+	"name":"schedular_time_zone_Cook Islands Time (-10:00)_Pacific/Rarotonga_117605514176850",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_hd9S2-1",
+			"id":"_hd9S2",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_hd9S2-1",
+			"id":"_cdi8c",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
