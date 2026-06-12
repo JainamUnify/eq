@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1755365519082,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68a0c0801855243992c619c7",
+	"id":"68a0c08f402aed14d1983945",
+	"lastModifiedBy":-1,
+	"lcName":"deletefieldsinalertworkflow_117553654010010 automation web-hook",
+	"modifiedTime":1755365537616,
+	"name":"deleteFieldsInAlertWorkflow_117553654010010 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68a0c0801855243992c619c7",
+	"resourceIds":[
+		"68a0c0801855243992c619c7"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
