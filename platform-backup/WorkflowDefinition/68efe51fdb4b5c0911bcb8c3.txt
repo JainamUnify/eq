@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760552223562,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_72sWP",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_s5867",
+			"type":"next"
+		}
+	],
+	"id":"68efe51fdb4b5c0911bcb8c3",
+	"lastModifiedBy":39,
+	"lcName":"testbuttonoracle fusion cloud_11760551427723",
+	"modifiedTime":1760552242708,
+	"name":"TestButtonOracle Fusion Cloud_11760551427723",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_72sWP-1",
+			"id":"_72sWP",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_72sWP-1",
+			"id":"_s5867",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
