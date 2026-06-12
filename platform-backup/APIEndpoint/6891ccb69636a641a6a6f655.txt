@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685a889e5a5af72cdbe3d81d",
+	"createdTime":1754385590143,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dnt-collection-jwt/aziacu",
+	"id":"6891ccb69636a641a6a6f655",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_e2e_workflow_callable_jwt_117543839812260",
+	"modifiedTime":1754385596249,
+	"name":"Endpoint_E2E_Workflow_Callable_JWT_117543839812260",
+	"ownerUserId":39,
+	"path":"aziacu",
+	"resourceIds":[
+		"6891cc67e7ffa2410a9defef"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
