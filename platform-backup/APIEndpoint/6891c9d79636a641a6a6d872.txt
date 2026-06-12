@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6891c9ce9636a641a6a6d805",
+	"createdTime":1754384855497,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"changeSetLocalCSOAKgVZQHrdT/BtJgJExoUrhZuVtCkNC?resourceId={{RESOURCE_ID}}",
+	"id":"6891c9d79636a641a6a6d872",
+	"lastModifiedBy":39,
+	"lcName":"changesetlocalpostwdzvkwcwqxmqscvqhaet",
+	"modifiedTime":1754385147881,
+	"name":"changeSetLocalPOSTWDzvKwCWqxMQscVqhaEt",
+	"ownerUserId":39,
+	"path":"BtJgJExoUrhZuVtCkNC",
+	"resourceIds":[
+		"6888c35e8ca03fb2e46d2ccc"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
