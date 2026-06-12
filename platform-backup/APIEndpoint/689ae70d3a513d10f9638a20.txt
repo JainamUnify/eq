@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689ae7083a513d10f9638a1b",
+	"createdTime":1754982157298,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"afkyqld/acsfdm",
+	"id":"689ae70d3a513d10f9638a20",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_filter_117549821364550",
+	"modifiedTime":1754982288683,
+	"name":"endpoint_filter_117549821364550",
+	"ownerUserId":39,
+	"path":"acsfdm",
+	"resourceIds":[
+		"689ae6fbc754a021fc874062"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
