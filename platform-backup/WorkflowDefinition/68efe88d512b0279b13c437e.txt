@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760553101586,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_2mvOB",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_vhigG",
+			"type":"next"
+		}
+	],
+	"id":"68efe88d512b0279b13c437e",
+	"lastModifiedBy":39,
+	"lcName":"revert_and_save_button_117605514277230",
+	"modifiedTime":1760553124889,
+	"name":"Revert_and_Save_Button_117605514277230",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_2mvOB-1",
+			"id":"_2mvOB",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_2mvOB-1",
+			"id":"_vhigG",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
