@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1754387596745,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_VKlRI",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_q2MLT",
+			"type":"next"
+		}
+	],
+	"id":"6891d48c721697b26e39c899",
+	"lastModifiedBy":39,
+	"lcName":"testbuttonmicrosoft teams_11754383981226",
+	"modifiedTime":1754387604361,
+	"name":"TestButtonMicrosoft Teams_11754383981226",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_VKlRI-1",
+			"id":"_VKlRI",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_VKlRI-1",
+			"id":"_q2MLT",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
