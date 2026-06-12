@@ -1,0 +1,19 @@
+{
+	"auths":[
+		
+	],
+	"createdTime":1721761998888,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"id":"66a000ce3e9dcf4d0bcbdec3",
+	"lastModifiedBy":39,
+	"lcName":"auth-delete-connector-117217602560230",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1721762022597,
+	"name":"auth-delete-connector-117217602560230",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
