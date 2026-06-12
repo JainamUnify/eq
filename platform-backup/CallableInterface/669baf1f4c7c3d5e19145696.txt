@@ -1,0 +1,47 @@
+{
+	"createdTime":1721478943559,
+	"deleted":false,
+	"description":"description added",
+	"id":"669baf1f4c7c3d5e19145696",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"ua:modal":{
+				"field_type":"STRING",
+				"is_optional":true
+			},
+			"properties":{
+				"input_string":{
+					"type":"string",
+					"title":"input_string"
+				}
+			},
+			"required":[]
+		}
+	},
+	"lastModifiedBy":39,
+	"lcName":"sort 1172147800912701",
+	"modifiedTime":1721479027824,
+	"name":"Sort 1172147800912701",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"ua:modal":{
+				"field_type":"STRING",
+				"is_optional":true
+			},
+			"properties":{
+				"output_string":{
+					"type":"string",
+					"title":"output_string"
+				}
+			},
+			"required":[]
+		}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
