@@ -1,0 +1,64 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1754388659071,
+	"deleted":true,
+	"description":"description",
+	"edges":[
+		{
+			"fromNodeId":"_1BQLG",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_qv0mX",
+			"type":"next"
+		}
+	],
+	"id":"6891d8b377f123da7dd8c2f5",
+	"lastModifiedBy":39,
+	"lcName":"testbuttondomo_11754387995500",
+	"modifiedTime":1754388666301,
+	"name":"TestButtonDomo_11754387995500",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_1BQLG-1",
+			"id":"_1BQLG",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_1BQLG-1",
+			"id":"_qv0mX",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":1
+}
