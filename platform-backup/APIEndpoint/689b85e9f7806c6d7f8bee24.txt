@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689b85d8a30c593c51ade02b",
+	"createdTime":1755023254592,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"csdtsanityaug12-api-group/csdtsanityaug12-api-group",
+	"httpMethod":"POST",
+	"id":"689b85e9f7806c6d7f8bee24",
+	"lastModifiedBy":39,
+	"lcName":"csdtsanityaug12 api group",
+	"modifiedTime":1755023752763,
+	"name":"csdtsanityaug12 api group",
+	"ownerUserId":39,
+	"path":"csdtsanityaug12-api-group",
+	"policyIds":[
+		"689b8620670b0c579dd87f61"
+	],
+	"resourceIds":[
+		"689b85c185d13f036ee41d82"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
