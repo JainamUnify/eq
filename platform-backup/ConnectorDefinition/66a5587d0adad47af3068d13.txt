@@ -1,0 +1,16 @@
+{
+	"createdTime":1722112125528,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"id":"66a5587d0adad47af3068d13",
+	"lastModifiedBy":39,
+	"lcName":"sort 1172211054767809",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1722112257396,
+	"name":"Sort 1172211054767809",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":1
+}
