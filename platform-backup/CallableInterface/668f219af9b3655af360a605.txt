@@ -1,0 +1,41 @@
+{
+	"createdTime":1720656282332,
+	"deleted":true,
+	"description":"DwzNOamgpa",
+	"id":"668f219af9b3655af360a605",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"type":"object",
+			"properties":{
+				"name":{
+					"type":"string",
+					"title":"Name"
+				}
+			},
+			"required":[]
+		}
+	},
+	"lastModifiedBy":39,
+	"lcName":"edit ewosliiuun",
+	"modifiedTime":1720656308960,
+	"name":"Edit eWoSLIiUuN",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{
+			"type":"object",
+			"properties":{
+				"name":{
+					"type":"string",
+					"title":"Name"
+				}
+			},
+			"required":[]
+		}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":2
+}
