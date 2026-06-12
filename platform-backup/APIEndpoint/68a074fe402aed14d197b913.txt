@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a074eb402aed14d197b909",
+	"createdTime":1755346174204,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"getwRkcipynJV/apps?resourceId={{RESOURCE_ID}}",
+	"id":"68a074fe402aed14d197b913",
+	"lastModifiedBy":39,
+	"lcName":"unify",
+	"modifiedTime":1755363163482,
+	"name":"unify",
+	"ownerUserId":39,
+	"path":"apps",
+	"policyIds":[
+		"6874ca760137bb78c46ee03b"
+	],
+	"resourceIds":[
+		"6879dadd8f4eb0b3d08797c1"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":8
+}
