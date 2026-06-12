@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1754569236394,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68949a0a7d9a6f9de8856aa2",
+	"id":"68949a143005cd967e3923d9",
+	"lastModifiedBy":-1,
+	"lcName":"abcd automation web-hook",
+	"modifiedTime":1754569236394,
+	"name":"abcd Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68949a0a7d9a6f9de8856aa2",
+	"resourceIds":[
+		"68949a0a7d9a6f9de8856aa2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
