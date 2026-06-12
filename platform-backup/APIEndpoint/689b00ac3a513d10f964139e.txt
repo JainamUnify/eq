@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689b00a83a513d10f9641381",
+	"createdTime":1754988716852,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"akp42p/arpcpxr",
+	"id":"689b00ac3a513d10f964139e",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_enable_all_117549886954040",
+	"modifiedTime":1754988790669,
+	"name":"endpoint_enable_all_117549886954040",
+	"ownerUserId":39,
+	"path":"arpcpxr",
+	"resourceIds":[
+		"689b009a73db0a412a238221"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
