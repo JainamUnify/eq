@@ -1,0 +1,23 @@
+{
+	"createdTime":1721066672814,
+	"deleted":false,
+	"description":"WwVDRCjoru",
+	"id":"669564b0303a866f4332ed05",
+	"input":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"lastModifiedBy":39,
+	"lcName":"imubyewxyr",
+	"modifiedTime":1721066674729,
+	"name":"imuBYEwXYr",
+	"output":{
+		"type":"SCHEMA",
+		"dynamic":false,
+		"schema":{}
+	},
+	"ownerUserId":39,
+	"standard":false,
+	"version":1
+}
