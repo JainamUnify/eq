@@ -1,0 +1,46 @@
+{
+	"auths":[
+		{
+			"createdTime":1723466136157,
+			"description":"Auth description added",
+			"input":{
+				"type":"SCHEMA_AND_LAYOUT",
+				"dynamic":false,
+				"layout":{},
+				"schema":{
+					"type":"object",
+					"ua:modal":{
+						"field_type":"STRING",
+						"is_optional":false
+					},
+					"properties":{
+						"string_field":{
+							"type":"string",
+							"title":"string_field"
+						}
+					},
+					"required":[
+						"string_field"
+					]
+				}
+			},
+			"name":"OAuth Auth validation",
+			"type":"OAUTH",
+			"updatedTime":1723466143056
+		}
+	],
+	"createdTime":1723466133058,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"id":"66ba019599bfb90ddb1e3cab",
+	"lastModifiedBy":39,
+	"lcName":"auth-oauth-117234660890170",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1723466157213,
+	"name":"auth-OAuth-117234660890170",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":3
+}
