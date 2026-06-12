@@ -1,0 +1,63 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760521842992,
+	"deleted":false,
+	"edges":[
+		{
+			"fromNodeId":"_PvgDm",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_rBzPv",
+			"type":"next"
+		}
+	],
+	"id":"68ef6e72326f784a97031ca0",
+	"lastModifiedBy":39,
+	"lcName":"playgroundxbtvmesrok",
+	"modifiedTime":1760521842992,
+	"name":"PLAYGROUNDXBtVmesRoK",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_PvgDm-1",
+			"id":"_PvgDm",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_PvgDm-1",
+			"id":"_rBzPv",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":0
+}
