@@ -1,0 +1,63 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1760520670897,
+	"deleted":false,
+	"edges":[
+		{
+			"fromNodeId":"_Skxgm",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_Xhk2T",
+			"type":"next"
+		}
+	],
+	"id":"68ef69dee49fd204ccf1ca95",
+	"lastModifiedBy":39,
+	"lcName":"playgroundjdbqvotvow",
+	"modifiedTime":1760520670897,
+	"name":"PLAYGROUNDjDbQVOtVow",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_Skxgm-1",
+			"id":"_Skxgm",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_Skxgm-1",
+			"id":"_Xhk2T",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"tags":[
+		
+	],
+	"version":0
+}
