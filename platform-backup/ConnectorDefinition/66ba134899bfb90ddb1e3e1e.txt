@@ -1,0 +1,30 @@
+{
+	"createdTime":1723470664237,
+	"deleted":true,
+	"description":"connector discription added",
+	"enabled":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"D",
+					"V"
+				],
+				"principalIds":[
+					"1563"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
+	"id":"66ba134899bfb90ddb1e3e1e",
+	"lastModifiedBy":39,
+	"lcName":"deleteconnectorssdk-117234660890170",
+	"logo":"https://assets.unifyapps.com/images/app-icons/custom_connector_01.svg",
+	"modifiedTime":1723470695099,
+	"name":"deleteConnectorsSdk-117234660890170",
+	"ownerUserId":39,
+	"standard":false,
+	"standardApp":false,
+	"version":2
+}
