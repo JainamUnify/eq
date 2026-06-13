@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1719999681373,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"backendautomation/deleteasync",
+	"httpMethod":"DELETE",
+	"id":"6626496091e5524b21b112f1",
+	"lastModifiedBy":39,
+	"lcName":"delete_async_nodes",
+	"modifiedTime":1719999681373,
+	"name":"DELETE_ASYNC_NODES",
+	"ownerUserId":39,
+	"path":"deleteasync",
+	"resourceIds":[
+		"6626485b772da57d3adb5e5e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
