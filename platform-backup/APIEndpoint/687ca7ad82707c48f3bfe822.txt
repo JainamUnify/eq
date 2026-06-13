@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"687ca7aa82707c48f3bfe821",
+	"createdTime":1752999853250,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"arjhxil/alx6tz?resourceId={{RESOURCE_ID}}",
+	"id":"687ca7ad82707c48f3bfe822",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-ulviewendpointulvplnrld117529972468320",
+	"modifiedTime":1757340881725,
+	"name":"rbac-ui-ULViewEndPointULvPLnRLd117529972468320",
+	"ownerUserId":39,
+	"path":"alx6tz",
+	"resourceIds":[
+		"687ca79d9421cef4738b75f8"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
