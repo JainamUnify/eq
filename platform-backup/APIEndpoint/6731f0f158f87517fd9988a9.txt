@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6731f0e458f87517fd9988a8",
+	"createdTime":1731326193377,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"alistdb/callable-endpoint-accessProfile-post---11731326072272",
+	"httpMethod":"GET",
+	"id":"6731f0f158f87517fd9988a9",
+	"lastModifiedBy":39,
+	"lcName":"callable_endpoint_accessprofile_post - 11731326072272",
+	"modifiedTime":1748594452000,
+	"name":"callable_endpoint_accessProfile_post - 11731326072272",
+	"ownerUserId":39,
+	"path":"callable-endpoint-accessProfile-post---11731326072272",
+	"policyIds":[
+		"6731f089495a263d39054f17",
+		"6731f094495a263d39054f18"
+	],
+	"resourceIds":[
+		"6731f0a6511b0c72370cc429"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
