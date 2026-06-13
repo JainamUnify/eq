@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689b01b13a513d10f9641d12",
+	"createdTime":1754988982245,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"agf2mbe/atlp7el",
+	"id":"689b01b63a513d10f9641d3a",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_enable_all_117549889542560",
+	"modifiedTime":1755020618059,
+	"name":"endpoint_enable_all_117549889542560",
+	"ownerUserId":39,
+	"path":"atlp7el",
+	"resourceIds":[
+		"689b01a479b84af14746e57b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
