@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1758634614509,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68d2a18e6c176750d2418ad4",
+	"id":"68d2a276d0fa481c40d90c7c",
+	"lastModifiedBy":-1,
+	"lcName":"d automation web-hook",
+	"modifiedTime":1758634614509,
+	"name":"d Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68d2a18e6c176750d2418ad4",
+	"resourceIds":[
+		"68d2a18e6c176750d2418ad4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
