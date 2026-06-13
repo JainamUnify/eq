@@ -4,14 +4,14 @@
 	],
 	"createdTime":1781259608578,
 	"deleted":false,
-	"deployedVersion":2,
+	"deployedVersion":14,
 	"deploymentState":{
-		"deployedAt":1781271629777,
+		"deployedAt":1781346728221,
 		"deployedBy":39,
-		"deployedDefinitionId":"6a2c0c4daeb9a560a85c3334",
+		"deployedDefinitionId":"6a2d31a816708230966793e3",
 		"status":"DEPLOYED",
-		"version":2,
-		"workflowVersion":10
+		"version":14,
+		"workflowVersion":64
 	},
 	"edges":[
 		{
@@ -62,13 +62,6 @@
 			"fromNodeId":"n_WrZ1z",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_eJ0Xw",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_eJ0Xw",
-			"priority":0,
-			"skip":false,
 			"toNodeId":"n_g8sFb",
 			"type":"next"
 		},
@@ -76,36 +69,15 @@
 			"fromNodeId":"n_g8sFb",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_wAHKx",
-			"type":"loop"
-		},
-		{
-			"fromNodeId":"n_wAHKx",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"n_YQ6AE",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_YQ6AE",
-			"priority":0,
-			"skip":false,
 			"toNodeId":"n_EH2Iy",
-			"type":"next"
+			"type":"loop"
 		},
 		{
 			"fromNodeId":"n_EH2Iy",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_U51TX",
-			"type":"loop"
-		},
-		{
-			"fromNodeId":"n_U51TX",
-			"priority":0,
-			"skip":false,
 			"toNodeId":"n_xSFG4",
-			"type":"next"
+			"type":"loop"
 		},
 		{
 			"fromNodeId":"n_xSFG4",
@@ -149,44 +121,44 @@
 			"fromNodeId":"n_mAPOA",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_p8Gsv",
+			"toNodeId":"n_qKr5h",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_p8Gsv",
+			"fromNodeId":"n_qKr5h",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_QqNsf",
+			"toNodeId":"n_A2YuA",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_A2YuA",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_AHI0M",
 			"type":"loop"
 		},
 		{
-			"fromNodeId":"n_QqNsf",
+			"fromNodeId":"n_AHI0M",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_gtwLl",
+			"toNodeId":"n_9cJHX",
 			"type":"loop"
 		},
 		{
-			"fromNodeId":"n_gtwLl",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"n_HRyse",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_HRyse",
+			"fromNodeId":"n_9cJHX",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_QqNsf",
+			"toNodeId":"n_AHI0M",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_QqNsf",
+			"fromNodeId":"n_AHI0M",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_p8Gsv",
+			"toNodeId":"n_A2YuA",
 			"type":"next"
 		},
 		{
@@ -215,44 +187,44 @@
 			"fromNodeId":"n_6bQvP",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_mn4a5",
+			"toNodeId":"n_TmODy",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_mn4a5",
+			"fromNodeId":"n_TmODy",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_7Zb5b",
+			"toNodeId":"n_74ios",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_74ios",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_xsN2v",
 			"type":"loop"
 		},
 		{
-			"fromNodeId":"n_7Zb5b",
+			"fromNodeId":"n_xsN2v",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_AzLg9",
+			"toNodeId":"n_ekGHG",
 			"type":"loop"
 		},
 		{
-			"fromNodeId":"n_AzLg9",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"n_tazt9",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_tazt9",
+			"fromNodeId":"n_ekGHG",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_7Zb5b",
+			"toNodeId":"n_xsN2v",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_7Zb5b",
+			"fromNodeId":"n_xsN2v",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_mn4a5",
+			"toNodeId":"n_74ios",
 			"type":"next"
 		},
 		{
@@ -281,44 +253,44 @@
 			"fromNodeId":"n_kXJEd",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_64Bki",
+			"toNodeId":"n_47ZXS",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_64Bki",
+			"fromNodeId":"n_47ZXS",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_HQygI",
+			"toNodeId":"n_wy5CO",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_wy5CO",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_OLXjH",
 			"type":"loop"
 		},
 		{
-			"fromNodeId":"n_HQygI",
+			"fromNodeId":"n_OLXjH",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_crnpp",
+			"toNodeId":"n_gbCr9",
 			"type":"loop"
 		},
 		{
-			"fromNodeId":"n_crnpp",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"n_zH0uX",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_zH0uX",
+			"fromNodeId":"n_gbCr9",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_HQygI",
+			"toNodeId":"n_OLXjH",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_HQygI",
+			"fromNodeId":"n_OLXjH",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_64Bki",
+			"toNodeId":"n_wy5CO",
 			"type":"next"
 		},
 		{
@@ -347,28 +319,28 @@
 			"fromNodeId":"n_g8sFb",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_xzZm0",
+			"toNodeId":"n_TpViB",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_p8Gsv",
+			"fromNodeId":"n_A2YuA",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_xzZm0",
+			"toNodeId":"n_TpViB",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_mn4a5",
+			"fromNodeId":"n_74ios",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_xzZm0",
+			"toNodeId":"n_TpViB",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_64Bki",
+			"fromNodeId":"n_wy5CO",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_xzZm0",
+			"toNodeId":"n_TpViB",
 			"type":"next"
 		},
 		{
@@ -376,25 +348,11 @@
 			"name":"default",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_xzZm0",
+			"toNodeId":"n_TpViB",
 			"type":"next"
 		},
 		{
 			"fromNodeId":"n_DnKVY",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"n_xzZm0",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_xzZm0",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"n_pm6E9",
-			"type":"next"
-		},
-		{
-			"fromNodeId":"n_pm6E9",
 			"priority":0,
 			"skip":false,
 			"toNodeId":"n_TpViB",
@@ -403,9 +361,9 @@
 	],
 	"id":"6a2bdd58373725083384f408",
 	"lastModifiedBy":39,
-	"lcName":"bm re-run asset",
-	"modifiedTime":1781338603771,
-	"name":"BM Re-run asset",
+	"lcName":"backup manager | re-run asset",
+	"modifiedTime":1781374759990,
+	"name":"Backup Manager | Re-run asset",
 	"nodes":[
 		{
 			"context":{
@@ -467,6 +425,10 @@
 						"statcard_name":{
 							"type":"string",
 							"title":"Statcard Name"
+						},
+						"assetClass":{
+							"type":"string",
+							"title":"Asset Class"
 						}
 					}
 				}
@@ -500,9 +462,16 @@
 							"operator":"EQUAL",
 							"value":"0"
 						}
+					},
+					{
+						"property":"{{ n_naS3o.outputs.assets[0].assetId }}",
+						"filter":{
+							"operator":"CONTAINS",
+							"value":"\"\""
+						}
 					}
 				],
-				"operator":"AND"
+				"operator":"OR"
 			},
 			"skip":false,
 			"subTitle":"Sync All",
@@ -532,7 +501,7 @@
 										"property":"{{ n_naS3o.outputs.statcard_name }}",
 										"filter":{
 											"operator":"EQUAL",
-											"value":"Total Assets"
+											"value":"Total Objects"
 										}
 									}
 								],
@@ -543,14 +512,14 @@
 					{
 						"id":"2",
 						"inputs":{
-							"name":"Synced Assets",
+							"name":"Success Sync Assets",
 							"conditions":{
 								"filters":[
 									{
 										"property":"{{ n_naS3o.outputs.statcard_name }}",
 										"filter":{
 											"operator":"EQUAL",
-											"value":"Synced Assets"
+											"value":"Success Sync Assets"
 										}
 									}
 								],
@@ -561,14 +530,14 @@
 					{
 						"id":"3",
 						"inputs":{
-							"name":"UnSynced",
+							"name":"Pending Sync Assets",
 							"conditions":{
 								"filters":[
 									{
 										"property":"{{ n_naS3o.outputs.statcard_name }}",
 										"filter":{
 											"operator":"EQUAL",
-											"value":"UnSynced"
+											"value":"Pending Sync Assets"
 										}
 									}
 								],
@@ -586,7 +555,7 @@
 										"property":"{{ n_naS3o.outputs.statcard_name }}",
 										"filter":{
 											"operator":"EQUAL",
-											"value":"Recently Failed"
+											"value":"Failed Sync Assets"
 										}
 									}
 								],
@@ -625,7 +594,7 @@
 							"property":"{{ n_naS3o.outputs.statcard_name }}",
 							"filter":{
 								"operator":"EQUAL",
-								"value":"Total Assets"
+								"value":"Total Objects"
 							}
 						}
 					],
@@ -650,7 +619,7 @@
 			"id":"n_7eI3U",
 			"index":5,
 			"inputs":{
-				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '6a1ed21449ac2871d6d6cf75' AND status = 'FAILED'\n    GROUP BY assetId\n) latest\nON p.assetId = latest.assetId\nAND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '6a1ed21449ac2871d6d6cf75'\nGROUP BY p.assetClass;",
+				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND p.assetClass = '{{ n_naS3o.outputs.assetClass }}'\nGROUP BY p.assetClass;",
 				"group":"PLATFORM"
 			},
 			"skip":false,
@@ -741,7 +710,7 @@
 				"type":"APPLICATION"
 			},
 			"debug":false,
-			"dirty":true,
+			"dirty":false,
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@1",
 			"id":"n_WrZ1z",
@@ -791,17 +760,69 @@
 		},
 		{
 			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2362,
-				"resourceName":"custom_http_endpoint_execute",
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
 				"type":"APPLICATION"
 			},
 			"debug":false,
 			"dirty":true,
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@1",
-			"id":"n_eJ0Xw",
+			"id":"n_g8sFb",
 			"index":8,
+			"inputs":{
+				"repeatMode":"SINGLE",
+				"listSource":"{{ n_eeY7e.outputs.result }}",
+				"captureIterations":false
+			},
+			"skip":false,
+			"subTitle":"AssetName",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l",
+			"id":"n_EH2Iy",
+			"index":9,
+			"inputs":{
+				"repeatMode":"BATCH",
+				"listSource":"{{ n_g8sFb.outputs.item.assetIds }}",
+				"captureIterations":false,
+				"batchSize":50
+			},
+			"skip":false,
+			"subTitle":"Asset Ids",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"additional":{
+				"xsdSchemaConfig":{
+					"root":{}
+				}
+			},
+			"context":{
+				"appName":"custom_http_endpoint",
+				"resourceVersion":2362,
+				"resourceName":"custom_http_endpoint_execute",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_EH2Iy@n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l@l",
+			"id":"n_xSFG4",
+			"index":10,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -809,18 +830,16 @@
 				"httpMethod":"POST",
 				"body":{
 					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"items":{
+					"assets":[
+						{
+							"assetClzName":"{{ n_g8sFb.outputs.item.assetClzName }}",
 							"assetIds":{
+								"source":"{{ n_EH2Iy.outputs.item }}",
 								"ua:type":"mappedArray",
-								"source":"{{ n_eeY7e.outputs.result[0].assetIds }}",
-								"items":"{{ n_eeY7e.outputs.result[0].assetIds[0] }}"
-							},
-							"assetClzName":"{{ n_eeY7e.outputs.result[0].assetClzName }}"
-						},
-						"ua:type":"mappedArray",
-						"source":"{{ n_eeY7e.outputs.result }}"
-					}
+								"items":"{{ n_EH2Iy.outputs.item[0] }}"
+							}
+						}
+					]
 				},
 				"connectionType":"DIRECT",
 				"sslVerify":false,
@@ -878,337 +897,6 @@
 		},
 		{
 			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":true,
-			"fallbackMode":"STOP",
-			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@1",
-			"id":"n_g8sFb",
-			"index":9,
-			"inputs":{
-				"repeatMode":"SINGLE",
-				"listSource":"{{ n_eeY7e.outputs.result }}",
-				"captureIterations":false
-			},
-			"skip":true,
-			"subTitle":"Loop",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2366,
-				"resourceName":"custom_http_endpoint_execute",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":true,
-			"fallbackMode":"STOP",
-			"groupId":"n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l",
-			"id":"n_wAHKx",
-			"index":10,
-			"inputs":{
-				"isAsync":false,
-				"enableProxy":false,
-				"requestTimeoutInSecs":-1,
-				"httpMethod":"POST",
-				"connectionType":"DIRECT",
-				"sslVerify":false,
-				"path":"/api-platform-admin-token/refresh/{{ __RUN__.outputs.customerId }}",
-				"responseSchema":{
-					"type":"object",
-					"additionalProperties":false,
-					"required":[],
-					"properties":{
-						"token":{
-							"type":"string",
-							"title":"Token"
-						}
-					}
-				},
-				"baseUrl":"http://internal-global-svc.unifyapps.svc.cluster.local:80/internal",
-				"httpVersion":"HTTP_2",
-				"queryParamsList":[
-					{
-						"key":"requestId",
-						"value":"retryFailedBackupAssets"
-					},
-					{
-						"key":"expiryMillis",
-						"value":"86400000"
-					}
-				],
-				"responseContentType":"HEADER_BASED",
-				"followRedirects":"NORMAL",
-				"authType":"CUSTOM",
-				"requestContentType":"application/json",
-				"ignoreTrailingSlashes":false,
-				"certificateType":"CERT_STRING"
-			},
-			"skip":true,
-			"subTitle":"Custom HTTP Endpoint",
-			"title":"Execute REST request",
-			"type":"ACTION"
-		},
-		{
-			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2362,
-				"resourceName":"custom_http_endpoint_execute",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":true,
-			"fallbackMode":"STOP",
-			"groupId":"n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l",
-			"id":"n_YQ6AE",
-			"index":11,
-			"inputs":{
-				"isAsync":false,
-				"enableProxy":false,
-				"requestTimeoutInSecs":-1,
-				"httpMethod":"POST",
-				"body":{
-					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"items":{
-							"assetClzName":"{{ n_g8sFb.outputs.item.assetClzName }}",
-							"assetIds":{
-								"source":"{{ n_g8sFb.outputs.item.assetIds }}",
-								"ua:type":"mappedArray",
-								"items":"{{ n_g8sFb.outputs.item.assetIds[0] }}"
-							}
-						},
-						"ua:type":"mappedArray"
-					}
-				},
-				"connectionType":"DIRECT",
-				"sslVerify":false,
-				"path":"/api-endpoint/admin/platform-backup/{{ __RUN__.outputs.customerId }}/retry-failures",
-				"baseUrl":"{{ __ENV__.outputs.base_URL }}",
-				"httpVersion":"HTTP_2",
-				"bodySchema":{
-					"type":"object",
-					"additionalProperties":false,
-					"properties":{
-						"configId":{
-							"type":"string",
-							"title":"configId"
-						},
-						"assets":{
-							"type":"array",
-							"items":{
-								"type":"object",
-								"properties":{
-									"assetClzName":{
-										"type":"string",
-										"title":"assetClzName"
-									},
-									"assetIds":{
-										"type":"array",
-										"items":{
-											"type":"string"
-										},
-										"title":"assetIds"
-									}
-								},
-								"additionalProperties":false
-							},
-							"title":"assets"
-						}
-					}
-				},
-				"responseContentType":"HEADER_BASED",
-				"followRedirects":"NORMAL",
-				"headersList":[
-					{
-						"key":"x-admin-authorization",
-						"value":"{{ n_wAHKx.outputs.result.token }}"
-					}
-				],
-				"authType":"CUSTOM",
-				"requestContentType":"application/json",
-				"ignoreTrailingSlashes":false,
-				"certificateType":"CERT_STRING"
-			},
-			"skip":true,
-			"subTitle":"Custom HTTP Endpoint",
-			"title":"PB | admin api - retry failure ",
-			"type":"ACTION"
-		},
-		{
-			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":true,
-			"fallbackMode":"STOP",
-			"groupId":"n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l",
-			"id":"n_EH2Iy",
-			"index":12,
-			"inputs":{
-				"repeatMode":"BATCH",
-				"listSource":"{{ n_g8sFb.outputs.item.assetIds }}",
-				"captureIterations":false,
-				"batchSize":500
-			},
-			"skip":true,
-			"subTitle":"Asset Ids",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2366,
-				"resourceName":"custom_http_endpoint_execute",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":true,
-			"fallbackMode":"STOP",
-			"groupId":"n_EH2Iy@n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l@l",
-			"id":"n_U51TX",
-			"index":13,
-			"inputs":{
-				"isAsync":false,
-				"enableProxy":false,
-				"requestTimeoutInSecs":-1,
-				"httpMethod":"POST",
-				"connectionType":"DIRECT",
-				"sslVerify":false,
-				"path":"/api-platform-admin-token/refresh/{{ __RUN__.outputs.customerId }}",
-				"responseSchema":{
-					"type":"object",
-					"additionalProperties":false,
-					"required":[],
-					"properties":{
-						"token":{
-							"type":"string",
-							"title":"Token"
-						}
-					}
-				},
-				"baseUrl":"http://internal-global-svc.unifyapps.svc.cluster.local:80/internal",
-				"httpVersion":"HTTP_2",
-				"queryParamsList":[
-					{
-						"key":"requestId",
-						"value":"retryFailedBackupAssets"
-					},
-					{
-						"key":"expiryMillis",
-						"value":"86400000"
-					}
-				],
-				"responseContentType":"HEADER_BASED",
-				"followRedirects":"NORMAL",
-				"authType":"CUSTOM",
-				"requestContentType":"application/json",
-				"ignoreTrailingSlashes":false,
-				"certificateType":"CERT_STRING"
-			},
-			"skip":true,
-			"subTitle":"Custom HTTP Endpoint",
-			"title":"Execute REST request",
-			"type":"ACTION"
-		},
-		{
-			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2362,
-				"resourceName":"custom_http_endpoint_execute",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":true,
-			"fallbackMode":"STOP",
-			"groupId":"n_EH2Iy@n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l@l",
-			"id":"n_xSFG4",
-			"index":14,
-			"inputs":{
-				"isAsync":false,
-				"enableProxy":false,
-				"requestTimeoutInSecs":-1,
-				"httpMethod":"POST",
-				"body":{
-					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"ua:type":"mappedArray",
-						"items":{
-							"assetClzName":"{{ n_g8sFb.outputs.item.assetClzName }}",
-							"assetIds":{
-								"source":"{{ n_EH2Iy.outputs.item }}",
-								"ua:type":"mappedArray"
-							}
-						},
-						"source":"{{ n_g8sFb.outputs.item }}"
-					}
-				},
-				"connectionType":"DIRECT",
-				"sslVerify":false,
-				"path":"/api-endpoint/admin/platform-backup/{{ __RUN__.outputs.customerId }}/retry-failures",
-				"baseUrl":"{{ __ENV__.outputs.base_URL }}",
-				"httpVersion":"HTTP_2",
-				"bodySchema":{
-					"type":"object",
-					"additionalProperties":false,
-					"properties":{
-						"configId":{
-							"type":"string",
-							"title":"configId"
-						},
-						"assets":{
-							"type":"array",
-							"items":{
-								"type":"object",
-								"properties":{
-									"assetClzName":{
-										"type":"string",
-										"title":"assetClzName"
-									},
-									"assetIds":{
-										"type":"array",
-										"items":{
-											"type":"string"
-										},
-										"title":"assetIds"
-									}
-								},
-								"additionalProperties":false
-							},
-							"title":"assets"
-						}
-					}
-				},
-				"responseContentType":"HEADER_BASED",
-				"followRedirects":"NORMAL",
-				"headersList":[
-					{
-						"key":"x-admin-authorization",
-						"value":"{{ n_U51TX.outputs.result.token }}"
-					}
-				],
-				"authType":"CUSTOM",
-				"requestContentType":"application/json",
-				"ignoreTrailingSlashes":false,
-				"certificateType":"CERT_STRING"
-			},
-			"skip":true,
-			"subTitle":"Custom HTTP Endpoint",
-			"title":"PB | admin api - retry failure ",
-			"type":"ACTION"
-		},
-		{
-			"context":{
 				"appName":"branch_condition",
 				"resourceVersion":0,
 				"resourceName":"branch_condition",
@@ -1219,16 +907,16 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_Qo9xp@2",
-			"index":15,
+			"index":11,
 			"inputs":{
-				"name":"Synced Assets",
+				"name":"Success Sync Assets",
 				"conditions":{
 					"filters":[
 						{
 							"property":"{{ n_naS3o.outputs.statcard_name }}",
 							"filter":{
 								"operator":"EQUAL",
-								"value":"Synced Assets"
+								"value":"Success Sync Assets"
 							}
 						}
 					],
@@ -1251,9 +939,9 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_oQlAX",
-			"index":16,
+			"index":12,
 			"inputs":{
-				"query":"SELECT\n    latest.assetClass AS assetClzName,\n    ARRAY_AGG(latest.assetId) AS assetIds\nFROM PLATFORM_BACKUP latest\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '6a1ed21449ac2871d6d6cf75'\n    GROUP BY assetId\n) latest_run\n    ON latest.assetId = latest_run.assetId\n   AND latest.lastSyncTime = latest_run.maxSyncTime\nWHERE latest.configId = '6a1ed21449ac2871d6d6cf75'\n  AND latest.status = 'FAILED'\nGROUP BY latest.assetClass;",
+				"query":"SELECT\n    latest.assetClass AS assetClzName,\n    ARRAY_AGG(latest.assetId) AS assetIds\nFROM PLATFORM_BACKUP latest\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest_run\n    ON latest.assetId = latest_run.assetId\n   AND latest.lastSyncTime = latest_run.maxSyncTime\nWHERE latest.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND latest.status = 'FAILED'\nGROUP BY latest.assetClass;",
 				"group":"PLATFORM"
 			},
 			"skip":false,
@@ -1281,7 +969,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_mAPOA",
-			"index":17,
+			"index":13,
 			"inputs":{
 				"output":{
 					"type":"array",
@@ -1338,53 +1026,6 @@
 		},
 		{
 			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
-			"id":"n_p8Gsv",
-			"index":18,
-			"inputs":{
-				"repeatMode":"SINGLE",
-				"listSource":"{{ n_mAPOA.outputs.result }}",
-				"captureIterations":false
-			},
-			"skip":false,
-			"subTitle":"Loop",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"n_p8Gsv@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l",
-			"id":"n_QqNsf",
-			"index":19,
-			"inputs":{
-				"repeatMode":"BATCH",
-				"listSource":"{{ n_p8Gsv.outputs.item.assetIds }}",
-				"captureIterations":false,
-				"batchSize":500
-			},
-			"skip":false,
-			"subTitle":"Asset Ids",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2366,
 				"resourceName":"custom_http_endpoint_execute",
@@ -1393,9 +1034,9 @@
 			"debug":false,
 			"dirty":false,
 			"fallbackMode":"STOP",
-			"groupId":"n_QqNsf@n_p8Gsv@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l@l",
-			"id":"n_gtwLl",
-			"index":20,
+			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
+			"id":"n_qKr5h",
+			"index":14,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1441,6 +1082,58 @@
 		},
 		{
 			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
+			"id":"n_A2YuA",
+			"index":15,
+			"inputs":{
+				"repeatMode":"SINGLE",
+				"listSource":"{{ n_mAPOA.outputs.result }}",
+				"captureIterations":false
+			},
+			"skip":false,
+			"subTitle":"AssetName",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_A2YuA@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l",
+			"id":"n_AHI0M",
+			"index":16,
+			"inputs":{
+				"repeatMode":"BATCH",
+				"listSource":"{{ n_A2YuA.outputs.item.assetIds }}",
+				"captureIterations":false,
+				"batchSize":50
+			},
+			"skip":false,
+			"subTitle":"Asset Ids",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"additional":{
+				"xsdSchemaConfig":{
+					"root":{}
+				}
+			},
+			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2362,
 				"resourceName":"custom_http_endpoint_execute",
@@ -1449,9 +1142,9 @@
 			"debug":false,
 			"dirty":false,
 			"fallbackMode":"STOP",
-			"groupId":"n_QqNsf@n_p8Gsv@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l@l",
-			"id":"n_HRyse",
-			"index":21,
+			"groupId":"n_AHI0M@n_A2YuA@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l@l",
+			"id":"n_9cJHX",
+			"index":17,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1459,18 +1152,16 @@
 				"httpMethod":"POST",
 				"body":{
 					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"ua:type":"mappedArray",
-						"items":{
+					"assets":[
+						{
+							"assetClzName":"{{ n_A2YuA.outputs.item.assetClzName }}",
 							"assetIds":{
+								"source":"{{ n_AHI0M.outputs.item }}",
 								"ua:type":"mappedArray",
-								"source":"{{ n_QqNsf.outputs.item }}",
-								"items":"{{ n_QqNsf.outputs.item[0] }}"
-							},
-							"assetClzName":"{{ n_p8Gsv.outputs.item.assetClzName }}"
-						},
-						"source":"{{ n_p8Gsv.outputs.item }}"
-					}
+								"items":"{{ n_AHI0M.outputs.item[0] }}"
+							}
+						}
+					]
 				},
 				"connectionType":"DIRECT",
 				"sslVerify":false,
@@ -1513,7 +1204,7 @@
 				"headersList":[
 					{
 						"key":"x-admin-authorization",
-						"value":"{{ n_gtwLl.outputs.result.token }}"
+						"value":"{{ n_qKr5h.outputs.result.token }}"
 					}
 				],
 				"authType":"CUSTOM",
@@ -1538,16 +1229,16 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_Qo9xp@3",
-			"index":22,
+			"index":18,
 			"inputs":{
-				"name":"UnSynced",
+				"name":"Pending Sync Assets",
 				"conditions":{
 					"filters":[
 						{
 							"property":"{{ n_naS3o.outputs.statcard_name }}",
 							"filter":{
 								"operator":"EQUAL",
-								"value":"UnSynced"
+								"value":"Pending Sync Assets"
 							}
 						}
 					],
@@ -1570,9 +1261,9 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_jGNHL",
-			"index":23,
+			"index":19,
 			"inputs":{
-				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '6a1ed21449ac2871d6d6cf75'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '6a1ed21449ac2871d6d6cf75'\n  AND p.assetId NOT IN (\n      SELECT DISTINCT assetId\n      FROM PLATFORM_BACKUP\n      WHERE configId = '6a1ed21449ac2871d6d6cf75'\n        AND status = 'SUCCESS'\n  )\nGROUP BY p.assetClass;",
+				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND p.assetId NOT IN (\n      SELECT DISTINCT assetId\n      FROM PLATFORM_BACKUP\n      WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n        AND status = 'SUCCESS'\n  )\nGROUP BY p.assetClass;",
 				"group":"PLATFORM"
 			},
 			"skip":false,
@@ -1600,7 +1291,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_6bQvP",
-			"index":24,
+			"index":20,
 			"inputs":{
 				"output":{
 					"type":"array",
@@ -1657,53 +1348,6 @@
 		},
 		{
 			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
-			"id":"n_mn4a5",
-			"index":25,
-			"inputs":{
-				"repeatMode":"SINGLE",
-				"listSource":"{{ n_6bQvP.outputs.result }}",
-				"captureIterations":false
-			},
-			"skip":false,
-			"subTitle":"Loop",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"n_mn4a5@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l",
-			"id":"n_7Zb5b",
-			"index":26,
-			"inputs":{
-				"repeatMode":"BATCH",
-				"listSource":"{{ n_mn4a5.outputs.item.assetIds }}",
-				"captureIterations":false,
-				"batchSize":500
-			},
-			"skip":false,
-			"subTitle":"Asset Ids",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2366,
 				"resourceName":"custom_http_endpoint_execute",
@@ -1712,9 +1356,9 @@
 			"debug":false,
 			"dirty":false,
 			"fallbackMode":"STOP",
-			"groupId":"n_7Zb5b@n_mn4a5@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l@l",
-			"id":"n_AzLg9",
-			"index":27,
+			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
+			"id":"n_TmODy",
+			"index":21,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1760,6 +1404,58 @@
 		},
 		{
 			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
+			"id":"n_74ios",
+			"index":22,
+			"inputs":{
+				"repeatMode":"SINGLE",
+				"listSource":"{{ n_6bQvP.outputs.result }}",
+				"captureIterations":false
+			},
+			"skip":false,
+			"subTitle":"Loop",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_74ios@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l",
+			"id":"n_xsN2v",
+			"index":23,
+			"inputs":{
+				"repeatMode":"BATCH",
+				"listSource":"{{ n_74ios.outputs.item.assetIds }}",
+				"captureIterations":false,
+				"batchSize":50
+			},
+			"skip":false,
+			"subTitle":"Asset Ids",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"additional":{
+				"xsdSchemaConfig":{
+					"root":{}
+				}
+			},
+			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2362,
 				"resourceName":"custom_http_endpoint_execute",
@@ -1768,9 +1464,9 @@
 			"debug":false,
 			"dirty":false,
 			"fallbackMode":"STOP",
-			"groupId":"n_7Zb5b@n_mn4a5@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l@l",
-			"id":"n_tazt9",
-			"index":28,
+			"groupId":"n_xsN2v@n_74ios@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l@l",
+			"id":"n_ekGHG",
+			"index":24,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1778,18 +1474,16 @@
 				"httpMethod":"POST",
 				"body":{
 					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"ua:type":"mappedArray",
-						"items":{
+					"assets":[
+						{
+							"assetClzName":"{{ n_74ios.outputs.item.assetClzName }}",
 							"assetIds":{
+								"source":"{{ n_xsN2v.outputs.item }}",
 								"ua:type":"mappedArray",
-								"source":"{{ n_7Zb5b.outputs.item }}",
-								"items":"{{ n_7Zb5b.outputs.item[0] }}"
-							},
-							"assetClzName":"{{ n_mn4a5.outputs.item.assetClzName }}"
-						},
-						"source":"{{ n_mn4a5.outputs.item }}"
-					}
+								"items":"{{ n_xsN2v.outputs.item[0] }}"
+							}
+						}
+					]
 				},
 				"connectionType":"DIRECT",
 				"sslVerify":false,
@@ -1832,7 +1526,7 @@
 				"headersList":[
 					{
 						"key":"x-admin-authorization",
-						"value":"{{ n_AzLg9.outputs.result.token }}"
+						"value":"{{ n_TmODy.outputs.result.token }}"
 					}
 				],
 				"authType":"CUSTOM",
@@ -1857,7 +1551,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_Qo9xp@4",
-			"index":29,
+			"index":25,
 			"inputs":{
 				"name":"Recently Failed",
 				"conditions":{
@@ -1866,7 +1560,7 @@
 							"property":"{{ n_naS3o.outputs.statcard_name }}",
 							"filter":{
 								"operator":"EQUAL",
-								"value":"Recently Failed"
+								"value":"Failed Sync Assets"
 							}
 						}
 					],
@@ -1889,9 +1583,9 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_ptIzG",
-			"index":30,
+			"index":26,
 			"inputs":{
-				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '6a1ed21449ac2871d6d6cf75'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '6a1ed21449ac2871d6d6cf75'\n  AND p.status = 'FAILED'\nGROUP BY p.assetClass;",
+				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND p.status = 'FAILED'\nGROUP BY p.assetClass;",
 				"group":"PLATFORM"
 			},
 			"skip":false,
@@ -1919,7 +1613,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_kXJEd",
-			"index":31,
+			"index":27,
 			"inputs":{
 				"output":{
 					"type":"array",
@@ -1976,53 +1670,6 @@
 		},
 		{
 			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
-			"id":"n_64Bki",
-			"index":32,
-			"inputs":{
-				"repeatMode":"SINGLE",
-				"listSource":"{{ n_kXJEd.outputs.result }}",
-				"captureIterations":false
-			},
-			"skip":false,
-			"subTitle":"Loop",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
-				"appName":"loop",
-				"resourceVersion":64,
-				"resourceName":"loop_for_each",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"n_64Bki@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l",
-			"id":"n_HQygI",
-			"index":33,
-			"inputs":{
-				"repeatMode":"BATCH",
-				"listSource":"{{ n_64Bki.outputs.item.assetIds }}",
-				"captureIterations":false,
-				"batchSize":500
-			},
-			"skip":false,
-			"subTitle":"Asset Ids",
-			"title":"For each loop",
-			"type":"LOOP"
-		},
-		{
-			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2366,
 				"resourceName":"custom_http_endpoint_execute",
@@ -2031,9 +1678,9 @@
 			"debug":false,
 			"dirty":false,
 			"fallbackMode":"STOP",
-			"groupId":"n_HQygI@n_64Bki@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l@l",
-			"id":"n_crnpp",
-			"index":34,
+			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
+			"id":"n_47ZXS",
+			"index":28,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -2079,6 +1726,58 @@
 		},
 		{
 			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
+			"id":"n_wy5CO",
+			"index":29,
+			"inputs":{
+				"repeatMode":"SINGLE",
+				"listSource":"{{ n_kXJEd.outputs.result }}",
+				"captureIterations":false
+			},
+			"skip":false,
+			"subTitle":"Loop",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"context":{
+				"appName":"loop",
+				"resourceVersion":64,
+				"resourceName":"loop_for_each",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"n_wy5CO@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l",
+			"id":"n_OLXjH",
+			"index":30,
+			"inputs":{
+				"repeatMode":"BATCH",
+				"listSource":"{{ n_wy5CO.outputs.item.assetIds }}",
+				"captureIterations":false,
+				"batchSize":50
+			},
+			"skip":false,
+			"subTitle":"Asset Ids",
+			"title":"For each loop",
+			"type":"LOOP"
+		},
+		{
+			"additional":{
+				"xsdSchemaConfig":{
+					"root":{}
+				}
+			},
+			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2362,
 				"resourceName":"custom_http_endpoint_execute",
@@ -2087,9 +1786,9 @@
 			"debug":false,
 			"dirty":false,
 			"fallbackMode":"STOP",
-			"groupId":"n_HQygI@n_64Bki@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l@l",
-			"id":"n_zH0uX",
-			"index":35,
+			"groupId":"n_OLXjH@n_wy5CO@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l@l",
+			"id":"n_gbCr9",
+			"index":31,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -2097,18 +1796,16 @@
 				"httpMethod":"POST",
 				"body":{
 					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"ua:type":"mappedArray",
-						"items":{
+					"assets":[
+						{
+							"assetClzName":"{{ n_wy5CO.outputs.item.assetClzName }}",
 							"assetIds":{
+								"source":"{{ n_OLXjH.outputs.item }}",
 								"ua:type":"mappedArray",
-								"source":"{{ n_HQygI.outputs.item }}",
-								"items":"{{ n_HQygI.outputs.item[0] }}"
-							},
-							"assetClzName":"{{ n_64Bki.outputs.item.assetClzName }}"
-						},
-						"source":"{{ n_64Bki.outputs.item }}"
-					}
+								"items":"{{ n_OLXjH.outputs.item[0] }}"
+							}
+						}
+					]
 				},
 				"connectionType":"DIRECT",
 				"sslVerify":false,
@@ -2151,7 +1848,7 @@
 				"headersList":[
 					{
 						"key":"x-admin-authorization",
-						"value":"{{ n_crnpp.outputs.result.token }}"
+						"value":"{{ n_47ZXS.outputs.result.token }}"
 					}
 				],
 				"authType":"CUSTOM",
@@ -2176,7 +1873,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_j6yVt@_wmkeO-1@n",
 			"id":"n_msoNF",
-			"index":36,
+			"index":32,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -2232,7 +1929,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_j6yVt@_wmkeO-1@n",
 			"id":"n_FObfM",
-			"index":37,
+			"index":33,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -2319,7 +2016,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_j6yVt@_wmkeO-1@n",
 			"id":"n_DnKVY",
-			"index":38,
+			"index":34,
 			"inputs":{
 				"result":{
 					"result":"done"
@@ -2329,149 +2026,6 @@
 			"subTitle":"Callable",
 			"title":"Respond to automation",
 			"type":"STOP"
-		},
-		{
-			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2366,
-				"resourceName":"custom_http_endpoint_execute",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"_wmkeO-1",
-			"id":"n_xzZm0",
-			"index":39,
-			"inputs":{
-				"isAsync":false,
-				"enableProxy":false,
-				"requestTimeoutInSecs":-1,
-				"httpMethod":"POST",
-				"connectionType":"DIRECT",
-				"sslVerify":false,
-				"path":"/api-platform-admin-token/refresh/{{ __RUN__.outputs.customerId }}",
-				"responseSchema":{
-					"type":"object",
-					"additionalProperties":false,
-					"required":[],
-					"properties":{
-						"token":{
-							"type":"string",
-							"title":"Token"
-						}
-					}
-				},
-				"baseUrl":"http://internal-global-svc.unifyapps.svc.cluster.local:80/internal",
-				"httpVersion":"HTTP_2",
-				"queryParamsList":[
-					{
-						"key":"requestId",
-						"value":"retryFailedBackupAssets"
-					},
-					{
-						"key":"expiryMillis",
-						"value":"86400000"
-					}
-				],
-				"responseContentType":"HEADER_BASED",
-				"followRedirects":"NORMAL",
-				"authType":"CUSTOM",
-				"requestContentType":"application/json",
-				"ignoreTrailingSlashes":false,
-				"certificateType":"CERT_STRING"
-			},
-			"skip":true,
-			"subTitle":"Custom HTTP Endpoint",
-			"title":"Execute REST request",
-			"type":"ACTION"
-		},
-		{
-			"context":{
-				"appName":"custom_http_endpoint",
-				"resourceVersion":2362,
-				"resourceName":"custom_http_endpoint_execute",
-				"type":"APPLICATION"
-			},
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"_wmkeO-1",
-			"id":"n_pm6E9",
-			"index":40,
-			"inputs":{
-				"isAsync":false,
-				"enableProxy":false,
-				"requestTimeoutInSecs":-1,
-				"httpMethod":"POST",
-				"body":{
-					"configId":"{{ n_naS3o.outputs.ConfigId }}",
-					"assets":{
-						"ua:type":"mappedArray",
-						"items":{
-							"assetClzName":"{{ n_naS3o.outputs.assets[0].assetClass }}",
-							"assetIds":{
-								"source":"{{ n_naS3o.outputs.assets[0].assetId }}",
-								"ua:type":"mappedArray",
-								"items":"{{ n_naS3o.outputs.assets[0].assetId[0] }}"
-							}
-						},
-						"source":"{{ n_naS3o.outputs.assets[0] }}"
-					}
-				},
-				"connectionType":"DIRECT",
-				"sslVerify":false,
-				"path":"/api-endpoint/admin/platform-backup/{{ __RUN__.outputs.customerId }}/retry-failures",
-				"baseUrl":"{{ __ENV__.outputs.base_URL }}",
-				"httpVersion":"HTTP_2",
-				"bodySchema":{
-					"type":"object",
-					"additionalProperties":false,
-					"properties":{
-						"configId":{
-							"type":"string",
-							"title":"configId"
-						},
-						"assets":{
-							"type":"array",
-							"items":{
-								"type":"object",
-								"properties":{
-									"assetClzName":{
-										"type":"string",
-										"title":"assetClzName"
-									},
-									"assetIds":{
-										"type":"array",
-										"items":{
-											"type":"string"
-										},
-										"title":"assetIds"
-									}
-								},
-								"additionalProperties":false
-							},
-							"title":"assets"
-						}
-					}
-				},
-				"responseContentType":"HEADER_BASED",
-				"followRedirects":"NORMAL",
-				"headersList":[
-					{
-						"key":"x-admin-authorization",
-						"value":"{{ n_xzZm0.outputs.result.token }}"
-					}
-				],
-				"authType":"CUSTOM",
-				"requestContentType":"application/json",
-				"ignoreTrailingSlashes":false,
-				"certificateType":"CERT_STRING"
-			},
-			"skip":true,
-			"subTitle":"Custom HTTP Endpoint",
-			"title":"PB | admin api - retry failure ",
-			"type":"ACTION"
 		},
 		{
 			"context":{
@@ -2485,7 +2039,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"_wmkeO-1",
 			"id":"n_TpViB",
-			"index":41,
+			"index":35,
 			"inputs":{
 				"result":{
 					"result":"done"
@@ -2511,5 +2065,8 @@
 		}
 	},
 	"standard":false,
-	"version":39
+	"tags":[
+		"Backup Manager"
+	],
+	"version":66
 }
