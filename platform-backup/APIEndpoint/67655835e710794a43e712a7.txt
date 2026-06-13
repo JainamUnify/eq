@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6765583139a31b5abe7f2299",
+	"createdTime":1734694965187,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"arduygb/awn21w?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67655835e710794a43e712a7",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-rlallendpointulcplvrlall117346873120030",
+	"modifiedTime":1748594282252,
+	"name":"rbac-ui-RLAllEndpointULcPLvRLAll117346873120030",
+	"ownerUserId":39,
+	"path":"awn21w",
+	"resourceIds":[
+		"67655824df270d0d5e074d56"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
