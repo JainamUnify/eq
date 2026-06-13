@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1757156943215,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68bc164ee76d0812a3138c96",
+	"id":"68bc164f898ad31fc2fe270a",
+	"lastModifiedBy":-1,
+	"lcName":"changesetuatpptggosavx automation web-hook",
+	"modifiedTime":1758965218608,
+	"name":"changeSetUATPpTGGosaVX Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68bc164ee76d0812a3138c96",
+	"resourceIds":[
+		"68bc164ee76d0812a3138c96"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
