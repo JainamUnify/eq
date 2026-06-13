@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1758965824029,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68d7b03e8088c15a6b8be65d",
+	"id":"68d7b04032d4383e130b0e24",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationeq3ctremqldl automation web-hook",
+	"modifiedTime":1758965827437,
+	"name":"Backend_AutomationEQ3CtRemqldL Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68d7b03e8088c15a6b8be65d",
+	"resourceIds":[
+		"68d7b03e8088c15a6b8be65d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
