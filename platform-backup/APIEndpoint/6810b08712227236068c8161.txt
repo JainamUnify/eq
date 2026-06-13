@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68109f9b12227236068c73be",
+	"createdTime":1745924231436,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"abd1yzj/sedvx",
+	"httpMethod":"GET",
+	"id":"6810b08712227236068c8161",
+	"lastModifiedBy":39,
+	"lcName":"sedvx",
+	"modifiedTime":1748594175501,
+	"name":"sedvx",
+	"ownerUserId":39,
+	"path":"sedvx",
+	"resourceIds":[
+		"67fcab8cba829648433a622b"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
