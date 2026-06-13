@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fe232068b71e161b6a9ef2",
+	"createdTime":1744708408773,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"new-group/new-api",
+	"httpMethod":"GET",
+	"id":"67fe233868b71e161b6a9ef3",
+	"lastModifiedBy":39,
+	"lcName":"new_api",
+	"modifiedTime":1744708644183,
+	"name":"new_api",
+	"ownerUserId":39,
+	"path":"new-api",
+	"resourceIds":[
+		"67fe22c728825838b50af942"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}
