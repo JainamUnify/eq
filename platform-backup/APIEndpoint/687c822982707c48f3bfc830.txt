@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687c822382707c48f3bfc829",
+	"createdTime":1752990249360,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aanub5f/azco6t",
+	"id":"687c822982707c48f3bfc830",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_oauth2.0_clientcredential-117529901177920",
+	"modifiedTime":1757340899040,
+	"name":"endpoint_OAuth2.0_clientCredential-117529901177920",
+	"ownerUserId":39,
+	"path":"azco6t",
+	"resourceIds":[
+		"687c8215050a9f7f378781fe"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
