@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fcac2c7352bf0c07e5b52b",
+	"createdTime":1744612402866,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"agostsh/am2mur",
+	"httpMethod":"POST",
+	"id":"67fcac327352bf0c07e5b534",
+	"lastModifiedBy":39,
+	"lcName":"createendpointforcomplexschema - 117446122456750",
+	"modifiedTime":1748594238268,
+	"name":"createEndpointForComplexSchema - 117446122456750",
+	"ownerUserId":39,
+	"path":"am2mur",
+	"resourceIds":[
+		"67fcac1aba829648433a6580"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
