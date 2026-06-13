@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"675292bacd8ae73b666df670",
+	"createdTime":1733464766477,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"avxmnyg/amlaiag?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"675292bec425c4485f9020e8",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-uleditendpointuleplnrld117334646353100",
+	"modifiedTime":1748594362266,
+	"name":"rbac-ui-ULEditEndPointULePLnRLd117334646353100",
+	"ownerUserId":39,
+	"path":"amlaiag",
+	"resourceIds":[
+		"675292af6d52326658dcc96f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
