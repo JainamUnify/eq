@@ -1,0 +1,34 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67fd6063ccfae609afb27249",
+	"createdTime":1744658536309,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a6m3bs/a1ylabp",
+	"httpMethod":"POST",
+	"id":"67fd6068ccfae609afb2724d",
+	"lastModifiedBy":39,
+	"lcName":"endpoint-filter-modified by-117446557688820",
+	"modifiedTime":1744658541884,
+	"name":"Endpoint-Filter-modified by-117446557688820",
+	"ownerUserId":39,
+	"path":"a1ylabp",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
