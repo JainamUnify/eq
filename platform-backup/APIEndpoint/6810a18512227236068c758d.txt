@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6810a18212227236068c758c",
+	"createdTime":1745920389965,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a03knx8/aqelgi",
+	"httpMethod":"GET",
+	"id":"6810a18512227236068c758d",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_arrayasparentschema_117459203750030",
+	"modifiedTime":1748594175269,
+	"name":"Endpoint_arrayAsParentSchema_117459203750030",
+	"ownerUserId":39,
+	"path":"aqelgi",
+	"resourceIds":[
+		"6810a17aebe9f360375ce02f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
