@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"673c9446052d8317e0f459c0",
+	"createdTime":1732023372115,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aspv4jg/ahj120c",
+	"httpMethod":"POST",
+	"id":"673c944c825ea73fb786d142",
+	"lastModifiedBy":39,
+	"lcName":"export_endpoint- 117320233596090",
+	"modifiedTime":1748594424499,
+	"name":"Export_Endpoint- 117320233596090",
+	"ownerUserId":39,
+	"path":"ahj120c",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
