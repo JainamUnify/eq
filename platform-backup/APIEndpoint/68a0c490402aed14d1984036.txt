@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a0c48a402aed14d1984035",
+	"createdTime":1755366544383,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ajc2krq/a22siaf",
+	"id":"68a0c490402aed14d1984036",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_customhttp_put_117553654121510",
+	"modifiedTime":1757340760812,
+	"name":"Endpoint_customHTTP_PUT_117553654121510",
+	"ownerUserId":39,
+	"path":"a22siaf",
+	"resourceIds":[
+		"68a0c464ae8a9d80e7209a78"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":2
+}
