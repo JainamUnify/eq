@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1720310647891,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"automationbackendtest/SCuValEjWt/{name}",
+	"httpMethod":"DELETE",
+	"id":"6689db77e693f04244b51685",
+	"lastModifiedBy":39,
+	"lcName":"bmqeajnprhsvpomfcdvj",
+	"modifiedTime":1720310647891,
+	"name":"BMqeaJNPrHsvpOmFcDVj",
+	"ownerUserId":39,
+	"path":"SCuValEjWt/{name}",
+	"resourceIds":[
+		"6643202a5a6e5634ab009895"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":0
+}
