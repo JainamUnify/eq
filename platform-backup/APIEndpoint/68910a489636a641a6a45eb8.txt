@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68910a439636a641a6a45ead",
+	"createdTime":1754335816846,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"a2ea74/aatgtdb",
+	"id":"68910a489636a641a6a45eb8",
+	"lastModifiedBy":39,
+	"lcName":"checkenvironmentvariableendpoint117543357836160",
+	"modifiedTime":1757340816504,
+	"name":"checkEnvironmentVariableEndpoint117543357836160",
+	"ownerUserId":39,
+	"path":"aatgtdb",
+	"resourceIds":[
+		"68910a2de209f5138a140bf9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
