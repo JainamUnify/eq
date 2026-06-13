@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6794f34fd49a2358f4196ff2",
+	"createdTime":1737814875816,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"akmmcl/aty5hut?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6794f35bd49a2358f4196ff4",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-ulviewendpointulvplerln117378089938930",
+	"modifiedTime":1744443533461,
+	"name":"rbac-ui-ULViewEndPointULvPLeRLn117378089938930",
+	"ownerUserId":39,
+	"path":"aty5hut",
+	"resourceIds":[
+		"6794f32bd8ea152949ba1c47"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
