@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67528e15cd8ae73b666df4c5",
+	"createdTime":1733463576477,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"alturm/amvv1p9?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67528e18cd8ae73b666df4c6",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-ulviewendpointulvpldrle117334633666580",
+	"modifiedTime":1748594364615,
+	"name":"rbac-ui-ULViewEndPointULvPLdRLe117334633666580",
+	"ownerUserId":39,
+	"path":"amvv1p9",
+	"resourceIds":[
+		"67528e0a74e2bf1fcf3d3687"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
