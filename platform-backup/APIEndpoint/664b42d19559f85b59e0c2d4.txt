@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1716208337993,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/664b3d5beffa142d1fa97594",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"666b1a3b6b759e6797ac64b0"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"664b42d19559f85b59e0c2d4",
+	"lastModifiedBy":0,
+	"lcName":"salesforce_execute_sql_connector (do not edit automation web-hook",
+	"modifiedTime":1719055455509,
+	"name":"Salesforce_Execute_SQL_Connector (DO NOT EDIT Automation Web-hook",
+	"ownerUserId":34,
+	"path":"664b3d5beffa142d1fa97594",
+	"resourceIds":[
+		"664b3d5beffa142d1fa97594"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":9
+}
