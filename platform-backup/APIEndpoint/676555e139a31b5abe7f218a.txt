@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"676555dee710794a43e71191",
+	"createdTime":1734694369865,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"a0xyhqc/awro56s?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"676555e139a31b5abe7f218a",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-rldeleteendpointulvplnrld117346873120030",
+	"modifiedTime":1748594285292,
+	"name":"rbac-ui-RLDeleteEndPointULvPLnRLd117346873120030",
+	"ownerUserId":39,
+	"path":"awro56s",
+	"resourceIds":[
+		"676555d25d8d193d9eb8016d"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
