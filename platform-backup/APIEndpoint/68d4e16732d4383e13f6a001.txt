@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68d4e16432d4383e13f69fe0",
+	"createdTime":1758781799514,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"nrtgdtjsnp/kpsckEBnuY?resourceId={{RESOURCE_ID}}",
+	"id":"68d4e16732d4383e13f6a001",
+	"lastModifiedBy":39,
+	"lcName":"obanvtrqohdmlrcpvwcl",
+	"modifiedTime":1758792575348,
+	"name":"oBAnvTrQOhdmlRcpVwCL",
+	"ownerUserId":39,
+	"path":"kpsckEBnuY",
+	"resourceIds":[
+		"6674eba85592f6089fdd1f3f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
