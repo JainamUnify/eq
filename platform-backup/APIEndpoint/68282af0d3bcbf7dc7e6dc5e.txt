@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68282ae8d3bcbf7dc7e6dc58",
+	"createdTime":1747462896573,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"af3mozq/adfixwl",
+	"httpMethod":"POST",
+	"id":"68282af0d3bcbf7dc7e6dc5e",
+	"lastModifiedBy":39,
+	"lcName":"export_apiendpointcustom- 117474604291910",
+	"modifiedTime":1748594117098,
+	"name":"Export_APIEndpointCustom- 117474604291910",
+	"ownerUserId":39,
+	"path":"adfixwl",
+	"resourceIds":[
+		"68282adcb9345c7d44ef5fab"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
