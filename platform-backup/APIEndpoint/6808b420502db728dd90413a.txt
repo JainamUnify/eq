@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6808b41c502db728dd904139",
+	"createdTime":1745400864095,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"at2t2ua/ava1zum",
+	"httpMethod":"POST",
+	"id":"6808b420502db728dd90413a",
+	"lastModifiedBy":39,
+	"lcName":"end_point_117454008443880ss",
+	"modifiedTime":1748594178516,
+	"name":"End_point_117454008443880ss",
+	"ownerUserId":39,
+	"path":"ava1zum",
+	"resourceIds":[
+		"6808b40ef1f32c4ab5cfb8bd"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
