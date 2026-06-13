@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68910a4f9636a641a6a45ed4",
+	"createdTime":1754335831272,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"anu9y1e/avborv",
+	"id":"68910a579636a641a6a45f35",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_oauth2.0_resource owner password-117543357808630",
+	"modifiedTime":1757340816259,
+	"name":"endpoint_OAuth2.0_Resource Owner Password-117543357808630",
+	"ownerUserId":39,
+	"path":"avborv",
+	"resourceIds":[
+		"68910a40e209f5138a140c92"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
