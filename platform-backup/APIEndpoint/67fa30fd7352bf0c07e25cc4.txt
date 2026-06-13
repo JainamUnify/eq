@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fa30ef7352bf0c07e25cbf",
+	"createdTime":1744449789892,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"xmlcallablecheckgroup/xmlcallablecheckapi",
+	"httpMethod":"POST",
+	"id":"67fa30fd7352bf0c07e25cc4",
+	"lastModifiedBy":39,
+	"lcName":"xmlcallablecheckapi",
+	"modifiedTime":1744449791363,
+	"name":"xmlcallablecheckapi",
+	"ownerUserId":39,
+	"path":"xmlcallablecheckapi",
+	"resourceIds":[
+		"67fa30b96f68d73729ff921d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
