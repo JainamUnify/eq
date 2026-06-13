@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68bc13a6898ad31fc2fe19b5",
+	"createdTime":1757156270756,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"atmovrr/atixye9",
+	"id":"68bc13ae898ad31fc2fe19c5",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_contenttype_json_117571548454050",
+	"modifiedTime":1757340671346,
+	"name":"endpoint_ContentType_JSON_117571548454050",
+	"ownerUserId":39,
+	"path":"atixye9",
+	"resourceIds":[
+		"68bc138ee76d0812a3137b25"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
