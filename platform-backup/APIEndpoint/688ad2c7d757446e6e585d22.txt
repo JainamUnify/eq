@@ -1,0 +1,42 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"688ad2c1d757446e6e585d1a",
+	"createdTime":1753928391478,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a4w8jp/ajpbg9",
+	"id":"688ad2c7d757446e6e585d22",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_oauth2.0_resource owner password-117539283633880",
+	"modifiedTime":1757340843712,
+	"name":"endpoint_OAuth2.0_Resource Owner Password-117539283633880",
+	"ownerUserId":39,
+	"path":"ajpbg9",
+	"resourceIds":[
+		"688ad2b0a4900a45c0184da3"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
