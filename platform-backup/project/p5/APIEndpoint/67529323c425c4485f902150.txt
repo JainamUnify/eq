@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67529320c425c4485f90214f",
+	"createdTime":1733464867557,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aznmuar/aw99ynu?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67529323c425c4485f902150",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-pleditendpointrlviewulnplerlv117334646353100",
+	"modifiedTime":1748594361556,
+	"name":"rbac-ui-PLEditEndPointRLViewULnPLeRLv117334646353100",
+	"ownerUserId":39,
+	"path":"aw99ynu",
+	"projectId":5,
+	"resourceIds":[
+		"6752931b6d52326658dccb12"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
