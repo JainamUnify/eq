@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68d4daaf32d4383e13f66df1",
+	"createdTime":1758780259164,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"dkzcfxigfj/HTGZtFodio",
+	"id":"68d4db6332d4383e13f6717a",
+	"lastModifiedBy":39,
+	"lcName":"jwcrmggkkhdaxdembphj",
+	"modifiedTime":1758792579829,
+	"name":"jWcRMGgKKhDAxDEMBpHj",
+	"ownerUserId":39,
+	"path":"HTGZtFodio",
+	"resourceIds":[
+		"68d4db5e8088c15a6b7937a1"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
