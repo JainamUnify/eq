@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6891f9689636a641a6a8b4f3",
+	"createdTime":1754397037154,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"at5tva/abavk7m",
+	"id":"6891f96d9636a641a6a8b54d",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_customhttp_patch_117543957940220",
+	"modifiedTime":1754397099314,
+	"name":"Endpoint_customHTTP_PATCH_117543957940220",
+	"ownerUserId":39,
+	"path":"abavk7m",
+	"resourceIds":[
+		"6891f95ad3c60d22a22fc465"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
