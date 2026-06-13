@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1720224259980,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"automationbackendtest/XIlVcDMMZt/{name}",
+	"httpMethod":"POST",
+	"id":"66888a037058a52e60555302",
+	"lastModifiedBy":39,
+	"lcName":"clxfoukubxtgzxzwrlen",
+	"modifiedTime":1720224259980,
+	"name":"ClxfOUKUbXTGZXzWrleN",
+	"ownerUserId":39,
+	"path":"XIlVcDMMZt/{name}",
+	"resourceIds":[
+		"6643202a5a6e5634ab009895"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
