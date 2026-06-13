@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"668a2a6ce693f04244b517a4",
+	"createdTime":1720330866061,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"nkffryojcw/TWSslwkmlv?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"668a2a72b2ccf66e40ed5173",
+	"lastModifiedBy":39,
+	"lcName":"tgdysxmshufmqfotpmvl",
+	"modifiedTime":1720330866798,
+	"name":"tgDySxmsHUFMQfoTpmVL",
+	"ownerUserId":39,
+	"path":"TWSslwkmlv",
+	"resourceIds":[
+		"667a65107fc8ed141d971654"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
