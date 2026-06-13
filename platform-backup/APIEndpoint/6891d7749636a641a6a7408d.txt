@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6891d76f9636a641a6a7404a",
+	"createdTime":1754388340301,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"avkeqz/algsuk",
+	"id":"6891d7749636a641a6a7408d",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_ratelimitcheck - 11754387983033",
+	"modifiedTime":1754388398400,
+	"name":"endpoint_rateLimitCheck - 11754387983033",
+	"ownerUserId":39,
+	"path":"algsuk",
+	"resourceIds":[
+		"6891d7607c09af8d2e6b0f1d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
