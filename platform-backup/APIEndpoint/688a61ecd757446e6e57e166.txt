@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"688a61e8d757446e6e57e163",
+	"createdTime":1753899500277,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"guhywilsqs/ZlsenWUpAk?resourceId={{RESOURCE_ID}}",
+	"id":"688a61ecd757446e6e57e166",
+	"lastModifiedBy":39,
+	"lcName":"hbhwilncipswarqtbfqo",
+	"modifiedTime":1754374598691,
+	"name":"HBhwiLNCipsWARqTBFqo",
+	"ownerUserId":39,
+	"path":"ZlsenWUpAk",
+	"resourceIds":[
+		"6672bbd0f3e9db349a68f66f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
