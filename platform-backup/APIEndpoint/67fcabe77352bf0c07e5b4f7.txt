@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67fcabe37352bf0c07e5b4ee",
+	"createdTime":1744612327201,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"anoay0l/ap0mn3c?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67fcabe77352bf0c07e5b4f7",
+	"lastModifiedBy":39,
+	"lcName":"webhookfilter-117446122360280",
+	"modifiedTime":1744612341195,
+	"name":"webhookfilter-117446122360280",
+	"ownerUserId":39,
+	"path":"ap0mn3c",
+	"resourceIds":[
+		"678f6f61739942085acd97f2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
