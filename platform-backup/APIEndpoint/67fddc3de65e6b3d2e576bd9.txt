@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fddc35e65e6b3d2e576ba8",
+	"createdTime":1744690237286,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"Backend-Automation1744690228947/jiINPtyXos/{stringOne}/{numberOne}/{boolOne}/{stringTwo}/{numberTwo}/{boolTwo}",
+	"httpMethod":"GET",
+	"id":"67fddc3de65e6b3d2e576bd9",
+	"lastModifiedBy":39,
+	"lcName":"bxsqakyhgdnclvdzmczy",
+	"modifiedTime":1744704274276,
+	"name":"bxsQAKYhgDncLvdZmCzY",
+	"ownerUserId":39,
+	"path":"jiINPtyXos/{stringOne}/{numberOne}/{boolOne}/{stringTwo}/{numberTwo}/{boolTwo}",
+	"resourceIds":[
+		"67fddc3628825838b5068fa4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
