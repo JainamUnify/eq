@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687c82dc82707c48f3bfc94f",
+	"createdTime":1752990431783,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"abgjexl/ahngw3?resourceId={{RESOURCE_ID}}",
+	"id":"687c82df82707c48f3bfc952",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_webhookexecutetoken - 11752990117792",
+	"modifiedTime":1757340895232,
+	"name":"endpoint_webhookExecuteToken - 11752990117792",
+	"ownerUserId":39,
+	"path":"ahngw3",
+	"resourceIds":[
+		"687c82c241a0cf0eab834f52"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
