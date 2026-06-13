@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fa74b325c2654fc25dabde",
+	"createdTime":1744467169207,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"kdWUDjaUxtbKSvp/automation",
+	"httpMethod":"POST",
+	"id":"67fa74b525c2654fc25dabe2",
+	"lastModifiedBy":39,
+	"lcName":"changesetdtsandboxrabwk",
+	"modifiedTime":1744467188881,
+	"name":"changeSetDTSANDBOXrABwK",
+	"ownerUserId":39,
+	"path":"automation",
+	"policyIds":[
+		"67fa74b425c2654fc25dabdf"
+	],
+	"resourceIds":[
+		"67fa74b36237621d4871615c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
