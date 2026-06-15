@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e1812d2b5d18150871999b",
+	"createdTime":1778857063132,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"p-5-trigger-workflow/6a073425dd2df50b7507b6c5",
+	"id":"6a073467ae2aba793eb274a0",
+	"lastModifiedBy":-1,
+	"lcName":"tfygh automation web-hook",
+	"modifiedTime":1778857063132,
+	"name":"tfygh Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6a073425dd2df50b7507b6c5",
+	"projectId":5,
+	"resourceIds":[
+		"6a073425dd2df50b7507b6c5"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
