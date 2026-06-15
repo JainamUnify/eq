@@ -1,5 +1,5 @@
 {
-	"columnCounts":1,
+	"columnCounts":3,
 	"createdTime":1781518457960,
 	"deleted":false,
 	"description":"Automation",
@@ -11,6 +11,24 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"DECIMAL_MATCH_RULE":{
+					"filterable":false,
+					"description":"DECIMAL_MATCH_RULE",
+					"sortable":false,
+					"type":"number",
+					"title":"DECIMAL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
+				"INT_MATCH_RULE":{
+					"filterable":false,
+					"description":"INT_MATCH_RULE",
+					"sortable":false,
+					"type":"integer",
+					"title":"INT_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"mdmRecordMetadata":{
 					"type":"object",
 					"properties":{
@@ -161,7 +179,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781518457960,
+	"modifiedTime":1781518462459,
 	"name":"mdmlocalttqh",
 	"ownerUserId":39,
 	"packaged":false,
@@ -171,6 +189,24 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"DECIMAL_MATCH_RULE":{
+					"filterable":false,
+					"description":"DECIMAL_MATCH_RULE",
+					"sortable":false,
+					"type":"number",
+					"title":"DECIMAL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
+				"INT_MATCH_RULE":{
+					"filterable":false,
+					"description":"INT_MATCH_RULE",
+					"sortable":false,
+					"type":"integer",
+					"title":"INT_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"mdmRecordMetadata":{
 					"type":"object",
 					"properties":{
@@ -242,5 +278,5 @@
 		"MDM_GENERATED"
 	],
 	"unifiedEntityModelId":"6a2fd05da6a31c393226af0b",
-	"version":0
+	"version":2
 }
