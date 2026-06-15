@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1750923116743,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/685cf75bac302f4423fb1c9c",
+	"id":"685cf76c8d05cd59a6e92e0b",
+	"lastModifiedBy":-1,
+	"lcName":"two verisons automation web-hook",
+	"modifiedTime":1750923116743,
+	"name":"two verisons Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"685cf75bac302f4423fb1c9c",
+	"resourceIds":[
+		"685cf75bac302f4423fb1c9c"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
