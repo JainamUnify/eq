@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6705d30945c6176f15ebfeb9",
+	"createdTime":1728434961465,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"szxujhgame/wJwiQgZRzr?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6705d3112010b81c4d60e0d3",
+	"lastModifiedBy":39,
+	"lcName":"qzaqqwrjmzkfkpjiefec",
+	"modifiedTime":1728434962253,
+	"name":"QzaQQwrJMzkFkpJIefec",
+	"ownerUserId":39,
+	"path":"wJwiQgZRzr",
+	"resourceIds":[
+		"667516e9d163390ad1398fba"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
