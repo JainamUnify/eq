@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679df387fd7864511031b388",
+	"createdTime":1738404747340,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ssciviciswwpskt/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"679df38bfd7864511031b38a",
+	"lastModifiedBy":39,
+	"lcName":"changesetlocalgeevp",
+	"modifiedTime":1738406821616,
+	"name":"changeSetLocalgEeVp",
+	"ownerUserId":39,
+	"path":"webhook",
+	"policyIds":[
+		"679df3888c4fe062dd6040b8"
+	],
+	"resourceIds":[
+		"679df3856baee961efd5382a"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
