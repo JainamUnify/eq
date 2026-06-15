@@ -55,7 +55,7 @@
 	"id":"69074e21210283202ce94e58",
 	"lastModifiedBy":39,
 	"lcName":"furrrr1",
-	"modifiedTime":1781517873051,
+	"modifiedTime":1781517885294,
 	"name":"furrrr1",
 	"nodes":[
 		{
@@ -130,7 +130,8 @@
 					{
 						"property":"{{ n_q88JH.outputs.properties.sfbd }}",
 						"filter":{
-							"operator":"EQUAL"
+							"operator":"EQUAL",
+							"value":"\"\""
 						}
 					}
 				],
@@ -204,5 +205,5 @@
 		"enableVariableLogging":true
 	},
 	"standard":false,
-	"version":144
+	"version":146
 }
