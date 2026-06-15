@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"676544e8e710794a43e6e7ab",
+	"createdTime":1734690032705,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"azegbs/aeum8ok",
+	"httpMethod":"GET",
+	"id":"676544f039a31b5abe7ef7e5",
+	"lastModifiedBy":39,
+	"lcName":"callable_endpoint_accessprofile_graphqlapi - 117346873121850",
+	"modifiedTime":1748594288780,
+	"name":"callable_endpoint_accessProfile_graphQLApi - 117346873121850",
+	"ownerUserId":39,
+	"path":"aeum8ok",
+	"resourceIds":[
+		"676544d1a49b0671e136279a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
