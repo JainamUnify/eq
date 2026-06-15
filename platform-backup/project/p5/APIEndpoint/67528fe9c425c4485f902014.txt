@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67528fe6c425c4485f902013",
+	"createdTime":1733464041462,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aw06ieo/ablc80v?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67528fe9c425c4485f902014",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-pleditendpointulcplerlv117334633666580updated",
+	"modifiedTime":1748594363440,
+	"name":"rbac-ui-PLEditEndpointULcPLeRLv117334633666580Updated",
+	"ownerUserId":39,
+	"path":"ablc80v",
+	"projectId":5,
+	"resourceIds":[
+		"67528fe16d52326658dcc11a"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
