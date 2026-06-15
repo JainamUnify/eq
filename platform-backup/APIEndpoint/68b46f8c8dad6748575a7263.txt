@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68b46f898dad6748575a7262",
+	"createdTime":1756655500000,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"awafu1/a1orlci?resourceId={{RESOURCE_ID}}",
+	"id":"68b46f8c8dad6748575a7263",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-ulviewendpointulvplnrln117566545896690",
+	"modifiedTime":1756655602304,
+	"name":"rbac-ui-ULViewEndPointULvPLnRLn117566545896690",
+	"ownerUserId":39,
+	"path":"a1orlci",
+	"resourceIds":[
+		"68b46f6f5e22072f5d5c5cbe"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
