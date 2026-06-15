@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1734624660115,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/67644569817ae65b3482c8bf",
+	"httpMethod":"ANY",
+	"id":"67644594d860791e51cd6880",
+	"lastModifiedBy":-1,
+	"lcName":"rollbacktest automation web-hook",
+	"modifiedTime":1736178197139,
+	"name":"rollbacktest Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67644569817ae65b3482c8bf",
+	"resourceIds":[
+		"67644569817ae65b3482c8bf"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
