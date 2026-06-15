@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1762334269895,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/690b15f58d61786081cd57cf",
+	"id":"690b163dec75350df9bf7f1a",
+	"lastModifiedBy":-1,
+	"lcName":"load test loop automation web-hook",
+	"modifiedTime":1762334269895,
+	"name":"load test loop Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"690b15f58d61786081cd57cf",
+	"resourceIds":[
+		"690b15f58d61786081cd57cf"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
