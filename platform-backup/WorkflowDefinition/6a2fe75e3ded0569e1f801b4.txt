@@ -1,0 +1,60 @@
+{
+	"appsUsed":[
+		
+	],
+	"createdTime":1781524318499,
+	"deleted":false,
+	"edges":[
+		{
+			"fromNodeId":"_SF7hJ",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"_P32d1",
+			"type":"next"
+		}
+	],
+	"id":"6a2fe75e3ded0569e1f801b4",
+	"lastModifiedBy":39,
+	"lcName":"stereo",
+	"modifiedTime":1781524318499,
+	"name":"stereo",
+	"nodes":[
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_SF7hJ-1",
+			"id":"_SF7hJ",
+			"index":0,
+			"skip":false,
+			"title":"Select a trigger event",
+			"trigger":{
+				"type":"EVENT"
+			},
+			"type":"START"
+		},
+		{
+			"debug":false,
+			"dirty":false,
+			"fallbackMode":"STOP",
+			"groupId":"_SF7hJ-1",
+			"id":"_P32d1",
+			"index":0,
+			"skip":false,
+			"title":"Select an app and action",
+			"type":"ACTION"
+		}
+	],
+	"ownerUserId":39,
+	"settings":{
+		"enableNodeLevelLogging":true,
+		"enableRunLogging":true,
+		"enableVariableLogging":true,
+		"route":{
+			"default":false,
+			"tierName":"global"
+		}
+	},
+	"standard":false,
+	"version":0
+}
