@@ -4,6 +4,15 @@
 	],
 	"createdTime":1781510885558,
 	"deleted":false,
+	"deployedVersion":1,
+	"deploymentState":{
+		"deployedAt":1781510904218,
+		"deployedBy":39,
+		"deployedDefinitionId":"6a2fb2f63737250833d491fa",
+		"status":"DEPLOYED",
+		"version":1,
+		"workflowVersion":1
+	},
 	"edges":[
 		{
 			"fromNodeId":"n_ZEpus",
@@ -16,7 +25,7 @@
 	"id":"6a2fb2e51670823096936045",
 	"lastModifiedBy":39,
 	"lcName":"ftcdsxfdcxz",
-	"modifiedTime":1781510899656,
+	"modifiedTime":1781510978148,
 	"name":"ftcdsxfdcxz",
 	"nodes":[
 		{
@@ -33,7 +42,20 @@
 			"index":1,
 			"inputs":{
 				"request":{
-					"contentType":"application/json"
+					"contentType":"application/json",
+					"body":{
+						"type":"object",
+						"properties":{
+							"ghvcf":{
+								"type":"string",
+								"title":"Ghvcf"
+							}
+						},
+						"additionalProperties":false,
+						"required":[
+							"ghvcf"
+						]
+					}
 				}
 			},
 			"skip":false,
@@ -82,5 +104,5 @@
 		}
 	},
 	"standard":false,
-	"version":1
+	"version":2
 }
