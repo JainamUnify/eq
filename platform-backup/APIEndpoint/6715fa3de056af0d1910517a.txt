@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6715fa39e056af0d19105177",
+	"createdTime":1729493565738,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"arizy69/a5sebwh",
+	"httpMethod":"GET",
+	"id":"6715fa3de056af0d1910517a",
+	"lastModifiedBy":39,
+	"lcName":"endpoint - callable - get 11729493158152",
+	"modifiedTime":1729493565738,
+	"name":"endpoint - Callable - GET 11729493158152",
+	"ownerUserId":39,
+	"path":"a5sebwh",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
