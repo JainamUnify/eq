@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1721800677623,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/669de4e4bf60600a2c9765a2",
+	"httpMethod":"ANY",
+	"id":"66a097e555fc907fc0cf66db",
+	"lastModifiedBy":-1,
+	"lcName":"c++_chunkoverlap automation web-hook",
+	"modifiedTime":1721800677623,
+	"name":"C++_Chunkoverlap Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"669de4e4bf60600a2c9765a2",
+	"resourceIds":[
+		"669de4e4bf60600a2c9765a2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
