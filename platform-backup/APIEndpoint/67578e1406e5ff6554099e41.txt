@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1733791252222,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"automationbackendtest/UCvOlPinci/{name}",
+	"httpMethod":"DELETE",
+	"id":"67578e1406e5ff6554099e41",
+	"lastModifiedBy":39,
+	"lcName":"lffzxnqpppfsgxawwbqk",
+	"modifiedTime":1733791252222,
+	"name":"LffzxnQpppfSGXawWbqk",
+	"ownerUserId":39,
+	"path":"UCvOlPinci/{name}",
+	"resourceIds":[
+		"6643202a5a6e5634ab009895"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":0
+}
