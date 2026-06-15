@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67080952ff49dc72ed167784",
+	"createdTime":1728579925524,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aljmzcm/ajoxv",
+	"httpMethod":"POST",
+	"id":"67080955ff49dc72ed167785",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_accessprofile_post - json web token  - 11728579453862",
+	"modifiedTime":1728579925524,
+	"name":"endpoint_accessProfile_post - JSON Web Token  - 11728579453862",
+	"ownerUserId":39,
+	"path":"ajoxv",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
