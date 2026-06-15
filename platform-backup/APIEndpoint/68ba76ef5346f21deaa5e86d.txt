@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1757050607554,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68ba7682731877194526661b",
+	"id":"68ba76ef5346f21deaa5e86d",
+	"lastModifiedBy":-1,
+	"lcName":"webobjruncheck1234567890 automation web-hook",
+	"modifiedTime":1757050637525,
+	"name":"webobjruncheck1234567890 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68ba7682731877194526661b",
+	"resourceIds":[
+		"68ba7682731877194526661b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
