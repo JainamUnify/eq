@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1725237517867,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"automationbackendtest/hymAZMDbtm/{name}",
+	"httpMethod":"POST",
+	"id":"66d5090d88379d2abaf5bcc1",
+	"lastModifiedBy":39,
+	"lcName":"tkxbwhvnhuphoycmjdtv",
+	"modifiedTime":1725237517867,
+	"name":"TkXBwHVNHUpHOYcMJdtv",
+	"ownerUserId":39,
+	"path":"hymAZMDbtm/{name}",
+	"resourceIds":[
+		"6643202a5a6e5634ab009895"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
