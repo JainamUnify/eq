@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1762163832292,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/69087c6bd68f9e1f98157ff4",
+	"id":"69087c7891f28c5629dfaae3",
+	"lastModifiedBy":-1,
+	"lcName":"activitylogginglocalseanfbxbvv automation web-hook",
+	"modifiedTime":1762164187299,
+	"name":"activityLoggingLocalSEAnFbxbvV Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"69087c6bd68f9e1f98157ff4",
+	"resourceIds":[
+		"69087c6bd68f9e1f98157ff4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":3
+}
