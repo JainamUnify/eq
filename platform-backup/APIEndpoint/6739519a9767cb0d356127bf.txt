@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1731809690837,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/673951983d12520e20032d8a/{name}/{age}",
+	"httpMethod":"ANY",
+	"id":"6739519a9767cb0d356127bf",
+	"lastModifiedBy":-1,
+	"lcName":"secondworkflow1731809688329 automation web-hook",
+	"modifiedTime":1731809706393,
+	"name":"SecondWorkflow1731809688329 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"673951983d12520e20032d8a/{name}/{age}",
+	"resourceIds":[
+		"673951983d12520e20032d8a"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
