@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1765281877019,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6938102a64fa0956cd8bb51c",
+	"id":"693810559d997d233dedb162",
+	"lastModifiedBy":-1,
+	"lcName":"viewrun_buttonlocalcnoovaphhm automation web-hook",
+	"modifiedTime":1765281955110,
+	"name":"viewRun_buttonLocalcNOOVAPhHm Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6938102a64fa0956cd8bb51c",
+	"resourceIds":[
+		"6938102a64fa0956cd8bb51c"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
