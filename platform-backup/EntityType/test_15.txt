@@ -84,7 +84,7 @@
 			]
 		}
 	},
-	"lastModifiedBy":-1,
+	"lastModifiedBy":39,
 	"lcName":"test15",
 	"metadata":{
 		"auditable":false,
@@ -162,13 +162,12 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781505531121,
+	"modifiedTime":1781505926504,
 	"name":"test15",
 	"ownerUserId":39,
 	"packaged":false,
 	"pluralName":"test-obj",
 	"schema":{
-		"type":"SCHEMA",
 		"dynamic":false,
 		"schema":{
 			"additionalProperties":false,
@@ -219,5 +218,5 @@
 	"tags":[
 		
 	],
-	"version":4
+	"version":5
 }
