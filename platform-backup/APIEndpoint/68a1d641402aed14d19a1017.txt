@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a1d63b402aed14d19a1011",
+	"createdTime":1755436609597,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"awysiz/a2l8ehb",
+	"id":"68a1d641402aed14d19a1017",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_apigroup_endpointmod_11755436345288",
+	"modifiedTime":1757340747406,
+	"name":"endpoint_ApiGroup_EndpointMod_11755436345288",
+	"ownerUserId":39,
+	"path":"a2l8ehb",
+	"resourceIds":[
+		"68a1d619ce394f0e0a7697b5"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
