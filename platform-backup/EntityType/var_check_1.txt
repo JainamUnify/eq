@@ -1,5 +1,5 @@
 {
-	"columnCounts":7,
+	"columnCounts":6,
 	"createdTime":1781075581784,
 	"deleted":false,
 	"id":"var_check_1",
@@ -13,7 +13,6 @@
 				"int",
 				"num_check",
 				"list_of_str",
-				"none_obj",
 				"sfbd"
 			]
 		},
@@ -68,16 +67,6 @@
 						"type":"string"
 					},
 					"title":"List Of Str",
-					"searchable":false,
-					"sortable":false,
-					"filterable":false,
-					"primaryKey":false,
-					"uniqueKey":false,
-					"nameField":false
-				},
-				"none_obj":{
-					"type":"string",
-					"title":"None Obj",
 					"searchable":false,
 					"sortable":false,
 					"filterable":false,
@@ -177,7 +166,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781517714218,
+	"modifiedTime":1781517726274,
 	"name":"var check 1",
 	"ownerUserId":39,
 	"packaged":false,
@@ -242,16 +231,6 @@
 					"uniqueKey":false,
 					"nameField":false
 				},
-				"none_obj":{
-					"type":"string",
-					"title":"None Obj",
-					"searchable":false,
-					"sortable":false,
-					"filterable":false,
-					"primaryKey":false,
-					"uniqueKey":false,
-					"nameField":false
-				},
 				"sfbd":{
 					"type":"string",
 					"title":"Sfbd",
@@ -276,5 +255,5 @@
 	"tags":[
 		
 	],
-	"version":13
+	"version":14
 }
