@@ -1,8 +1,64 @@
 {
-	"columnCounts":0,
+	"columnCounts":4,
 	"createdTime":1781504202905,
 	"deleted":false,
 	"id":"test_15",
+	"input":{
+		"type":"SCHEMA_AND_LAYOUT",
+		"dynamic":false,
+		"layout":{
+			"ui:order":[
+				"id",
+				"name",
+				"status",
+				"details"
+			]
+		},
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"id":{
+					"type":"integer",
+					"title":"id",
+					"primaryKey":true
+				},
+				"name":{
+					"type":"string",
+					"title":"name"
+				},
+				"status":{
+					"type":"string",
+					"title":"status"
+				},
+				"details":{
+					"type":"object",
+					"properties":{
+						"createdDate":{
+							"type":"string",
+							"title":"createdDate"
+						},
+						"createdBy":{
+							"type":"string",
+							"title":"createdBy"
+						},
+						"tags":{
+							"type":"array",
+							"items":{
+								"type":"string"
+							},
+							"title":"tags"
+						}
+					},
+					"title":"details",
+					"additionalProperties":false
+				}
+			},
+			"required":[
+				"id"
+			]
+		}
+	},
 	"lastModifiedBy":39,
 	"lcName":"test15",
 	"metadata":{
@@ -23,7 +79,13 @@
 		],
 		"external":false,
 		"filterableFields":[
-			
+			"id",
+			"name",
+			"status",
+			"details",
+			"details.createdDate",
+			"details.createdBy",
+			"details.tags"
 		],
 		"hasTimeSeriesRecords":true,
 		"hashedFields":[
@@ -37,7 +99,7 @@
 		"piiFields":[
 			
 		],
-		"primaryKeyField":"",
+		"primaryKeyField":"id",
 		"referenceKeys":[
 			
 		],
@@ -75,14 +137,61 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781504202905,
+	"modifiedTime":1781504308894,
 	"name":"test15",
 	"ownerUserId":39,
 	"packaged":false,
 	"pluralName":"test-obj",
+	"schema":{
+		"dynamic":false,
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"id":{
+					"type":"integer",
+					"title":"id",
+					"primaryKey":true
+				},
+				"name":{
+					"type":"string",
+					"title":"name"
+				},
+				"status":{
+					"type":"string",
+					"title":"status"
+				},
+				"details":{
+					"type":"object",
+					"properties":{
+						"createdDate":{
+							"type":"string",
+							"title":"createdDate"
+						},
+						"createdBy":{
+							"type":"string",
+							"title":"createdBy"
+						},
+						"tags":{
+							"type":"array",
+							"items":{
+								"type":"string"
+							},
+							"title":"tags"
+						}
+					},
+					"title":"details",
+					"additionalProperties":false
+				}
+			},
+			"required":[
+				"id"
+			]
+		}
+	},
 	"standard":false,
 	"tags":[
 		
 	],
-	"version":0
+	"version":1
 }
