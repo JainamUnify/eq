@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68695990d9d3dd02d6c3f704",
+	"createdTime":1751734676437,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"algr90p/ayoorbl",
+	"id":"68695994d9d3dd02d6c3f705",
+	"lastModifiedBy":39,
+	"lcName":"endpoint - callable - delete 11751733880700",
+	"modifiedTime":1751734684740,
+	"name":"endpoint - Callable - DELETE 11751733880700",
+	"ownerUserId":39,
+	"path":"ayoorbl",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
