@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66ac9b580ab69b189a1467fc",
+	"createdTime":1722587994362,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"yhnlcxpkda/TyCvlOWnnv?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66ac9b5a0ab69b189a146806",
+	"lastModifiedBy":39,
+	"lcName":"erzpakfpgcwwztzfzlsn",
+	"modifiedTime":1722587995013,
+	"name":"eRZPAKFpGcwWZTzFZLSN",
+	"ownerUserId":39,
+	"path":"TyCvlOWnnv",
+	"resourceIds":[
+		"667516abd163390ad1398fa2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
