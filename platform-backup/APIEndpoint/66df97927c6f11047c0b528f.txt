@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66df977e7c6f11047c0b526e",
+	"createdTime":1725929362862,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"hcmdmdwbhs/HalelRDAqF?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66df97927c6f11047c0b528f",
+	"lastModifiedBy":39,
+	"lcName":"bsnwcozgrccmidhvsfue",
+	"modifiedTime":1725929363495,
+	"name":"bsNwCoZgrcCmidHvsfuE",
+	"ownerUserId":39,
+	"path":"HalelRDAqF",
+	"resourceIds":[
+		"66790e50f870230e0b8054ef"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
