@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1731671993762,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6737379d9ae8323c62270b91/{name}",
+	"httpMethod":"ANY",
+	"id":"673737b9aa9325295e4d25d6",
+	"lastModifiedBy":-1,
+	"lcName":"wejfejf automation web-hook",
+	"modifiedTime":1731674065563,
+	"name":"wejfejf Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6737379d9ae8323c62270b91/{name}",
+	"resourceIds":[
+		"6737379d9ae8323c62270b91"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
