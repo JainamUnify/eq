@@ -1,5 +1,5 @@
 {
-	"columnCounts":3,
+	"columnCounts":4,
 	"createdTime":1781518457950,
 	"deleted":false,
 	"description":"Automation",
@@ -90,6 +90,15 @@
 							}
 						}
 					}
+				},
+				"BOOL_MATCH_RULE":{
+					"filterable":false,
+					"description":"BOOL_MATCH_RULE",
+					"sortable":false,
+					"type":"boolean",
+					"title":"BOOL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
 				}
 			},
 			"required":[]
@@ -179,7 +188,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781518462403,
+	"modifiedTime":1781518464585,
 	"name":"mdmlocalzzza",
 	"ownerUserId":39,
 	"packaged":false,
@@ -268,6 +277,15 @@
 							}
 						}
 					}
+				},
+				"BOOL_MATCH_RULE":{
+					"filterable":false,
+					"description":"BOOL_MATCH_RULE",
+					"sortable":false,
+					"type":"boolean",
+					"title":"BOOL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
 				}
 			},
 			"required":[]
@@ -278,5 +296,5 @@
 		"MDM_GENERATED"
 	],
 	"unifiedEntityModelId":"6a2fd05da6a31c393226af0d",
-	"version":2
+	"version":3
 }
