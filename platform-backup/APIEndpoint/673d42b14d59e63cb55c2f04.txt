@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"673d42ab474ed00ddb645ff1",
+	"createdTime":1732068017287,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"fkemjkqzln/tpeszPFcmV/{name}",
+	"httpMethod":"GET",
+	"id":"673d42b14d59e63cb55c2f04",
+	"lastModifiedBy":39,
+	"lcName":"latufarmaxekttltlsoj",
+	"modifiedTime":1732068033525,
+	"name":"LATUfarMAxEKttltlSoJ",
+	"ownerUserId":39,
+	"path":"tpeszPFcmV/{name}",
+	"resourceIds":[
+		"673d42aee157fb640f0bd0ae"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
