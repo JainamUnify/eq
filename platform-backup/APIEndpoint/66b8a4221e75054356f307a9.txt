@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66b8a41d1e75054356f307a8",
+	"createdTime":1723376674529,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"akc5wno/abhyro7",
+	"httpMethod":"POST",
+	"id":"66b8a4221e75054356f307a9",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_delete_117233761781000",
+	"modifiedTime":1723376675469,
+	"name":"Endpoint_delete_117233761781000",
+	"ownerUserId":39,
+	"path":"abhyro7",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
