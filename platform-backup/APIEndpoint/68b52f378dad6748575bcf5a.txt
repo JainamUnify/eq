@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b52f1c8dad6748575bcef9",
+	"createdTime":1756704567302,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"getfvfbiEFrVc/MSFaMclMKVHLOybHtpCT",
+	"id":"68b52f378dad6748575bcf5a",
+	"lastModifiedBy":39,
+	"lcName":"msfamclmkvhloybhtpct",
+	"modifiedTime":1756704647334,
+	"name":"MSFaMclMKVHLOybHtpCT",
+	"ownerUserId":39,
+	"path":"MSFaMclMKVHLOybHtpCT",
+	"policyIds":[
+		"68b52f138dad6748575bceb4"
+	],
+	"resourceIds":[
+		"6874efe3e6852b67bdd2c366"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
