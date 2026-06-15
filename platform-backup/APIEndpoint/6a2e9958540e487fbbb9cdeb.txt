@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1781438808764,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6a2e9640fe25cd69abcde7ea",
+	"id":"6a2e9958540e487fbbb9cdeb",
+	"lastModifiedBy":-1,
+	"lcName":"loops_check automation web-hook",
+	"modifiedTime":1781438829545,
+	"name":"loops_check Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6a2e9640fe25cd69abcde7ea",
+	"resourceIds":[
+		"6a2e9640fe25cd69abcde7ea"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
