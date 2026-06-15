@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6720c3655a8fc2352f7f69a2",
+	"createdTime":1731730147924,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/67381ade930dd67620eb2f20",
+	"httpMethod":"ANY",
+	"id":"67381ae370ddc21591a21106",
+	"lastModifiedBy":-1,
+	"lcName":"rvcsd automation web-hook",
+	"modifiedTime":1731730173538,
+	"name":"rvcsd Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67381ade930dd67620eb2f20",
+	"resourceIds":[
+		"67381ade930dd67620eb2f20"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":2
+}
