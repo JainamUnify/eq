@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66aec8ff2915467f22b9a035",
+	"createdTime":1722730753132,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"jucsrwgkmt/NJThODizAp?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"66aec9016a7ad440676e6e0f",
+	"lastModifiedBy":39,
+	"lcName":"vccvqcvucdzfoglhjnej",
+	"modifiedTime":1722730753815,
+	"name":"vcCVQCvuCdZFogLhJNej",
+	"ownerUserId":39,
+	"path":"NJThODizAp",
+	"resourceIds":[
+		"6672c7d2f3e9db349a68fc4f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
