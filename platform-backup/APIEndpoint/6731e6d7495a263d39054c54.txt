@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6731e63858f87517fd99856e",
+	"createdTime":1731323607001,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"bqpenvrsaw/fff",
+	"httpMethod":"GET",
+	"id":"6731e6d7495a263d39054c54",
+	"lastModifiedBy":39,
+	"lcName":"fff",
+	"modifiedTime":1731323608584,
+	"name":"fff",
+	"ownerUserId":39,
+	"path":"fff",
+	"resourceIds":[
+		"670651b0448b94169c605d95"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
