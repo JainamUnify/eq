@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b344098dad674857576075",
+	"createdTime":1756578826277,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"cIswtnpyuAnZbld/automation/endpoint1",
+	"httpMethod":"POST",
+	"id":"68b3440a8dad674857576077",
+	"lastModifiedBy":39,
+	"lcName":"connectorssdkuatshxow",
+	"modifiedTime":1757156176942,
+	"name":"ConnectorsSdkUATShXoW",
+	"ownerUserId":39,
+	"path":"automation/endpoint1",
+	"resourceIds":[
+		"68b344085ddd2b4dbac96881"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
