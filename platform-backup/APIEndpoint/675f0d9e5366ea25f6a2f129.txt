@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"675f0d999d189211eb731aab",
+	"createdTime":1734282654972,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aawauyq/aif2l?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"675f0d9e5366ea25f6a2f129",
+	"lastModifiedBy":39,
+	"lcName":"endpointwebhook - callable - put 11734282127203",
+	"modifiedTime":1734282654972,
+	"name":"endpointwebhook - Callable - PUT 11734282127203",
+	"ownerUserId":39,
+	"path":"aif2l",
+	"resourceIds":[
+		"67371bd88bb257673760259e"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":0
+}
