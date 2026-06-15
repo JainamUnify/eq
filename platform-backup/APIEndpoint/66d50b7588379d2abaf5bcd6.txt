@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66d50b7488379d2abaf5bccf",
+	"createdTime":1725238133125,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"qopcmrudgt/uksswIciJH?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"66d50b7588379d2abaf5bcd6",
+	"lastModifiedBy":39,
+	"lcName":"aitubjmapahuudsjzaln",
+	"modifiedTime":1725238133919,
+	"name":"aiTUBJMapAHuudsjZaln",
+	"ownerUserId":39,
+	"path":"uksswIciJH",
+	"resourceIds":[
+		"667257f528e4bb4cb40d3e41"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
