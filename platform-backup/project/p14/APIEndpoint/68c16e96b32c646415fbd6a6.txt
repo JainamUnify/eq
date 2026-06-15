@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"673da7954d59e63cb55c4e54",
+	"createdTime":1773254335660,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"CUSTOM-HTTP-NODE-TESTING-DND/dnt-StatusCodeFiveHundredSerious",
+	"id":"68c16e96b32c646415fbd6a6",
+	"lastModifiedBy":39,
+	"lcName":"dnt_statuscodefivehundredserious",
+	"modifiedTime":1776406498385,
+	"name":"dnt_StatusCodeFiveHundredSerious",
+	"ownerUserId":39,
+	"path":"dnt-StatusCodeFiveHundredSerious",
+	"projectId":14,
+	"resourceIds":[
+		"68c16b4998acba6a60bce1f4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		-1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":6
+}
