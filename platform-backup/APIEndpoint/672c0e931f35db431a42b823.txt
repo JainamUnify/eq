@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"672c0e8d1f35db431a42b80d",
+	"createdTime":1730940563638,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"dwpxxkwwnb/PGDmYRUsaL?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"672c0e931f35db431a42b823",
+	"lastModifiedBy":39,
+	"lcName":"deoichysaxksgyirfxus",
+	"modifiedTime":1730940564372,
+	"name":"DeoIcHySAxksGYiRFxuS",
+	"ownerUserId":39,
+	"path":"PGDmYRUsaL",
+	"resourceIds":[
+		"667a4e3fd1d92d0a308dafb2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
