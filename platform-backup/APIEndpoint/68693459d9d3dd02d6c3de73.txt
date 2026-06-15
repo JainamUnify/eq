@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68693455d9d3dd02d6c3de70",
+	"createdTime":1751725145686,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a2xbuzf/aukgve",
+	"id":"68693459d9d3dd02d6c3de73",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_delete_117517240568040",
+	"modifiedTime":1751725149964,
+	"name":"Endpoint_delete_117517240568040",
+	"ownerUserId":39,
+	"path":"aukgve",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
