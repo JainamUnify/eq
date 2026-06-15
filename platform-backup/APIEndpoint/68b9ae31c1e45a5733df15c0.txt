@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b9ae2ec1e45a5733df15b8",
+	"createdTime":1756999217902,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aan0my/ammgayp",
+	"id":"68b9ae31c1e45a5733df15c0",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_enable_117569991971480",
+	"modifiedTime":1757000410952,
+	"name":"endpoint_enable_117569991971480",
+	"ownerUserId":39,
+	"path":"ammgayp",
+	"resourceIds":[
+		"68b9ae1f6607f33c4d81509e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"PUT"
+	],
+	"version":2
+}
