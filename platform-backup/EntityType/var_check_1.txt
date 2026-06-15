@@ -77,6 +77,7 @@
 				"none_obj":{
 					"type":"string",
 					"title":"None Obj",
+					"default":"null",
 					"searchable":false,
 					"sortable":false,
 					"filterable":false,
@@ -167,7 +168,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781517185690,
+	"modifiedTime":1781517326475,
 	"name":"var check 1",
 	"ownerUserId":39,
 	"packaged":false,
@@ -235,6 +236,7 @@
 				"none_obj":{
 					"type":"string",
 					"title":"None Obj",
+					"default":"null",
 					"searchable":false,
 					"sortable":false,
 					"filterable":false,
@@ -257,5 +259,5 @@
 	"tags":[
 		
 	],
-	"version":7
+	"version":8
 }
