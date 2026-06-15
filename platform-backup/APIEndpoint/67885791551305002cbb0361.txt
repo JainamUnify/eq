@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6788578a4da4987e49c4575c",
+	"createdTime":1736988561357,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"eiopuetman/vdmFelaLAE?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67885791551305002cbb0361",
+	"lastModifiedBy":39,
+	"lcName":"zvlkriehkzfttdvtqper",
+	"modifiedTime":1736988562018,
+	"name":"ZVLKRiEHKZFTTdVtqper",
+	"ownerUserId":39,
+	"path":"vdmFelaLAE",
+	"resourceIds":[
+		"667516e9d163390ad1398fba"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
