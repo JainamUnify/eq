@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"673bf38a2c5aa66c5c40a690",
+	"createdTime":1731982224249,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"gleqqstymi/mxLmbHtpBJ?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"673bf390f2d1320eb3d2c81e",
+	"lastModifiedBy":39,
+	"lcName":"ckkumtoacvritpoxsmcf",
+	"modifiedTime":1731982225051,
+	"name":"CKkUmtoaCvRiTPOxsMcF",
+	"ownerUserId":39,
+	"path":"mxLmbHtpBJ",
+	"resourceIds":[
+		"6672c4def3e9db349a68f971"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
