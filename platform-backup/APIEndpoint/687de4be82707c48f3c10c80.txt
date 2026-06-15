@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"687de4b682707c48f3c10c7d",
+	"createdTime":1753081022428,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a4t92s/akgit2",
+	"id":"687de4be82707c48f3c10c80",
+	"lastModifiedBy":39,
+	"lcName":"endpoint-and_multipleconditions-117530808460670",
+	"modifiedTime":1757340874032,
+	"name":"endpoint-AND_multipleConditions-117530808460670",
+	"ownerUserId":39,
+	"path":"akgit2",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
