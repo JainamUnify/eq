@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1761376448261,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68fbb6b87d918c6b031fadd8",
+	"id":"68fc78c02a7f656f7d024b1c",
+	"lastModifiedBy":-1,
+	"lcName":"qwertyui automation web-hook",
+	"modifiedTime":1761376448261,
+	"name":"qwertyui Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68fbb6b87d918c6b031fadd8",
+	"resourceIds":[
+		"68fbb6b87d918c6b031fadd8"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
