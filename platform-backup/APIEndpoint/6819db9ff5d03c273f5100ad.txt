@@ -1,0 +1,37 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6819db63f5d03c273f510024",
+	"createdTime":1746525087862,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"testApi/testApi",
+	"httpMethod":"POST",
+	"id":"6819db9ff5d03c273f5100ad",
+	"lastModifiedBy":39,
+	"lcName":"testapi",
+	"modifiedTime":1746525588187,
+	"name":"testApi",
+	"ownerUserId":39,
+	"path":"testApi",
+	"policyIds":[
+		
+	],
+	"resourceIds":[
+		"6819da1c5a223b1913a4a35f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":5
+}
