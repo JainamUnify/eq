@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"675a331906e5ff65540a780e",
+	"createdTime":1733964569990,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aknuropbel/PqSOXngbWN/{name}/{height}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"675a331906e5ff65540a7810",
+	"lastModifiedBy":39,
+	"lcName":"yhyutxxbgkcjvpiuzaya",
+	"modifiedTime":1733964570875,
+	"name":"yhyUtXxBgkCjVpiUzaya",
+	"ownerUserId":39,
+	"path":"PqSOXngbWN/{name}/{height}",
+	"resourceIds":[
+		"667426623fc3fb3a478ffc63"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
