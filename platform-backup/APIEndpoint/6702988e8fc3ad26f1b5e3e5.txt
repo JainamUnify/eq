@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6702988c8fc3ad26f1b5e3de",
+	"createdTime":1728223374285,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"nyyuekaruo/scFNSuelFk?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6702988e8fc3ad26f1b5e3e5",
+	"lastModifiedBy":39,
+	"lcName":"lhldfyyvamvhhtfksfpl",
+	"modifiedTime":1728223375028,
+	"name":"LHLdfYYvAMVHhtfksFpl",
+	"ownerUserId":39,
+	"path":"scFNSuelFk",
+	"resourceIds":[
+		"667516abd163390ad1398fa2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
