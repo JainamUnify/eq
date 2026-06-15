@@ -1,5 +1,5 @@
 {
-	"columnCounts":6,
+	"columnCounts":7,
 	"createdTime":1781075581784,
 	"deleted":false,
 	"id":"var_check_1",
@@ -13,7 +13,8 @@
 				"int",
 				"num_check",
 				"list_of_str",
-				"none_obj"
+				"none_obj",
+				"sfbd"
 			]
 		},
 		"schema":{
@@ -77,6 +78,16 @@
 				"none_obj":{
 					"type":"string",
 					"title":"None Obj",
+					"searchable":false,
+					"sortable":false,
+					"filterable":false,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				},
+				"sfbd":{
+					"type":"string",
+					"title":"Sfbd",
 					"searchable":false,
 					"sortable":false,
 					"filterable":false,
@@ -166,7 +177,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781517647498,
+	"modifiedTime":1781517714218,
 	"name":"var check 1",
 	"ownerUserId":39,
 	"packaged":false,
@@ -240,6 +251,16 @@
 					"primaryKey":false,
 					"uniqueKey":false,
 					"nameField":false
+				},
+				"sfbd":{
+					"type":"string",
+					"title":"Sfbd",
+					"searchable":false,
+					"sortable":false,
+					"filterable":false,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
 				}
 			},
 			"required":[
@@ -247,8 +268,7 @@
 				"boolean",
 				"int",
 				"num_check",
-				"list_of_str",
-				"none_obj"
+				"list_of_str"
 			]
 		}
 	},
@@ -256,5 +276,5 @@
 	"tags":[
 		
 	],
-	"version":12
+	"version":13
 }
