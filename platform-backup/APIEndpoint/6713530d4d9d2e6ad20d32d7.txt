@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1729319693436,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/671352cf061d931821db9a8b",
+	"httpMethod":"ANY",
+	"id":"6713530d4d9d2e6ad20d32d7",
+	"lastModifiedBy":-1,
+	"lcName":"hdghjf automation web-hook",
+	"modifiedTime":1730725834679,
+	"name":"hdghjf Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"671352cf061d931821db9a8b",
+	"resourceIds":[
+		"671352cf061d931821db9a8b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
