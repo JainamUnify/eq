@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1733291178502,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/674537f12cc6fd0492dab9d4",
+	"httpMethod":"ANY",
+	"id":"674fecaacd8ae73b666d21ca",
+	"lastModifiedBy":-1,
+	"lcName":"ahc automation web-hook",
+	"modifiedTime":1733291178502,
+	"name":"ahc Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"674537f12cc6fd0492dab9d4",
+	"resourceIds":[
+		"674537f12cc6fd0492dab9d4"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
