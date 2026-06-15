@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684fb09d18c8585f7ce58d2a",
+	"createdTime":1750053027044,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aes7vtv/avp14hc?resourceId={{RESOURCE_ID}}",
+	"id":"684fb0a318c8585f7ce58d31",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-rlviewendpointulcplerlv117500525764510",
+	"modifiedTime":1751895441529,
+	"name":"rbac-ui-RLViewEndpointULcPLeRLv117500525764510",
+	"ownerUserId":39,
+	"path":"avp14hc",
+	"resourceIds":[
+		"684fb0945e1f71459863f3cb"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
