@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6754ed38edb7825fb8d93f79",
+	"createdTime":1733619008020,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"txuoucceas/unYLAppCUB?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6754ed40edb7825fb8d93f90",
+	"lastModifiedBy":39,
+	"lcName":"yagmiyknrfyxkqfkrwiz",
+	"modifiedTime":1733619008868,
+	"name":"yAgMIykNRfyxKqFKrWiz",
+	"ownerUserId":39,
+	"path":"unYLAppCUB",
+	"resourceIds":[
+		"667a4e3fd1d92d0a308dafb2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
