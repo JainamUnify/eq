@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67963db9d49a2358f419e856",
+	"createdTime":1737899458478,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"auf9s3/ao303d",
+	"httpMethod":"GET",
+	"id":"67963dc2d49a2358f419e868",
+	"lastModifiedBy":39,
+	"lcName":"callable_endpoint_accessprofile_graphqlapi - 117378982578550",
+	"modifiedTime":1744443523084,
+	"name":"callable_endpoint_accessProfile_graphQLApi - 117378982578550",
+	"ownerUserId":39,
+	"path":"ao303d",
+	"resourceIds":[
+		"67963da2d8ea152949baf54c"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
