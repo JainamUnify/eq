@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"673758e7e2860543e9ae71d5",
+	"createdTime":1731680490643,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a3jjj7/ac084hl",
+	"httpMethod":"GET",
+	"id":"673758eae2860543e9ae71d6",
+	"lastModifiedBy":39,
+	"lcName":"rbaculeditendpointplviewulnrln117316766632890",
+	"modifiedTime":1748594441643,
+	"name":"RbacULEditEndPointPLViewULnRLn117316766632890",
+	"ownerUserId":39,
+	"path":"ac084hl",
+	"resourceIds":[
+		"673758cacb87e27ce8eadaec"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
