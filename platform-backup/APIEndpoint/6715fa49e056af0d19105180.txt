@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6715fa45e056af0d1910517e",
+	"createdTime":1729493577665,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"azilrrq/a5tawvr",
+	"httpMethod":"POST",
+	"id":"6715fa49e056af0d19105180",
+	"lastModifiedBy":39,
+	"lcName":"endpoint - callable - post 11729493158152",
+	"modifiedTime":1729493577665,
+	"name":"endpoint - Callable - POST 11729493158152",
+	"ownerUserId":39,
+	"path":"a5tawvr",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
