@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6828226dd3bcbf7dc7e6d578",
+	"createdTime":1747460725027,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ah1guph/apuesh",
+	"httpMethod":"POST",
+	"id":"68282275a968493f5cbb5c5d",
+	"lastModifiedBy":39,
+	"lcName":"endpoint1_noauth - 11747460418113",
+	"modifiedTime":1747460791226,
+	"name":"endpoint1_noAuth - 11747460418113",
+	"ownerUserId":39,
+	"path":"apuesh",
+	"resourceIds":[
+		"6828225db9345c7d44ef3e92"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
