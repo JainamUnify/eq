@@ -1,0 +1,36 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68aa02ca59131533a9f8e415",
+	"createdTime":1756356088649,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"virtusa/report",
+	"id":"68afddf8c77d24087110c31e",
+	"lastModifiedBy":39,
+	"lcName":"reportservices",
+	"modifiedTime":1763195339027,
+	"name":"reportservices",
+	"ownerUserId":39,
+	"path":"report",
+	"resourceIds":[
+		
+	],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP",
+		"routeTransformer":false,
+		"sslVerify":true,
+		"url":"https://ecgy-dev2.fa.ap2.oraclecloud.com:443/crmService/FoundationPartiesPersonService"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
