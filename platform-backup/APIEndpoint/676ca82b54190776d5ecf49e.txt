@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"676ca8118897506e31f29ae4",
+	"createdTime":1735174187530,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"pwgrfciiso/lnaPAlPShc/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"676ca82b54190776d5ecf49e",
+	"lastModifiedBy":39,
+	"lcName":"equpzosautdelunwlqnl",
+	"modifiedTime":1735174188331,
+	"name":"equpzoSaUtdElUnWLqNl",
+	"ownerUserId":39,
+	"path":"lnaPAlPShc/{name}/{age}",
+	"resourceIds":[
+		"66797116d470d60137eb21af"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
