@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67524a24c425c4485f9008e3",
+	"createdTime":1733446184871,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"grndcssslp/AwXXmiJonk?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67524a28c425c4485f9008f6",
+	"lastModifiedBy":39,
+	"lcName":"hdouvssgyvljigszoygv",
+	"modifiedTime":1733446185709,
+	"name":"HDOuVSsgyVljIGszOYGv",
+	"ownerUserId":39,
+	"path":"AwXXmiJonk",
+	"resourceIds":[
+		"6673e19b59b8f672e5dedefe"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
