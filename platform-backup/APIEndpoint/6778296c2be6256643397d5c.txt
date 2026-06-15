@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677829672be6256643397d5b",
+	"createdTime":1735928172870,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"asok576/ahc5hjf?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6778296c2be6256643397d5c",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-rlviewendpointulnplerlv117359207138190",
+	"modifiedTime":1748594257293,
+	"name":"rbac-ui-RLViewEndPointULnPLeRLv117359207138190",
+	"ownerUserId":39,
+	"path":"ahc5hjf",
+	"resourceIds":[
+		"67782955db90c72191f69f98"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
