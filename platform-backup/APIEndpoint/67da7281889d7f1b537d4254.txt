@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67cfe20c4538fe3f0cbeffb2",
+	"createdTime":1742369409352,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/67da6e7bf3c42e015345eea9",
+	"httpMethod":"ANY",
+	"id":"67da7281889d7f1b537d4254",
+	"lastModifiedBy":-1,
+	"lcName":"cachemanage automation web-hook",
+	"modifiedTime":1742369409352,
+	"name":"cachemanage Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67da6e7bf3c42e015345eea9",
+	"resourceIds":[
+		"67da6e7bf3c42e015345eea9"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
