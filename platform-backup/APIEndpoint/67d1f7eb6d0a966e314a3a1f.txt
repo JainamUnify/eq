@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d1f7e66d0a966e314a3a1c",
+	"createdTime":1741813739246,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"alenp2p/ams6z29?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PATCH",
+	"id":"67d1f7eb6d0a966e314a3a1f",
+	"lastModifiedBy":39,
+	"lcName":"endpointwebhook - callable - patch 11741808262129",
+	"modifiedTime":1741813743123,
+	"name":"endpointwebhook - Callable - PATCH 11741808262129",
+	"ownerUserId":39,
+	"path":"ams6z29",
+	"resourceIds":[
+		"678f6f61739942085acd97f2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
