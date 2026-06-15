@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684d815cfb17736bcef9f10f",
+	"createdTime":1749909862451,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"a5wwx4s/algyt1",
+	"id":"684d8166fb17736bcef9f114",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_e2e_workflow_callable_object_basic_117499083488140",
+	"modifiedTime":1751895457255,
+	"name":"Endpoint_E2E_Workflow_Callable_Object_Basic_117499083488140",
+	"ownerUserId":39,
+	"path":"algyt1",
+	"resourceIds":[
+		"684d80e8b121c97d77889eb0"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
