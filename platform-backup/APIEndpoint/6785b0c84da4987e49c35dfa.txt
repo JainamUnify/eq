@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6785b0bf4da4987e49c35dd6",
+	"createdTime":1736814792359,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"qwyjrutigw/FutiKAPAqa",
+	"httpMethod":"POST",
+	"id":"6785b0c84da4987e49c35dfa",
+	"lastModifiedBy":39,
+	"lcName":"tqczzndogfzdnpuboyzg",
+	"modifiedTime":1736814793043,
+	"name":"TqcZznDOGFZDnpUBoYZg",
+	"ownerUserId":39,
+	"path":"FutiKAPAqa",
+	"resourceIds":[
+		"66b37c00798fca146a176ced"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
