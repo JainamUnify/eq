@@ -2,6 +2,19 @@
 	"columnCounts":4,
 	"createdTime":1781504202905,
 	"deleted":false,
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"V"
+				],
+				"principalIds":[
+					"99392"
+				],
+				"principalType":"USER"
+			}
+		]
+	},
 	"id":"test_15",
 	"input":{
 		"type":"SCHEMA_AND_LAYOUT",
@@ -71,7 +84,7 @@
 			]
 		}
 	},
-	"lastModifiedBy":39,
+	"lastModifiedBy":-1,
 	"lcName":"test15",
 	"metadata":{
 		"auditable":false,
@@ -149,12 +162,13 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781504684359,
+	"modifiedTime":1781504848484,
 	"name":"test15",
 	"ownerUserId":39,
 	"packaged":false,
 	"pluralName":"test-obj",
 	"schema":{
+		"type":"SCHEMA",
 		"dynamic":false,
 		"schema":{
 			"additionalProperties":false,
@@ -205,5 +219,5 @@
 	"tags":[
 		
 	],
-	"version":2
+	"version":3
 }
