@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677b9816747f245dfa94e024",
+	"createdTime":1736153114229,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"aclu9zc/amacvv?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677b981a2be62566433abab4",
+	"lastModifiedBy":39,
+	"lcName":"rbac-ui-plviewendpointuleplvrln117361453006600",
+	"modifiedTime":1744443561229,
+	"name":"rbac-ui-PLViewEndPointULePLvRLn117361453006600",
+	"ownerUserId":39,
+	"path":"amacvv",
+	"projectId":5,
+	"resourceIds":[
+		"677b980e79e3e62b20209c29"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
