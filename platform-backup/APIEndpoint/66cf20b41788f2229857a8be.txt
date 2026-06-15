@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66cf20ad1788f2229857a8b9",
+	"createdTime":1724850356034,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"vpnprvhhvi/jgridcYxXR/{name}",
+	"httpMethod":"DELETE",
+	"id":"66cf20b41788f2229857a8be",
+	"lastModifiedBy":39,
+	"lcName":"hypyxetgryazxospbxxu",
+	"modifiedTime":1724850356751,
+	"name":"HypyXetgrYaZxosPBXXu",
+	"ownerUserId":39,
+	"path":"jgridcYxXR/{name}",
+	"resourceIds":[
+		"66cf209f9229084af4f79468"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
