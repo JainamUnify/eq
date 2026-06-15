@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1744467230847,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/67fa751e6f68d7372901a40c",
+	"httpMethod":"ANY",
+	"id":"67fa751e7352bf0c07e2b96d",
+	"lastModifiedBy":-1,
+	"lcName":"changesetdtsandboxiohmpuywwcoj automation web-hook",
+	"modifiedTime":1744651345036,
+	"name":"changeSetDTSANDBOXIOhmpUYWWCoJ Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67fa751e6f68d7372901a40c",
+	"resourceIds":[
+		"67fa751e6f68d7372901a40c"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
