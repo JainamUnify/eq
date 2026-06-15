@@ -1,5 +1,5 @@
 {
-	"columnCounts":1,
+	"columnCounts":2,
 	"createdTime":1781518457296,
 	"deleted":false,
 	"description":"Automation",
@@ -11,6 +11,15 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"INT_MATCH_RULE":{
+					"filterable":false,
+					"description":"INT_MATCH_RULE",
+					"sortable":false,
+					"type":"integer",
+					"title":"INT_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"mdmRecordMetadata":{
 					"type":"object",
 					"properties":{
@@ -161,7 +170,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781518457296,
+	"modifiedTime":1781518459645,
 	"name":"mdmlocalgzbm",
 	"ownerUserId":39,
 	"packaged":false,
@@ -171,6 +180,15 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"INT_MATCH_RULE":{
+					"filterable":false,
+					"description":"INT_MATCH_RULE",
+					"sortable":false,
+					"type":"integer",
+					"title":"INT_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"mdmRecordMetadata":{
 					"type":"object",
 					"properties":{
@@ -242,5 +260,5 @@
 		"MDM_GENERATED"
 	],
 	"unifiedEntityModelId":"6a2fd05ca6a31c393226af07",
-	"version":0
+	"version":1
 }
