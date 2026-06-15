@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66e62742505894748dcdf9be",
+	"createdTime":1726359371796,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"oxosbraynx/eCQhNPRumV",
+	"httpMethod":"DELETE",
+	"id":"66e6274b7c6f11047c0b54fd",
+	"lastModifiedBy":39,
+	"lcName":"qzllxpnzpuztdvtfzqgb",
+	"modifiedTime":1726359372502,
+	"name":"QzLLxPnzPuzTDvTfzqgb",
+	"ownerUserId":39,
+	"path":"eCQhNPRumV",
+	"resourceIds":[
+		"66e62739e4becf046d1d21f6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
