@@ -1,8 +1,34 @@
 {
-	"columnCounts":0,
+	"columnCounts":1,
 	"createdTime":1781516388503,
 	"deleted":false,
 	"id":"apiz9f3",
+	"input":{
+		"type":"SCHEMA_AND_LAYOUT",
+		"dynamic":false,
+		"layout":{
+			"ui:order":[
+				"update_record"
+			]
+		},
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"update_record":{
+					"type":"string",
+					"title":"update_record",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				}
+			},
+			"required":[]
+		}
+	},
 	"lastModifiedBy":39,
 	"lcName":"form-ssd-217815162282430",
 	"metadata":{
@@ -23,7 +49,7 @@
 		],
 		"external":false,
 		"filterableFields":[
-			
+			"update_record"
 		],
 		"hasTimeSeriesRecords":true,
 		"hashedFields":[
@@ -75,14 +101,34 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781516388503,
+	"modifiedTime":1781516393533,
 	"name":"form-ssd-217815162282430",
 	"ownerUserId":39,
 	"packaged":false,
 	"pluralName":"form-ssd-217815162282430s",
+	"schema":{
+		"dynamic":false,
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"update_record":{
+					"type":"string",
+					"title":"update_record",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				}
+			},
+			"required":[]
+		}
+	},
 	"standard":false,
 	"tags":[
 		"dnt_tag"
 	],
-	"version":0
+	"version":1
 }
