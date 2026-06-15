@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68baa5f55346f21deaa69c06",
+	"createdTime":1757062649270,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aonvc4/anovey",
+	"id":"68baa5f95346f21deaa69c0b",
+	"lastModifiedBy":39,
+	"lcName":"scopeendpointfalse_11757062608872",
+	"modifiedTime":1757340685426,
+	"name":"scopeendPointFalse_11757062608872",
+	"ownerUserId":39,
+	"path":"anovey",
+	"resourceIds":[
+		"68baa5d66607f33c4d859b74"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
