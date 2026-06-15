@@ -55,7 +55,7 @@
 	"id":"69074e21210283202ce94e58",
 	"lastModifiedBy":39,
 	"lcName":"furrrr1",
-	"modifiedTime":1781512202002,
+	"modifiedTime":1781512211567,
 	"name":"furrrr1",
 	"nodes":[
 		{
@@ -125,7 +125,18 @@
 			"groupId":"_QPyDa-1",
 			"id":"n_joipm",
 			"index":3,
-			"inputs":{},
+			"inputs":{
+				"filters":[
+					{
+						"property":"0",
+						"filter":{
+							"operator":"EQUAL",
+							"value":"null"
+						}
+					}
+				],
+				"operator":"AND"
+			},
 			"skip":false,
 			"subTitle":"Condition",
 			"title":"Condition",
@@ -194,5 +205,5 @@
 		"enableVariableLogging":true
 	},
 	"standard":false,
-	"version":132
+	"version":133
 }
