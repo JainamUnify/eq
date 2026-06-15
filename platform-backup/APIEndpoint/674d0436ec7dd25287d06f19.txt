@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"674d043380de8f6fa02c9496",
+	"createdTime":1733100598293,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ihhtzqsiqh/AmUXTIMnup?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"674d0436ec7dd25287d06f19",
+	"lastModifiedBy":39,
+	"lcName":"fzwqfeqyewyxailgqbpi",
+	"modifiedTime":1733100599153,
+	"name":"FZwQfeqYEwYxAIlgqbPI",
+	"ownerUserId":39,
+	"path":"AmUXTIMnup",
+	"resourceIds":[
+		"667a7861543cd2029ca54501"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
