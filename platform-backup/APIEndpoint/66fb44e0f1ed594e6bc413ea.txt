@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1727743200646,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"automationbackendtest/JQWNigIVjQ/{name}",
+	"httpMethod":"PATCH",
+	"id":"66fb44e0f1ed594e6bc413ea",
+	"lastModifiedBy":39,
+	"lcName":"axbspkzaarpodlfpgdlp",
+	"modifiedTime":1727743200646,
+	"name":"axBsPkzaarpOdlfpgDLP",
+	"ownerUserId":39,
+	"path":"JQWNigIVjQ/{name}",
+	"resourceIds":[
+		"6643202a5a6e5634ab009895"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":0
+}
