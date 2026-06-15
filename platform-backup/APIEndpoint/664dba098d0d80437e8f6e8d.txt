@@ -1,0 +1,48 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1716369929322,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/664db98889651153fc4ee8c1",
+	"grants":{
+		"configs":[
+			{
+				"permissions":[
+					"A",
+					"C",
+					"S",
+					"D",
+					"E",
+					"V"
+				],
+				"principalIds":[
+					"666b1a3b6b759e6797ac64b0"
+				],
+				"principalType":"USER_GROUPS"
+			}
+		]
+	},
+	"httpMethod":"ANY",
+	"id":"664dba098d0d80437e8f6e8d",
+	"lastModifiedBy":0,
+	"lcName":"zendesk_createticket_getticketdetails (copy) automation web-hook",
+	"modifiedTime":1719055455503,
+	"name":"Zendesk_createTicket_getTicketDetails (Copy) Automation Web-hook",
+	"ownerUserId":39,
+	"path":"664db98889651153fc4ee8c1",
+	"resourceIds":[
+		"664db98889651153fc4ee8c1"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":9
+}
