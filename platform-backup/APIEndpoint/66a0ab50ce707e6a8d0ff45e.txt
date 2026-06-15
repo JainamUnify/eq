@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1721805648314,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/669fa9173f91371be7a9e345",
+	"httpMethod":"ANY",
+	"id":"66a0ab50ce707e6a8d0ff45e",
+	"lastModifiedBy":-1,
+	"lcName":"haskell_assign_maxchunksize_codetextsplitter automation web-hook",
+	"modifiedTime":1721805648314,
+	"name":"Haskell_Assign_MaxChunkSize_CodeTextSplitter Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"669fa9173f91371be7a9e345",
+	"resourceIds":[
+		"669fa9173f91371be7a9e345"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
