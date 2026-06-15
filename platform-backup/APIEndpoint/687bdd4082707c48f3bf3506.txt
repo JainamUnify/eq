@@ -1,0 +1,33 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"687bdd3c82707c48f3bf34f6",
+	"createdTime":1752948032143,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"acntyob/ak97nx",
+	"id":"687bdd4082707c48f3bf3506",
+	"lastModifiedBy":39,
+	"lcName":"endpoint post update - 11752946803921",
+	"modifiedTime":1752948049849,
+	"name":"endpoint post update - 11752946803921",
+	"ownerUserId":39,
+	"path":"ak97nx",
+	"resourceIds":[
+		"67b575dc9c0d0432b5eece70"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
