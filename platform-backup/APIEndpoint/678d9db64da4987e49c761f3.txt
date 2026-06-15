@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678d9db24da4987e49c761d1",
+	"createdTime":1737334198214,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"drobiktraf/hkqbyihODB?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"678d9db64da4987e49c761f3",
+	"lastModifiedBy":39,
+	"lcName":"cywjsjxrhupqvosmldwg",
+	"modifiedTime":1737334198880,
+	"name":"cyWJSJxRHupqvOsMlDWG",
+	"ownerUserId":39,
+	"path":"hkqbyihODB",
+	"resourceIds":[
+		"66741bba3fc3fb3a478febe9"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
