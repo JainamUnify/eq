@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1754302869692,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6847c6fc88a8f34ba521c80e",
+	"id":"68908995d757446e6e664a37",
+	"lastModifiedBy":-1,
+	"lcName":"bhavesh_test automation web-hook",
+	"modifiedTime":1754302869692,
+	"name":"bhavesh_test Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6847c6fc88a8f34ba521c80e",
+	"resourceIds":[
+		"6847c6fc88a8f34ba521c80e"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
