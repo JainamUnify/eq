@@ -6,6 +6,8 @@
 		"configs":[
 			{
 				"permissions":[
+					"C",
+					"E",
 					"V"
 				],
 				"principalIds":[
@@ -162,7 +164,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781506063863,
+	"modifiedTime":1781506088886,
 	"name":"test15",
 	"ownerUserId":39,
 	"packaged":false,
@@ -219,5 +221,5 @@
 	"tags":[
 		
 	],
-	"version":7
+	"version":8
 }
