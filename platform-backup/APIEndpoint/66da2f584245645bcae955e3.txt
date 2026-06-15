@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66da2f47a8b21462870583c7",
+	"createdTime":1725575000155,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"soap/soap",
+	"httpMethod":"POST",
+	"id":"66da2f584245645bcae955e3",
+	"lastModifiedBy":39,
+	"lcName":"soap-api",
+	"modifiedTime":1725575098011,
+	"name":"soap-api",
+	"ownerUserId":39,
+	"path":"soap",
+	"resourceIds":[
+		"66da28e3b250a063743e38af"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
