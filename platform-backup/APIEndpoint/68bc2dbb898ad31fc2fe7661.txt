@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68bc2db4898ad31fc2fe762a",
+	"createdTime":1757162939083,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"alvut94/a137jrl",
+	"id":"68bc2dbb898ad31fc2fe7661",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_hidden_columns_117571623279520",
+	"modifiedTime":1757340661496,
+	"name":"endpoint_hidden_columns_117571623279520",
+	"ownerUserId":39,
+	"path":"a137jrl",
+	"resourceIds":[
+		"68bc2d9737818916c8c47121"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
