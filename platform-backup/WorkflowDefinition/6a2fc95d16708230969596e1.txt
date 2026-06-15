@@ -1,51 +1,177 @@
 {
 	"appsUsed":[
-		
+		"custom_http_application"
 	],
 	"createdTime":1781516637583,
 	"deleted":false,
 	"edges":[
 		{
-			"fromNodeId":"_ivpJq",
+			"fromNodeId":"n_AqSpo",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"_bGLGA",
+			"toNodeId":"n_Z9eii",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_Z9eii",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_vARWf",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_vARWf",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_Q4yoS",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_Q4yoS",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_aew26",
 			"type":"next"
 		}
 	],
 	"id":"6a2fc95d16708230969596e1",
 	"lastModifiedBy":39,
 	"lcName":"example",
-	"modifiedTime":1781516637583,
+	"modifiedTime":1781528802251,
 	"name":"example",
 	"nodes":[
 		{
+			"context":{
+				"appName":"callables",
+				"resourceVersion":2702,
+				"resourceName":"callables_from_automation"
+			},
 			"debug":false,
-			"dirty":false,
+			"dirty":true,
 			"fallbackMode":"STOP",
 			"groupId":"_ivpJq-1",
-			"id":"_ivpJq",
-			"index":0,
+			"id":"n_AqSpo",
+			"index":1,
+			"inputs":{},
 			"skip":false,
-			"title":"Select a trigger event",
+			"subTitle":"Callable",
+			"title":"Trigger via automation",
 			"trigger":{
-				"type":"EVENT"
+				"type":"CALLABLE"
 			},
 			"type":"START"
 		},
 		{
+			"context":{
+				"appName":"custom_http_application",
+				"resourceVersion":3550,
+				"connectionId":"69cc985516fe142bffbc94e3",
+				"resourceName":"custom_http_application_execute",
+				"type":"APPLICATION"
+			},
 			"debug":false,
-			"dirty":false,
+			"dirty":true,
 			"fallbackMode":"STOP",
 			"groupId":"_ivpJq-1",
-			"id":"_bGLGA",
-			"index":0,
+			"id":"n_Z9eii",
+			"index":2,
+			"inputs":{
+				"path":"/",
+				"baseUrl":"https://uat-automation.uat.unifyapps.com",
+				"httpVersion":"HTTP_2",
+				"responseContentType":"application/json",
+				"isAsync":false,
+				"headersList":[],
+				"requestTimeoutInSecs":-1,
+				"authType":"CUSTOM",
+				"requestContentType":"application/json",
+				"sslVerify":true
+			},
 			"skip":false,
-			"title":"Select an app and action",
+			"subTitle":"Custom HTTP Application",
+			"title":"Execute REST Request",
+			"type":"ACTION"
+		},
+		{
+			"context":{
+				"appName":"analytics_by_unifyapps",
+				"resourceVersion":2426,
+				"resourceName":"analytics_by_unifyapps_execute_query",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"_ivpJq-1",
+			"id":"n_vARWf",
+			"index":3,
+			"inputs":{
+				"query":"select * \nfrom dnd;",
+				"group":"ENTITY_REPORTING"
+			},
+			"skip":false,
+			"subTitle":"Analytics by UnifyApps",
+			"title":"Execute Analytics SQL Query",
+			"type":"ACTION"
+		},
+		{
+			"context":{
+				"appName":"custom_http_application",
+				"resourceVersion":3550,
+				"connectionId":"6a0dd55f2178997691893397",
+				"resourceName":"custom_http_application_execute",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"_ivpJq-1",
+			"id":"n_Q4yoS",
+			"index":4,
+			"inputs":{
+				"path":"/",
+				"baseUrl":"https://platform.unify.pix.telekom.net/api-endpoint/apis/api1",
+				"httpVersion":"HTTP_2",
+				"responseContentType":"application/json",
+				"isAsync":false,
+				"headersList":[],
+				"requestTimeoutInSecs":-1,
+				"authType":"CUSTOM",
+				"requestContentType":"application/json",
+				"sslVerify":true
+			},
+			"skip":false,
+			"subTitle":"Custom HTTP Application",
+			"title":"Execute REST Request",
+			"type":"ACTION"
+		},
+		{
+			"context":{
+				"appName":"files_by_unifyapps",
+				"resourceVersion":2471,
+				"resourceName":"files_by_unifyapps_append_line_to_file",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"_ivpJq-1",
+			"id":"n_aew26",
+			"index":5,
+			"inputs":{
+				"type":"MULTIPLE",
+				"contentType":"plainText"
+			},
+			"skip":false,
+			"subTitle":"Files by UnifyApps",
+			"title":"Append line(s) to file",
 			"type":"ACTION"
 		}
 	],
 	"ownerUserId":39,
+	"schemaReferences":[
+		
+	],
 	"settings":{
 		"enableNodeLevelLogging":true,
 		"enableRunLogging":true,
@@ -56,5 +182,5 @@
 		}
 	},
 	"standard":false,
-	"version":0
+	"version":1
 }
