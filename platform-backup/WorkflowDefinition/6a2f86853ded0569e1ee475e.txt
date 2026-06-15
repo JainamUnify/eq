@@ -5,47 +5,45 @@
 	"createdTime":1781499525922,
 	"deleted":false,
 	"edges":[
-		{
-			"fromNodeId":"_Al6fj",
-			"priority":0,
-			"skip":false,
-			"toNodeId":"_M3Uuq",
-			"type":"next"
-		}
+		
 	],
 	"id":"6a2f86853ded0569e1ee475e",
 	"lastModifiedBy":39,
 	"lcName":"furrr-2",
-	"modifiedTime":1781499525922,
+	"modifiedTime":1781499536286,
 	"name":"furrr-2",
 	"nodes":[
 		{
+			"context":{
+				"appName":"schedule",
+				"resourceVersion":64,
+				"resourceName":"schedule_default"
+			},
 			"debug":false,
-			"dirty":false,
+			"dirty":true,
 			"fallbackMode":"STOP",
 			"groupId":"_Al6fj-1",
-			"id":"_Al6fj",
-			"index":0,
+			"id":"n_PwoJZ",
+			"index":1,
+			"inputs":{
+				"cron":"INTERVAL",
+				"sequential":false,
+				"interval":15,
+				"frequency":"MINUTES"
+			},
 			"skip":false,
-			"title":"Select a trigger event",
+			"subTitle":"Schedule",
+			"title":"New recurring event",
 			"trigger":{
-				"type":"EVENT"
+				"type":"SCHEDULED"
 			},
 			"type":"START"
-		},
-		{
-			"debug":false,
-			"dirty":false,
-			"fallbackMode":"STOP",
-			"groupId":"_Al6fj-1",
-			"id":"_M3Uuq",
-			"index":0,
-			"skip":false,
-			"title":"Select an app and action",
-			"type":"ACTION"
 		}
 	],
 	"ownerUserId":39,
+	"schemaReferences":[
+		
+	],
 	"settings":{
 		"enableNodeLevelLogging":true,
 		"enableRunLogging":true,
@@ -56,5 +54,5 @@
 		}
 	},
 	"standard":false,
-	"version":0
+	"version":1
 }
