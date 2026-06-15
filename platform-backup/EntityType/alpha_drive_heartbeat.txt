@@ -1,56 +1,15 @@
 {
-	"columnCounts":4,
+	"columnCounts":0,
 	"createdTime":1781375955246,
 	"deleted":false,
 	"id":"alpha_drive_heartbeat",
 	"input":{
 		"type":"SCHEMA_AND_LAYOUT",
 		"dynamic":false,
-		"layout":{
-			"ui:order":[
-				"heartbeatTime",
-				"alertName",
-				"env",
-				"key"
-			]
-		},
 		"schema":{
 			"additionalProperties":false,
 			"type":"object",
-			"properties":{
-				"heartbeatTime":{
-					"type":"integer",
-					"title":"heartbeatTime",
-					"searchable":true,
-					"sortable":true,
-					"filterable":true
-				},
-				"alertName":{
-					"type":"string",
-					"title":"alertName",
-					"searchable":true,
-					"sortable":true,
-					"filterable":true
-				},
-				"env":{
-					"type":"string",
-					"title":"env",
-					"filterable":true,
-					"sortable":true,
-					"searchable":true
-				},
-				"key":{
-					"type":"string",
-					"title":"key",
-					"searchable":true,
-					"sortable":true,
-					"filterable":true,
-					"primaryKey":true
-				}
-			},
-			"required":[
-				"key"
-			]
+			"properties":{}
 		}
 	},
 	"lastModifiedBy":39,
@@ -73,10 +32,7 @@
 		],
 		"external":false,
 		"filterableFields":[
-			"heartbeatTime",
-			"alertName",
-			"env",
-			"key"
+			
 		],
 		"hasTimeSeriesRecords":true,
 		"hashedFields":[
@@ -90,17 +46,14 @@
 		"piiFields":[
 			
 		],
-		"primaryKeyField":"key",
+		"primaryKeyField":"",
 		"referenceKeys":[
 			
 		],
 		"scdType2Enabled":false,
 		"schemaValidationEnabled":true,
 		"searchableFields":[
-			"heartbeatTime",
-			"alertName",
-			"env",
-			"key"
+			
 		],
 		"sessionBackedStorageEnabled":false,
 		"skipConfigSyncIfModified":false,
@@ -131,7 +84,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781504018303,
+	"modifiedTime":1781504149639,
 	"name":"Alpha Drive Heartbeat",
 	"ownerUserId":39,
 	"packaged":false,
@@ -141,45 +94,12 @@
 		"schema":{
 			"additionalProperties":false,
 			"type":"object",
-			"properties":{
-				"heartbeatTime":{
-					"type":"integer",
-					"title":"heartbeatTime",
-					"searchable":true,
-					"sortable":true,
-					"filterable":true
-				},
-				"alertName":{
-					"type":"string",
-					"title":"alertName",
-					"searchable":true,
-					"sortable":true,
-					"filterable":true
-				},
-				"env":{
-					"type":"string",
-					"title":"env",
-					"filterable":true,
-					"sortable":true,
-					"searchable":true
-				},
-				"key":{
-					"type":"string",
-					"title":"key",
-					"searchable":true,
-					"sortable":true,
-					"filterable":true,
-					"primaryKey":true
-				}
-			},
-			"required":[
-				"key"
-			]
+			"properties":{}
 		}
 	},
 	"standard":false,
 	"tags":[
 		
 	],
-	"version":2
+	"version":3
 }
