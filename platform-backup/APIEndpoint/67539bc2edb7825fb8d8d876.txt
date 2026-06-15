@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67539ba5e82166781ad6d290",
+	"createdTime":1733532610834,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"etoeispkno/VPVRmxGutl/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67539bc2edb7825fb8d8d876",
+	"lastModifiedBy":39,
+	"lcName":"xnazgbqotnpzxadappzm",
+	"modifiedTime":1733532611704,
+	"name":"XNAzGBQOtnpZxAdaPPzm",
+	"ownerUserId":39,
+	"path":"VPVRmxGutl/{name}/{age}",
+	"resourceIds":[
+		"66797116d470d60137eb21af"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
