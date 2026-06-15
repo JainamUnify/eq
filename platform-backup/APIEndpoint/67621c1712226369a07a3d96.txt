@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67621c1312226369a07a3d8b",
+	"createdTime":1734482967857,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"exsnbhdpga/LLWClyypen?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67621c1712226369a07a3d96",
+	"lastModifiedBy":39,
+	"lcName":"vxuusrbwwjipuvqaabii",
+	"modifiedTime":1734483036656,
+	"name":"VxUUSRBWWjipuvqaabii",
+	"ownerUserId":39,
+	"path":"LLWClyypen",
+	"resourceIds":[
+		"67621c14ffc6577aeb99a790"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
