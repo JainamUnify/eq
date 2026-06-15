@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6690d17857085e25a52d4a3b",
+	"createdTime":1720766859698,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"lhcfeikran/nHGuqanpAY?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6690d18b57085e25a52d4a60",
+	"lastModifiedBy":39,
+	"lcName":"ujokktnhhbdrsegxupxn",
+	"modifiedTime":1720766860358,
+	"name":"ujokktnHhBdrsegxUpXN",
+	"ownerUserId":39,
+	"path":"nHGuqanpAY",
+	"resourceIds":[
+		"667a7799543cd2029ca544e5"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
