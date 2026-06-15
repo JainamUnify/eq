@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"670c6a914f17bb7fdaecd616",
+	"createdTime":1728866965214,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"icxygitfmi/FeMuCpChGL?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"670c6a95f68b2b64e29293ea",
+	"lastModifiedBy":39,
+	"lcName":"neqejthhhedcljfiltwe",
+	"modifiedTime":1728866966005,
+	"name":"nEqEJTHHhEdCLJFILtWE",
+	"ownerUserId":39,
+	"path":"FeMuCpChGL",
+	"resourceIds":[
+		"667517c8d163390ad139906f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
