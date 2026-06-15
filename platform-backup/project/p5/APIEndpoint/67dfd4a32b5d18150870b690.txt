@@ -1,0 +1,35 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67dfd4a02b5d18150870b68c",
+	"createdTime":1742722211680,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"abaxztf/ahzizz",
+	"httpMethod":"POST",
+	"id":"67dfd4a32b5d18150870b690",
+	"lastModifiedBy":39,
+	"lcName":"endpoint-and_multipleconditions-117427158862100",
+	"modifiedTime":1742722217366,
+	"name":"endpoint-AND_multipleConditions-117427158862100",
+	"ownerUserId":39,
+	"path":"ahzizz",
+	"projectId":5,
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
