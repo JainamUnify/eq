@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67986a7ad49a2358f41ab74d",
+	"createdTime":1738041986444,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"ayc1ay/alrf05?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67986a82d49a2358f41ab75b",
+	"lastModifiedBy":39,
+	"lcName":"endpointwebhook - callable - post 11738041917767",
+	"modifiedTime":1738041994363,
+	"name":"endpointwebhook - Callable - POST 11738041917767",
+	"ownerUserId":39,
+	"path":"alrf05",
+	"resourceIds":[
+		"678f6f61739942085acd97f2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
