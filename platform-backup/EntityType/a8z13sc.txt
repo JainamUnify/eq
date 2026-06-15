@@ -1,8 +1,47 @@
 {
-	"columnCounts":0,
+	"columnCounts":2,
 	"createdTime":1781525652642,
 	"deleted":false,
 	"id":"a8z13sc",
+	"input":{
+		"type":"SCHEMA_AND_LAYOUT",
+		"dynamic":false,
+		"layout":{
+			"ui:order":[
+				"Dropdown_Label",
+				"Dropdown_Value"
+			]
+		},
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"Dropdown_Label":{
+					"type":"string",
+					"title":"Dropdown_Label",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":true
+				},
+				"Dropdown_Value":{
+					"type":"string",
+					"title":"Dropdown_Value",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":true,
+					"uniqueKey":false,
+					"nameField":false
+				}
+			},
+			"required":[
+				"Dropdown_Value"
+			]
+		}
+	},
 	"lastModifiedBy":39,
 	"lcName":"form-create-217815256351570",
 	"metadata":{
@@ -23,28 +62,29 @@
 		],
 		"external":false,
 		"filterableFields":[
-			
+			"Dropdown_Label",
+			"Dropdown_Value"
 		],
 		"hasTimeSeriesRecords":true,
 		"hashedFields":[
 			
 		],
 		"includeInDependency":false,
-		"nameField":"",
+		"nameField":"Dropdown_Label",
 		"partFields":[
 			
 		],
 		"piiFields":[
 			
 		],
-		"primaryKeyField":"",
+		"primaryKeyField":"Dropdown_Value",
 		"referenceKeys":[
 			
 		],
 		"scdType2Enabled":false,
 		"schemaValidationEnabled":true,
 		"searchableFields":[
-			
+			"Dropdown_Label"
 		],
 		"sessionBackedStorageEnabled":false,
 		"skipConfigSyncIfModified":false,
@@ -75,14 +115,46 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781525652642,
+	"modifiedTime":1781525659037,
 	"name":"form-create-217815256351570",
 	"ownerUserId":39,
 	"packaged":false,
 	"pluralName":"form-create-217815256351570",
+	"schema":{
+		"dynamic":false,
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"Dropdown_Label":{
+					"type":"string",
+					"title":"Dropdown_Label",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":true
+				},
+				"Dropdown_Value":{
+					"type":"string",
+					"title":"Dropdown_Value",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":true,
+					"uniqueKey":false,
+					"nameField":false
+				}
+			},
+			"required":[
+				"Dropdown_Value"
+			]
+		}
+	},
 	"standard":false,
 	"tags":[
 		"dnt_tag"
 	],
-	"version":0
+	"version":1
 }
