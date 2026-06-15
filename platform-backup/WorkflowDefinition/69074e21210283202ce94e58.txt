@@ -55,7 +55,7 @@
 	"id":"69074e21210283202ce94e58",
 	"lastModifiedBy":39,
 	"lcName":"furrrr1",
-	"modifiedTime":1781517833176,
+	"modifiedTime":1781517873051,
 	"name":"furrrr1",
 	"nodes":[
 		{
@@ -120,7 +120,7 @@
 				"type":"APPLICATION"
 			},
 			"debug":false,
-			"dirty":false,
+			"dirty":true,
 			"fallbackMode":"STOP",
 			"groupId":"_QPyDa-1",
 			"id":"n_joipm",
@@ -130,8 +130,7 @@
 					{
 						"property":"{{ n_q88JH.outputs.properties.sfbd }}",
 						"filter":{
-							"operator":"EQUAL",
-							"value":"null"
+							"operator":"EQUAL"
 						}
 					}
 				],
@@ -150,7 +149,7 @@
 				"type":"APPLICATION"
 			},
 			"debug":false,
-			"dirty":true,
+			"dirty":false,
 			"fallbackMode":"STOP",
 			"groupId":"n_joipm@_QPyDa-1@n",
 			"id":"n_coSBB",
@@ -205,5 +204,5 @@
 		"enableVariableLogging":true
 	},
 	"standard":false,
-	"version":143
+	"version":144
 }
