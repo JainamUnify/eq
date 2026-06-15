@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1780055317120,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6a197d07c5a94814909b8771",
+	"id":"6a197d15bab9bb3bb59f4761",
+	"lastModifiedBy":-1,
+	"lcName":"fdg automation web-hook",
+	"modifiedTime":1780055317120,
+	"name":"fdg Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6a197d07c5a94814909b8771",
+	"resourceIds":[
+		"6a197d07c5a94814909b8771"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
