@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a561804479cf745e2a03f7",
+	"createdTime":1755668882155,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"getHtSZCtJlIN/PODowvGPpakNvGetuaqq",
+	"id":"68a561924479cf745e2a0434",
+	"lastModifiedBy":39,
+	"lcName":"podowvgppaknvgetuaqq",
+	"modifiedTime":1755668904700,
+	"name":"PODowvGPpakNvGetuaqq",
+	"ownerUserId":39,
+	"path":"PODowvGPpakNvGetuaqq",
+	"policyIds":[
+		"68a561784479cf745e2a03ea"
+	],
+	"resourceIds":[
+		"6875e579dc9c1ab50116f117"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
