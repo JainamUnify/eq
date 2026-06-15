@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1775576113919,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/69d5242ac64df1182cade564",
+	"id":"69d5243134c4111800339bf3",
+	"lastModifiedBy":-1,
+	"lcName":"testassetpermission automation web-hook",
+	"modifiedTime":1775576113919,
+	"name":"testAssetPermission Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"69d5242ac64df1182cade564",
+	"resourceIds":[
+		"69d5242ac64df1182cade564"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
