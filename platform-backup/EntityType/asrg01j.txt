@@ -1,8 +1,47 @@
 {
-	"columnCounts":0,
+	"columnCounts":2,
 	"createdTime":1781516293831,
 	"deleted":false,
 	"id":"asrg01j",
+	"input":{
+		"type":"SCHEMA_AND_LAYOUT",
+		"dynamic":false,
+		"layout":{
+			"ui:order":[
+				"string_field",
+				"number_field"
+			]
+		},
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"string_field":{
+					"type":"string",
+					"title":"string_field",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				},
+				"number_field":{
+					"type":"number",
+					"title":"number_field",
+					"searchable":true,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				}
+			},
+			"required":[
+				"number_field"
+			]
+		}
+	},
 	"lastModifiedBy":39,
 	"lcName":"interaction-on-value-change-217815162282430",
 	"metadata":{
@@ -23,7 +62,8 @@
 		],
 		"external":false,
 		"filterableFields":[
-			
+			"string_field",
+			"number_field"
 		],
 		"hasTimeSeriesRecords":true,
 		"hashedFields":[
@@ -44,7 +84,7 @@
 		"scdType2Enabled":false,
 		"schemaValidationEnabled":true,
 		"searchableFields":[
-			
+			"number_field"
 		],
 		"sessionBackedStorageEnabled":false,
 		"skipConfigSyncIfModified":false,
@@ -75,14 +115,46 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781516293831,
+	"modifiedTime":1781516300921,
 	"name":"interaction-on-value-change-217815162282430",
 	"ownerUserId":39,
 	"packaged":false,
 	"pluralName":"interaction-on-value-change-217815162282430s",
+	"schema":{
+		"dynamic":false,
+		"schema":{
+			"additionalProperties":false,
+			"type":"object",
+			"properties":{
+				"string_field":{
+					"type":"string",
+					"title":"string_field",
+					"searchable":false,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				},
+				"number_field":{
+					"type":"number",
+					"title":"number_field",
+					"searchable":true,
+					"sortable":false,
+					"filterable":true,
+					"primaryKey":false,
+					"uniqueKey":false,
+					"nameField":false
+				}
+			},
+			"required":[
+				"number_field"
+			]
+		}
+	},
 	"standard":false,
 	"tags":[
 		"dnt_tag"
 	],
-	"version":0
+	"version":1
 }
