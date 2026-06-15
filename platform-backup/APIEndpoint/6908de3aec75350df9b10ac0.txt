@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1762188858343,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6908de2f3a7fe111f8590a72",
+	"id":"6908de3aec75350df9b10ac0",
+	"lastModifiedBy":-1,
+	"lcName":"activitylogginglocalsbpenaucqg automation web-hook",
+	"modifiedTime":1762188916809,
+	"name":"activityLoggingLocalsBpEnAuCqG Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6908de2f3a7fe111f8590a72",
+	"resourceIds":[
+		"6908de2f3a7fe111f8590a72"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":2
+}
