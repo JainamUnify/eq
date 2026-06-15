@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1754384575311,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6891c8bf908ba1b8888e4855",
+	"id":"6891c8bf9636a641a6a6ccb3",
+	"lastModifiedBy":-1,
+	"lcName":"objectsuat5avcfjovea automation web-hook",
+	"modifiedTime":1754384575311,
+	"name":"objectsUAT5AVCFJOVEA Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6891c8bf908ba1b8888e4855",
+	"resourceIds":[
+		"6891c8bf908ba1b8888e4855"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
