@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66ad4441779dbf69a3700c12",
+	"createdTime":1722631237323,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"abhskjm/amldewj",
+	"httpMethod":"POST",
+	"id":"66ad4445779dbf69a3700c13",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_accessprofile_before-update- - 11722630989899",
+	"modifiedTime":1722631237323,
+	"name":"endpoint_accessProfile_before-update- - 11722630989899",
+	"ownerUserId":39,
+	"path":"amldewj",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
