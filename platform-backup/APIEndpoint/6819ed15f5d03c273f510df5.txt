@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6819ed10f5d03c273f510df2",
+	"createdTime":1746529557145,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"akw2iv/am4cgsd",
+	"httpMethod":"PATCH",
+	"id":"6819ed15f5d03c273f510df5",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_customhttp_patch_117465289906370",
+	"modifiedTime":1748594131132,
+	"name":"Endpoint_customHTTP_PATCH_117465289906370",
+	"ownerUserId":39,
+	"path":"am4cgsd",
+	"resourceIds":[
+		"6819ed06b0f798314f1dc832"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
