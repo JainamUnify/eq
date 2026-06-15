@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1753638846680,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/6884b1248b4f0934b3f354d8",
+	"id":"688667be2ba726e57a733216",
+	"lastModifiedBy":-1,
+	"lcName":"new_test automation web-hook",
+	"modifiedTime":1753638846680,
+	"name":"new_test Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6884b1248b4f0934b3f354d8",
+	"resourceIds":[
+		"6884b1248b4f0934b3f354d8"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
