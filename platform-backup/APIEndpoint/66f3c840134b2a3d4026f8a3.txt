@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"66f3c82b7d28f67712fae5eb",
+	"createdTime":1727252544555,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"jk/nmjh",
+	"httpMethod":"GET",
+	"id":"66f3c840134b2a3d4026f8a3",
+	"lastModifiedBy":39,
+	"lcName":"nmjh",
+	"modifiedTime":1727252544555,
+	"name":"nmjh",
+	"ownerUserId":39,
+	"path":"nmjh",
+	"resourceIds":[
+		"66812241c51c7b6ad996f9f2"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
