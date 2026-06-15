@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1765825946107,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/69405d8235b2d27e0677afde",
+	"id":"69405d9aadd80a1fc4baf616",
+	"lastModifiedBy":-1,
+	"lcName":"viewrun_buttonlocalbuggogrdom automation web-hook",
+	"modifiedTime":1765827072998,
+	"name":"viewRun_buttonLocalbuGGogrdOm Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"69405d8235b2d27e0677afde",
+	"resourceIds":[
+		"69405d8235b2d27e0677afde"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
