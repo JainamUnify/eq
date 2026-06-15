@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67473081b790d86d5ad2f358",
+	"createdTime":1733054416291,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/674c4fcac488b7394d4bc5ef",
+	"httpMethod":"ANY",
+	"id":"674c4fd09d43ea6c7844385b",
+	"lastModifiedBy":-1,
+	"lcName":"descs automation web-hook",
+	"modifiedTime":1733054437956,
+	"name":"descs Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"674c4fcac488b7394d4bc5ef",
+	"resourceIds":[
+		"674c4fcac488b7394d4bc5ef"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
