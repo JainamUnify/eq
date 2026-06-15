@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1762812166476,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/69126106844c9e0c3c3c86af",
+	"id":"6912610641cce553a558f992",
+	"lastModifiedBy":-1,
+	"lcName":"objectmanageruatofdwjatpwl automation web-hook",
+	"modifiedTime":1762812220343,
+	"name":"objectmanagerUAToFDWjAtPWL Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"69126106844c9e0c3c3c86af",
+	"resourceIds":[
+		"69126106844c9e0c3c3c86af"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
