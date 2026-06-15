@@ -18,11 +18,11 @@
 			"fromNodeId":"n_cVEvt",
 			"priority":0,
 			"skip":false,
-			"toNodeId":"n_IrKCJ",
+			"toNodeId":"n_q88JH",
 			"type":"next"
 		},
 		{
-			"fromNodeId":"n_IrKCJ",
+			"fromNodeId":"n_q88JH",
 			"priority":0,
 			"skip":false,
 			"toNodeId":"n_joipm",
@@ -55,7 +55,7 @@
 	"id":"69074e21210283202ce94e58",
 	"lastModifiedBy":39,
 	"lcName":"furrrr1",
-	"modifiedTime":1781517352622,
+	"modifiedTime":1781517804987,
 	"name":"furrrr1",
 	"nodes":[
 		{
@@ -90,32 +90,26 @@
 			"context":{
 				"appName":"storage_by_unifyapps",
 				"resourceVersion":4675,
-				"resourceName":"storage_by_unifyapps_create_record",
+				"resourceName":"storage_by_unifyapps_get_record_by_id",
 				"type":"APPLICATION"
 			},
 			"debug":false,
-			"dirty":false,
+			"dirty":true,
 			"fallbackMode":"STOP",
 			"groupId":"_QPyDa-1",
-			"id":"n_IrKCJ",
+			"id":"n_q88JH",
 			"index":2,
 			"inputs":{
-				"useRawPayload":false,
-				"writeThroughSessionVariables":false,
 				"object_type":"var_check_1",
-				"skipIfBlank":false,
-				"record":{
-					"env_var":"gfd",
-					"boolean":false,
-					"int":10,
-					"num_check":3,
-					"none_obj":"null"
-				},
-				"useUuid":false
+				"includeRoleMappings":false,
+				"includeCurrentUserPermissions":false,
+				"translationsOption":"DEFAULT",
+				"id":"e_6a2fcdb4d160716412726e87",
+				"readThroughSessionVariables":false
 			},
 			"skip":false,
 			"subTitle":"Storage by UnifyApps",
-			"title":"Create record",
+			"title":"Fetch record by ID",
 			"type":"ACTION"
 		},
 		{
@@ -134,10 +128,9 @@
 			"inputs":{
 				"filters":[
 					{
-						"property":"{{ n_IrKCJ.outputs.properties.none_obj }}",
+						"property":"{{ n_q88JH.outputs.properties.sfbd }}",
 						"filter":{
-							"operator":"EQUAL",
-							"value":"null"
+							"operator":"EQUAL"
 						}
 					}
 				],
@@ -211,5 +204,5 @@
 		"enableVariableLogging":true
 	},
 	"standard":false,
-	"version":140
+	"version":141
 }
