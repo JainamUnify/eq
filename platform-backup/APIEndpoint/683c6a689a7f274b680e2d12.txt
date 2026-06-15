@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683c6a549a7f274b680e2cff",
+	"createdTime":1748789864434,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"bjipvgmixi/eROSusBNVX?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"683c6a689a7f274b680e2d12",
+	"lastModifiedBy":39,
+	"lcName":"ehgfszlcdlpoyegqkrhz",
+	"modifiedTime":1749745605676,
+	"name":"ehGFSzlcDLPOYEGQKRhz",
+	"ownerUserId":39,
+	"path":"eROSusBNVX",
+	"resourceIds":[
+		"667a7f20543cd2029ca546d1"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
