@@ -1,0 +1,31 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6703d0f568bc4b5783fa3b79",
+	"createdTime":1728303355449,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"af81b28/ack4dec",
+	"httpMethod":"POST",
+	"id":"6703d0fb68bc4b5783fa3b7e",
+	"lastModifiedBy":39,
+	"lcName":"sort_1172830268309709",
+	"modifiedTime":1748594512068,
+	"name":"Sort_1172830268309709",
+	"ownerUserId":39,
+	"path":"ack4dec",
+	"resourceIds":[
+		"6681a4b3ae8d3a4a0d3f1754"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
