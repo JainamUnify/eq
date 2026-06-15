@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1757154810297,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68bc0dee6ec68e656f67dbeb",
+	"id":"68bc0dfa898ad31fc2fdfa06",
+	"lastModifiedBy":-1,
+	"lcName":"editalertworkflow_117571547465700 automation web-hook",
+	"modifiedTime":1757154839038,
+	"name":"EditAlertWorkflow_117571547465700 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68bc0dee6ec68e656f67dbeb",
+	"resourceIds":[
+		"68bc0dee6ec68e656f67dbeb"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
