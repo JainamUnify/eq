@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6721828aa991f44c07be97c5",
+	"createdTime":1730249363384,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"fgcmxwxnbh/picPMGeXMW?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67218293a991f44c07be97e6",
+	"lastModifiedBy":39,
+	"lcName":"vmnxchmalopidrmtxnlb",
+	"modifiedTime":1730249364075,
+	"name":"VMNxCHmalopIdRmtXnLB",
+	"ownerUserId":39,
+	"path":"picPMGeXMW",
+	"resourceIds":[
+		"667a5d0b7fc8ed141d971501"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
