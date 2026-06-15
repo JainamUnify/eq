@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f166f5a617da255b04f10e",
+	"createdTime":1759916199685,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68df50227cb1ae420e99cbcd",
+	"id":"68e630a7c2f9c063746e1670",
+	"lastModifiedBy":-1,
+	"lcName":"hatim-test-automation (copy) automation web-hook",
+	"modifiedTime":1759916199685,
+	"name":"hatim-test-automation (copy) Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68df50227cb1ae420e99cbcd",
+	"resourceIds":[
+		"68df50227cb1ae420e99cbcd"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
