@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6787060d4da4987e49c3d89c",
+	"createdTime":1736902162082,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"axeisvagli/AUTJUeDjdf?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67870612551305002cba84d2",
+	"lastModifiedBy":39,
+	"lcName":"cgxqbblinnnvosclrupa",
+	"modifiedTime":1736902230890,
+	"name":"cGxqbBLiNnNvoSclRUpa",
+	"ownerUserId":39,
+	"path":"AUTJUeDjdf",
+	"resourceIds":[
+		"6787060e6483f33d9733220b"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
