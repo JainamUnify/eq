@@ -21,15 +21,24 @@
 				"id":{
 					"type":"integer",
 					"title":"id",
-					"primaryKey":true
+					"primaryKey":true,
+					"searchable":true,
+					"sortable":true,
+					"filterable":true
 				},
 				"name":{
 					"type":"string",
-					"title":"name"
+					"title":"name",
+					"filterable":true,
+					"sortable":true,
+					"searchable":true
 				},
 				"status":{
 					"type":"string",
-					"title":"status"
+					"title":"status",
+					"searchable":true,
+					"filterable":true,
+					"sortable":true
 				},
 				"details":{
 					"type":"object",
@@ -51,7 +60,10 @@
 						}
 					},
 					"title":"details",
-					"additionalProperties":false
+					"additionalProperties":false,
+					"searchable":true,
+					"sortable":true,
+					"filterable":true
 				}
 			},
 			"required":[
@@ -137,7 +149,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781504308894,
+	"modifiedTime":1781504684359,
 	"name":"test15",
 	"ownerUserId":39,
 	"packaged":false,
@@ -193,5 +205,5 @@
 	"tags":[
 		
 	],
-	"version":1
+	"version":2
 }
