@@ -144,6 +144,7 @@
 		],
 		"external":false,
 		"filterableFields":[
+			"manager_id",
 			"mdmRecordMetadata",
 			"mdmRecordMetadata.modelId",
 			"mdmRecordMetadata.contributingSources",
@@ -178,6 +179,7 @@
 		"schemaValidationEnabled":true,
 		"searchableFields":[
 			"project_id",
+			"manager_id",
 			"project_name"
 		],
 		"sessionBackedStorageEnabled":false,
@@ -209,11 +211,12 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781511049708,
+	"modifiedTime":1781511089580,
 	"name":"project",
 	"ownerUserId":39,
 	"packaged":false,
 	"schema":{
+		"type":"SCHEMA",
 		"dynamic":false,
 		"schema":{
 			"type":"object",
@@ -228,12 +231,12 @@
 					"primaryKey":true
 				},
 				"manager_id":{
-					"filterable":false,
+					"filterable":true,
 					"description":"Manager Id",
-					"sortable":false,
+					"sortable":true,
 					"type":"integer",
 					"title":"Manager Id",
-					"searchable":false,
+					"searchable":true,
 					"primaryKey":false
 				},
 				"project_name":{
@@ -336,5 +339,5 @@
 		"MDM_GENERATED"
 	],
 	"unifiedEntityModelId":"6a2a5ce6d6a88e58ef71a4ca",
-	"version":1
+	"version":2
 }
