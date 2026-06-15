@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"66c92dcd78f45f7d78882d9a",
+	"createdTime":1724460498593,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"rsodpybvbb/GtyFBjRLof/{id}",
+	"httpMethod":"PUT",
+	"id":"66c92dd2ecf25b107280ca53",
+	"lastModifiedBy":39,
+	"lcName":"eljipxnrhbgynklqhoym",
+	"modifiedTime":1724460499296,
+	"name":"eLjIPXnrHBGYNklQHOyM",
+	"ownerUserId":39,
+	"path":"GtyFBjRLof/{id}",
+	"resourceIds":[
+		"66c92dbac033e9551dd0b6d6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
