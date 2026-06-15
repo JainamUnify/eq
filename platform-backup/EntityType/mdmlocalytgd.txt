@@ -1,5 +1,5 @@
 {
-	"columnCounts":2,
+	"columnCounts":4,
 	"createdTime":1781518458688,
 	"deleted":false,
 	"description":"Automation",
@@ -11,6 +11,15 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"DECIMAL_MATCH_RULE":{
+					"filterable":false,
+					"description":"DECIMAL_MATCH_RULE",
+					"sortable":false,
+					"type":"number",
+					"title":"DECIMAL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"INT_MATCH_RULE":{
 					"filterable":false,
 					"description":"INT_MATCH_RULE",
@@ -81,6 +90,15 @@
 							}
 						}
 					}
+				},
+				"BOOL_MATCH_RULE":{
+					"filterable":false,
+					"description":"BOOL_MATCH_RULE",
+					"sortable":false,
+					"type":"boolean",
+					"title":"BOOL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
 				}
 			},
 			"required":[]
@@ -170,7 +188,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781518460853,
+	"modifiedTime":1781518465259,
 	"name":"mdmlocalytgd",
 	"ownerUserId":39,
 	"packaged":false,
@@ -180,6 +198,15 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"DECIMAL_MATCH_RULE":{
+					"filterable":false,
+					"description":"DECIMAL_MATCH_RULE",
+					"sortable":false,
+					"type":"number",
+					"title":"DECIMAL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"INT_MATCH_RULE":{
 					"filterable":false,
 					"description":"INT_MATCH_RULE",
@@ -250,6 +277,15 @@
 							}
 						}
 					}
+				},
+				"BOOL_MATCH_RULE":{
+					"filterable":false,
+					"description":"BOOL_MATCH_RULE",
+					"sortable":false,
+					"type":"boolean",
+					"title":"BOOL_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
 				}
 			},
 			"required":[]
@@ -260,5 +296,5 @@
 		"MDM_GENERATED"
 	],
 	"unifiedEntityModelId":"6a2fd05da6a31c393226af11",
-	"version":1
+	"version":3
 }
