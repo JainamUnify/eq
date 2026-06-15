@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a1d3130125a365f080892",
+	"createdTime":1748639029980,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"SOAP",
+	"endpointUrl":"akikio/aown77",
+	"id":"683a1d3530125a365f080894",
+	"lastModifiedBy":39,
+	"lcName":"export_apiendpoint- 117486345381710",
+	"modifiedTime":1749037532373,
+	"name":"Export_APIEndpoint- 117486345381710",
+	"ownerUserId":39,
+	"path":"aown77",
+	"resourceIds":[
+		"683a1d241960986439fddfd4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
