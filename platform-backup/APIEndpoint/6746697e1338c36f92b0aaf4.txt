@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6746696bcc532606d18d0ae8",
+	"createdTime":1732667774406,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"wrgaygbhza/PUGpgQDllJ",
+	"httpMethod":"POST",
+	"id":"6746697e1338c36f92b0aaf4",
+	"lastModifiedBy":39,
+	"lcName":"aluutfwcqbpmnsfsuclw",
+	"modifiedTime":1732667775180,
+	"name":"AluUtfwCqbPMNSFSUclW",
+	"ownerUserId":39,
+	"path":"PUGpgQDllJ",
+	"resourceIds":[
+		"66ac98c4b9835609abd984f7"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
