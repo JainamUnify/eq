@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"687c827a82707c48f3bfc8c1",
+	"createdTime":1752990336971,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"akthm0i/a8luxws",
+	"id":"687c828082707c48f3bfc8c3",
+	"lastModifiedBy":39,
+	"lcName":"allowedip_endpoint_ - 11752990117792",
+	"modifiedTime":1752990387176,
+	"name":"AllowedIp_endpoint_ - 11752990117792",
+	"ownerUserId":39,
+	"path":"a8luxws",
+	"resourceIds":[
+		"687c8264f7ac04f84d027a9d"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
