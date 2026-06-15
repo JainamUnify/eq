@@ -1,0 +1,34 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68088862502db728dd90156f",
+	"createdTime":1745389672342,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"ahh26qs/a24lsy4",
+	"httpMethod":"POST",
+	"id":"68088868502db728dd901572",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_differentauthtype - 11745387375610",
+	"modifiedTime":1745389701979,
+	"name":"endpoint_differentAuthType - 11745387375610",
+	"ownerUserId":39,
+	"path":"a24lsy4",
+	"resourceIds":[
+		"68088851f1f32c4ab5cda318"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
