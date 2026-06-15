@@ -1,5 +1,5 @@
 {
-	"columnCounts":4,
+	"columnCounts":5,
 	"createdTime":1781518458688,
 	"deleted":false,
 	"description":"Automation",
@@ -11,6 +11,15 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"STR_MATCH_RULE":{
+					"filterable":false,
+					"description":"STR_MATCH_RULE",
+					"sortable":false,
+					"type":"string",
+					"title":"STR_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"DECIMAL_MATCH_RULE":{
 					"filterable":false,
 					"description":"DECIMAL_MATCH_RULE",
@@ -188,7 +197,7 @@
 		],
 		"versioningEnabled":false
 	},
-	"modifiedTime":1781518465259,
+	"modifiedTime":1781518467453,
 	"name":"mdmlocalytgd",
 	"ownerUserId":39,
 	"packaged":false,
@@ -198,6 +207,15 @@
 		"schema":{
 			"type":"object",
 			"properties":{
+				"STR_MATCH_RULE":{
+					"filterable":false,
+					"description":"STR_MATCH_RULE",
+					"sortable":false,
+					"type":"string",
+					"title":"STR_MATCH_RULE",
+					"searchable":false,
+					"primaryKey":false
+				},
 				"DECIMAL_MATCH_RULE":{
 					"filterable":false,
 					"description":"DECIMAL_MATCH_RULE",
@@ -296,5 +314,5 @@
 		"MDM_GENERATED"
 	],
 	"unifiedEntityModelId":"6a2fd05da6a31c393226af11",
-	"version":3
+	"version":4
 }
