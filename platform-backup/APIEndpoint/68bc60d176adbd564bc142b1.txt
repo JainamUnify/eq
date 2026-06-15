@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68bc60cd76adbd564bc142a6",
+	"createdTime":1757176017623,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"awokf2l/amgebb?resourceId={{RESOURCE_ID}}",
+	"id":"68bc60d176adbd564bc142b1",
+	"lastModifiedBy":62229,
+	"lcName":"rbac-ui-rlcreateendpointrlall117571648824490",
+	"modifiedTime":1757176138387,
+	"name":"rbac-ui-RLCreateEndpointRLAll117571648824490",
+	"ownerUserId":62229,
+	"path":"amgebb",
+	"resourceIds":[
+		"68bc603c597c400a3ad08487"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
