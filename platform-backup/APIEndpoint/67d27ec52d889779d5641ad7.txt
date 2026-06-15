@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67cfe20c4538fe3f0cbeffb2",
+	"createdTime":1741848261285,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/67d27eab59a4db45cefe91c9",
+	"httpMethod":"ANY",
+	"id":"67d27ec52d889779d5641ad7",
+	"lastModifiedBy":-1,
+	"lcName":"vmar13 automation web-hook",
+	"modifiedTime":1741848261285,
+	"name":"vmar13 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67d27eab59a4db45cefe91c9",
+	"resourceIds":[
+		"67d27eab59a4db45cefe91c9"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
