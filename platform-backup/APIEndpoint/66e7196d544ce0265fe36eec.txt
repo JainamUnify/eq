@@ -1,0 +1,40 @@
+{
+	"active":false,
+	"cacheResponse":true,
+	"cacheSettings":{
+		"cacheKeys":[
+			
+		],
+		"ttl":{
+			"duration":600,
+			"unit":"SECONDS"
+		}
+	},
+	"collectionId":"66e71969a32dae2726c5bfad",
+	"createdTime":1726421357487,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"amhlfyd/a6ibyan",
+	"httpMethod":"GET",
+	"id":"66e7196d544ce0265fe36eec",
+	"lastModifiedBy":39,
+	"lcName":"rbaculeditendpointuleplnrld117264155923740",
+	"modifiedTime":1726421357487,
+	"name":"RbacULEditEndPointULePLnRLd117264155923740",
+	"ownerUserId":39,
+	"path":"a6ibyan",
+	"resourceIds":[
+		"66e7194a58fc0a3d36dc1e01"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
