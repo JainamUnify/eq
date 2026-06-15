@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67451867cc532606d18ca15f",
+	"createdTime":1732581564120,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"tounppoxse/TyRDcbsHUm",
+	"httpMethod":"GET",
+	"id":"674518bccc532606d18ca16b",
+	"lastModifiedBy":39,
+	"lcName":"pfaymbnymngymznglunw",
+	"modifiedTime":1732581564973,
+	"name":"pFaYmbnYMngymZngLuNW",
+	"ownerUserId":39,
+	"path":"TyRDcbsHUm",
+	"resourceIds":[
+		"674518b766e7ac0fc069c9ce"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
