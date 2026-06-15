@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683c68a49a7f274b680e2b04",
+	"createdTime":1748789416085,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"azm2bd/argx4l?resourceId={{RESOURCE_ID}}",
+	"id":"683c68a89a7f274b680e2b08",
+	"lastModifiedBy":39,
+	"lcName":"endpointwebhook - callable - put 11748788238307",
+	"modifiedTime":1748789422824,
+	"name":"endpointwebhook - Callable - PUT 11748788238307",
+	"ownerUserId":39,
+	"path":"argx4l",
+	"resourceIds":[
+		"678f6f61739942085acd97f2"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
