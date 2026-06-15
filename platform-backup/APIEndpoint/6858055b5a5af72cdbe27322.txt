@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685805515a5af72cdbe2731d",
+	"createdTime":1750599003836,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"aihkzme/arq1na",
+	"id":"6858055b5a5af72cdbe27322",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_customhttp_patch_117505977000600",
+	"modifiedTime":1750599114249,
+	"name":"Endpoint_customHTTP_PATCH_117505977000600",
+	"ownerUserId":39,
+	"path":"arq1na",
+	"resourceIds":[
+		"68580541760ffd7bf43c69a6"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
