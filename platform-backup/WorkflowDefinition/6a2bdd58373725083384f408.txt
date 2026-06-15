@@ -81,6 +81,13 @@
 		},
 		{
 			"fromNodeId":"n_xSFG4",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_sdBlO",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_sdBlO",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
@@ -147,6 +154,13 @@
 		},
 		{
 			"fromNodeId":"n_9cJHX",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_ArKDb",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_ArKDb",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
@@ -213,6 +227,13 @@
 		},
 		{
 			"fromNodeId":"n_ekGHG",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_0Jkw4",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_0Jkw4",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
@@ -279,6 +300,13 @@
 		},
 		{
 			"fromNodeId":"n_gbCr9",
+			"priority":0,
+			"skip":false,
+			"toNodeId":"n_RAIBn",
+			"type":"next"
+		},
+		{
+			"fromNodeId":"n_RAIBn",
 			"name":"loopback",
 			"priority":0,
 			"skip":false,
@@ -362,7 +390,7 @@
 	"id":"6a2bdd58373725083384f408",
 	"lastModifiedBy":39,
 	"lcName":"backup manager | re-run asset",
-	"modifiedTime":1781374846506,
+	"modifiedTime":1781531439684,
 	"name":"Backup Manager | Re-run asset",
 	"nodes":[
 		{
@@ -897,6 +925,28 @@
 		},
 		{
 			"context":{
+				"appName":"delay",
+				"resourceVersion":63,
+				"resourceName":"delay_for",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"n_EH2Iy@n_g8sFb@n_Qo9xp@n_j6yVt@_wmkeO-1@y@1@l@l",
+			"id":"n_sdBlO",
+			"index":11,
+			"inputs":{
+				"duration":20,
+				"unit":"SECONDS"
+			},
+			"skip":false,
+			"subTitle":"Delay",
+			"title":"Set delay duration",
+			"type":"DELAY"
+		},
+		{
+			"context":{
 				"appName":"branch_condition",
 				"resourceVersion":0,
 				"resourceName":"branch_condition",
@@ -907,7 +957,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_Qo9xp@2",
-			"index":11,
+			"index":12,
 			"inputs":{
 				"name":"Success Sync Assets",
 				"conditions":{
@@ -939,7 +989,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_oQlAX",
-			"index":12,
+			"index":13,
 			"inputs":{
 				"query":"SELECT\n    latest.assetClass AS assetClzName,\n    ARRAY_AGG(latest.assetId) AS assetIds\nFROM PLATFORM_BACKUP latest\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest_run\n    ON latest.assetId = latest_run.assetId\n   AND latest.lastSyncTime = latest_run.maxSyncTime\nWHERE latest.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND latest.status = 'FAILED'\nGROUP BY latest.assetClass;",
 				"group":"PLATFORM"
@@ -969,7 +1019,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_mAPOA",
-			"index":13,
+			"index":14,
 			"inputs":{
 				"output":{
 					"type":"array",
@@ -1036,7 +1086,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_qKr5h",
-			"index":14,
+			"index":15,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1092,7 +1142,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@2",
 			"id":"n_A2YuA",
-			"index":15,
+			"index":16,
 			"inputs":{
 				"repeatMode":"SINGLE",
 				"listSource":"{{ n_mAPOA.outputs.result }}",
@@ -1115,7 +1165,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_A2YuA@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l",
 			"id":"n_AHI0M",
-			"index":16,
+			"index":17,
 			"inputs":{
 				"repeatMode":"BATCH",
 				"listSource":"{{ n_A2YuA.outputs.item.assetIds }}",
@@ -1144,7 +1194,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_AHI0M@n_A2YuA@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l@l",
 			"id":"n_9cJHX",
-			"index":17,
+			"index":18,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1219,6 +1269,28 @@
 		},
 		{
 			"context":{
+				"appName":"delay",
+				"resourceVersion":63,
+				"resourceName":"delay_for",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"n_AHI0M@n_A2YuA@n_Qo9xp@n_j6yVt@_wmkeO-1@y@2@l@l",
+			"id":"n_ArKDb",
+			"index":19,
+			"inputs":{
+				"duration":20,
+				"unit":"SECONDS"
+			},
+			"skip":false,
+			"subTitle":"Delay",
+			"title":"Set delay duration",
+			"type":"DELAY"
+		},
+		{
+			"context":{
 				"appName":"branch_condition",
 				"resourceVersion":0,
 				"resourceName":"branch_condition",
@@ -1229,7 +1301,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_Qo9xp@3",
-			"index":18,
+			"index":20,
 			"inputs":{
 				"name":"Pending Sync Assets",
 				"conditions":{
@@ -1261,7 +1333,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_jGNHL",
-			"index":19,
+			"index":21,
 			"inputs":{
 				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND p.assetId NOT IN (\n      SELECT DISTINCT assetId\n      FROM PLATFORM_BACKUP\n      WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n        AND status = 'SUCCESS'\n  )\nGROUP BY p.assetClass;",
 				"group":"PLATFORM"
@@ -1291,7 +1363,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_6bQvP",
-			"index":20,
+			"index":22,
 			"inputs":{
 				"output":{
 					"type":"array",
@@ -1358,7 +1430,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_TmODy",
-			"index":21,
+			"index":23,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1414,7 +1486,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@3",
 			"id":"n_74ios",
-			"index":22,
+			"index":24,
 			"inputs":{
 				"repeatMode":"SINGLE",
 				"listSource":"{{ n_6bQvP.outputs.result }}",
@@ -1437,7 +1509,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_74ios@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l",
 			"id":"n_xsN2v",
-			"index":23,
+			"index":25,
 			"inputs":{
 				"repeatMode":"BATCH",
 				"listSource":"{{ n_74ios.outputs.item.assetIds }}",
@@ -1466,7 +1538,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_xsN2v@n_74ios@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l@l",
 			"id":"n_ekGHG",
-			"index":24,
+			"index":26,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1541,6 +1613,28 @@
 		},
 		{
 			"context":{
+				"appName":"delay",
+				"resourceVersion":63,
+				"resourceName":"delay_for",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"n_xsN2v@n_74ios@n_Qo9xp@n_j6yVt@_wmkeO-1@y@3@l@l",
+			"id":"n_0Jkw4",
+			"index":27,
+			"inputs":{
+				"duration":20,
+				"unit":"SECONDS"
+			},
+			"skip":false,
+			"subTitle":"Delay",
+			"title":"Set delay duration",
+			"type":"DELAY"
+		},
+		{
+			"context":{
 				"appName":"branch_condition",
 				"resourceVersion":0,
 				"resourceName":"branch_condition",
@@ -1551,7 +1645,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_Qo9xp@4",
-			"index":25,
+			"index":28,
 			"inputs":{
 				"name":"Recently Failed",
 				"conditions":{
@@ -1583,7 +1677,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_ptIzG",
-			"index":26,
+			"index":29,
 			"inputs":{
 				"query":"SELECT\n    p.assetClass AS assetClzName,\n    ARRAY_AGG(p.assetId) AS assetIds\nFROM PLATFORM_BACKUP p\nINNER JOIN (\n    SELECT\n        assetId,\n        MAX(lastSyncTime) AS maxSyncTime\n    FROM PLATFORM_BACKUP\n    WHERE configId = '{{ n_naS3o.outputs.ConfigId }}'\n    GROUP BY assetId\n) latest\n    ON p.assetId = latest.assetId\n   AND p.lastSyncTime = latest.maxSyncTime\nWHERE p.configId = '{{ n_naS3o.outputs.ConfigId }}'\n  AND p.status = 'FAILED'\nGROUP BY p.assetClass;",
 				"group":"PLATFORM"
@@ -1613,7 +1707,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_kXJEd",
-			"index":27,
+			"index":30,
 			"inputs":{
 				"output":{
 					"type":"array",
@@ -1680,7 +1774,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_47ZXS",
-			"index":28,
+			"index":31,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1736,7 +1830,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_Qo9xp@n_j6yVt@_wmkeO-1@y@4",
 			"id":"n_wy5CO",
-			"index":29,
+			"index":32,
 			"inputs":{
 				"repeatMode":"SINGLE",
 				"listSource":"{{ n_kXJEd.outputs.result }}",
@@ -1759,7 +1853,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_wy5CO@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l",
 			"id":"n_OLXjH",
-			"index":30,
+			"index":33,
 			"inputs":{
 				"repeatMode":"BATCH",
 				"listSource":"{{ n_wy5CO.outputs.item.assetIds }}",
@@ -1788,7 +1882,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_OLXjH@n_wy5CO@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l@l",
 			"id":"n_gbCr9",
-			"index":31,
+			"index":34,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1863,6 +1957,28 @@
 		},
 		{
 			"context":{
+				"appName":"delay",
+				"resourceVersion":63,
+				"resourceName":"delay_for",
+				"type":"APPLICATION"
+			},
+			"debug":false,
+			"dirty":true,
+			"fallbackMode":"STOP",
+			"groupId":"n_OLXjH@n_wy5CO@n_Qo9xp@n_j6yVt@_wmkeO-1@y@4@l@l",
+			"id":"n_RAIBn",
+			"index":35,
+			"inputs":{
+				"duration":20,
+				"unit":"SECONDS"
+			},
+			"skip":false,
+			"subTitle":"Delay",
+			"title":"Set delay duration",
+			"type":"DELAY"
+		},
+		{
+			"context":{
 				"appName":"custom_http_endpoint",
 				"resourceVersion":2366,
 				"resourceName":"custom_http_endpoint_execute",
@@ -1873,7 +1989,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_j6yVt@_wmkeO-1@n",
 			"id":"n_msoNF",
-			"index":32,
+			"index":36,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -1929,7 +2045,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_j6yVt@_wmkeO-1@n",
 			"id":"n_FObfM",
-			"index":33,
+			"index":37,
 			"inputs":{
 				"isAsync":false,
 				"enableProxy":false,
@@ -2016,7 +2132,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"n_j6yVt@_wmkeO-1@n",
 			"id":"n_DnKVY",
-			"index":34,
+			"index":38,
 			"inputs":{
 				"result":{
 					"result":"done"
@@ -2039,7 +2155,7 @@
 			"fallbackMode":"STOP",
 			"groupId":"_wmkeO-1",
 			"id":"n_TpViB",
-			"index":35,
+			"index":39,
 			"inputs":{
 				"result":{
 					"result":"done"
@@ -2068,5 +2184,5 @@
 	"tags":[
 		"Backup Manager"
 	],
-	"version":69
+	"version":70
 }
