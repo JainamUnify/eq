@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68577d415a5af72cdbe232ad",
+	"createdTime":1750564166338,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"arkipu7/aok5jfh",
+	"id":"68577d46cff592174cb890d2",
+	"lastModifiedBy":39,
+	"lcName":"endpoint_envheaders_117505638053820",
+	"modifiedTime":1751895393187,
+	"name":"endpoint_envHeaders_117505638053820",
+	"ownerUserId":39,
+	"path":"aok5jfh",
+	"resourceIds":[
+		"68577d37c3fdeb003ca05fab"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
