@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1732001159203,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/673c3d5ffa02071d82b89fcd",
+	"httpMethod":"ANY",
+	"id":"673c3d87f2d1320eb3d2de11",
+	"lastModifiedBy":-1,
+	"lcName":"dfgh automation web-hook",
+	"modifiedTime":1736235021429,
+	"name":"dfgh Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"673c3d5ffa02071d82b89fcd",
+	"resourceIds":[
+		"673c3d5ffa02071d82b89fcd"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":2
+}
