@@ -1,0 +1,39 @@
+{
+	"active":false,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"69dd1c5148cbcb7cd1e34963",
+	"createdTime":1776098397456,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"activityjoYtqBrYwO/PNROYx",
+	"id":"69dd1c5d48cbcb7cd1e34974",
+	"lastModifiedBy":39,
+	"lcName":"rbacuatshare client endpoint3451126832",
+	"modifiedTime":1776098397456,
+	"name":"rbacUATshare client endpoint3451126832",
+	"ownerUserId":39,
+	"path":"PNROYx",
+	"resourceIds":[
+		"69dd1c347b4a9f6961f8a4b4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
