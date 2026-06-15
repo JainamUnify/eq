@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6828236ea968493f5cbb5d2d",
+	"createdTime":1747460983853,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"asuwd9b/azpy1y",
+	"httpMethod":"POST",
+	"id":"68282377d3bcbf7dc7e6d656",
+	"lastModifiedBy":39,
+	"lcName":"endpoint1_insideproject-noauth - 11747460418113",
+	"modifiedTime":1747461051161,
+	"name":"endpoint1_insideProject-noAuth - 11747460418113",
+	"ownerUserId":39,
+	"path":"azpy1y",
+	"projectId":5,
+	"resourceIds":[
+		"6828235a6c1bdf55f86be27a"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
