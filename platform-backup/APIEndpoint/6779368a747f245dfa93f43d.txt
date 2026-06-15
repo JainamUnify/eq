@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6779367d747f245dfa93f43c",
+	"createdTime":1735997066811,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"a9mwiz7/ayk9vod?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6779368a747f245dfa93f43d",
+	"lastModifiedBy":39,
+	"lcName":"endpoint - webhook -  117359929455960",
+	"modifiedTime":1735997066811,
+	"name":"endpoint - Webhook -  117359929455960",
+	"ownerUserId":39,
+	"path":"ayk9vod",
+	"resourceIds":[
+		"67793669b397f41d8387e380"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
