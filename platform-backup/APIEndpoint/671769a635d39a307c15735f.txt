@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6716f68e35d39a307c15731a",
+	"createdTime":1729587622351,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointType":"REST",
+	"endpointUrl":"eubroxcrpz/checkoct",
+	"httpMethod":"GET",
+	"id":"671769a635d39a307c15735f",
+	"lastModifiedBy":39,
+	"lcName":"checkoct",
+	"modifiedTime":1729587624021,
+	"name":"checkoct",
+	"ownerUserId":39,
+	"path":"checkoct",
+	"resourceIds":[
+		"671768f1324f5b50865ae040"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
