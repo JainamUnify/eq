@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"664af325ae7ee74f1914299e",
+	"createdTime":1737959206642,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/679726e3d8ea152949bbae13",
+	"httpMethod":"ANY",
+	"id":"67972726db881877e1d64c3f",
+	"lastModifiedBy":-1,
+	"lcName":"newworkflow automation web-hook",
+	"modifiedTime":1737970157765,
+	"name":"newworkflow Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"679726e3d8ea152949bbae13",
+	"resourceIds":[
+		"679726e3d8ea152949bbae13"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
