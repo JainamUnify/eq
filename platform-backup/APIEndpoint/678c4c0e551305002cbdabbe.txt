@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678c4c0a4da4987e49c6e7ca",
+	"createdTime":1737247758708,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"twcvnjxunx/DdAMOLTePL?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"678c4c0e551305002cbdabbe",
+	"lastModifiedBy":39,
+	"lcName":"taupashwdezofuyrstro",
+	"modifiedTime":1737247759383,
+	"name":"TaUpaSHwdeZofuyRstRo",
+	"ownerUserId":39,
+	"path":"DdAMOLTePL",
+	"resourceIds":[
+		"6672bbd0f3e9db349a68f66f"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
